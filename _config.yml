@@ -1,5 +1,5 @@
 # Book settings
-title: Physics 111 
+title: COSC 123
 author: Firas Moosvi
 logo: images/logo.jpg
 copyright: ""
@@ -15,12 +15,12 @@ html:
   use_issues_button: true
   use_edit_page_button: true
   navbar_number_sections : false
-  baseurl : "https://firasm.github.io/jupyterbook_course_template/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
-  # google_analytics_id: UA-11111111 # add your Google Analytics Tracking Code
+  baseurl : "https://firas.moosvi.com/courses/cosc123"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  google_analytics_id: UA-168693744-4 # add your Google Analytics Tracking Code
   comments:
     hypothesis: true
     utterances:
-      repo: "firasm/jupyterbook_course_template"
+      repo: "ubco-cmps/cosc123_course"
   extra_footer : |
       <div>
       <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"></a>
@@ -33,7 +33,7 @@ launch_buttons:
   thebe              : true
 
 repository: 
-  url          : https://github.com/firasm/jupyterbook_course_template
+  url          : https://github.com/ubco-cmps/cosc123_course
   path_to_book : ""
   branch       : master
 
@@ -41,3 +41,6 @@ sphinx:
   config:
     html_show_copyright: false
     html_extra_path: ['files']
+
+parse:
+  myst_extended_syntax: true
