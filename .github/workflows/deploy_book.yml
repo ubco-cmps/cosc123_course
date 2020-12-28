@@ -1,4 +1,3 @@
-
 name: deploy-book
 
 # Only run this when the master branch changes
@@ -6,12 +5,6 @@ on:
   push:
     branches:
     - master
-    # If your git repository has the Jupyter Book within some-subfolder next to
-    # unrelated files, you can make this run only if a file within that specific
-    # folder has been modified.
-    #
-    # paths:
-    # - some-subfolder/**
 
 # This job installs dependencies, build the book, and pushes it to `gh-pages`
 jobs:
@@ -33,9 +26,21 @@ jobs:
     - name: Build the book
       run: |
         jupyter-book build .
-    # Push the book's HTML to github-pages
-    - name: GitHub Pages action
-      uses: peaceiris/actions-gh-pages@v3.6.1
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_build/html
+        
+    # Push to server
+    - name: rsync and ssh
+      env:
+        REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+        REMOTE_USER: ${{ secrets.REMOTE_USER }}
+        REMOTE_KEY: ${{ secrets.SERVER_SSH_KEY }}
+        REMOTE_DIR: ${{ secrets.REMOTE_TARGET }}
+        LOCAL_DIR: "_build/html/"
+        COURSE_NAME: "cosc123"
+      run: |
+        mkdir ~/.ssh
+        echo "$REMOTE_KEY" > ~/.ssh/id_rsa
+        ssh-keyscan -H $REMOTE_HOST >> ~/.ssh/known_hosts
+        chmod 600 ~/.ssh/id_rsa
+        pwd
+        ls -la
+        rsync -avzr --delete $LOCAL_DIR $REMOTE_USER@$REMOTE_HOST:$REMOTE_DIR/$COURSE_NAME
