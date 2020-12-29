@@ -41,6 +41,23 @@ sphinx:
   config:
     html_show_copyright: false
     html_extra_path: ['files']
+    myst_enable_extensions: 
+    - amsmath
+    - colon_fence
+    - deflist
+    - dollarmath
+    - html_image
+    - linkify
+    - replacements
+    - smartquotes
+    - substitution
+
+    myst_substitutions:
+      COURSE_CODE: COSC123
+      EDD_JOIN_CODE: XXXXX
+      CANVAS_ID: 63995
+      TERM: 2020 Winter Term 2
 
 parse:
   myst_extended_syntax: true
+

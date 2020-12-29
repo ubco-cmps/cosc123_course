@@ -1,3 +1,5 @@
 jupyter-book
 matplotlib
 numpy
+linkify-it-py
+myst-parser>0.13
