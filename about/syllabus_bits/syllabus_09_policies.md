@@ -65,7 +65,7 @@ You will find all the important term dates in the [UBCO Academic Calendar](https
 
 ### Tentative Schedule
 
-The tentative course schedule can be found [here](about/syllabus_bits/course_schedule).
+The tentative course schedule can be found [here](about/course_schedule).
 
 ## Student Service Resources
 

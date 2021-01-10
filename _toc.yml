@@ -1,9 +1,9 @@
 - file: about/syllabus
 
-- part: About this course
-  chapters:
-    - file: about/course_schedule
-    - file: class/week02/videos
+#- part: About this course
+#  chapters:
+#    - file: about/course_schedule
+#    - file: class/week02/videos
 
 #     - file: about/accommodations
 #     - file: about/doing_well

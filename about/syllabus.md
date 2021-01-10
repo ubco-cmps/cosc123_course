@@ -46,26 +46,3 @@ This course website is currently under construction. It will continue to be upda
 
 ```{include} syllabus_bits/syllabus_10_references.md
 ```
-
-<!---
-## TODO for using the template
-
-- Replace name of the course, F&R PHYS 111 to CRSE XXX.
-- Add links to Canvas page; F&R COURSEID to 5 digit Canvas ID.
-    - e.g., https://canvas.ubc.ca/courses/63995/announcements; 63995 will be COURSEID.
-
-- Update "Ed Discussion link"; F&R JOIN_CODE
-    - e.g., https://us.edstem.org/join/JOIN_CODE
-- Change calendar description of course.
-- Update Withdrawal dates.
-- Update "How do I contact the teaching team?"
-- Update "How will I be evaluated in this course?"
-- Update "How will this course be taught?"
-- Update "How do I do well in this course?"
-- Update "Final Examinations" section with the dates
-    - e.g., F&R "Winter 2020 Term 2" with the right term and dates
-- Update "Attribution"
-- Update the feedback page with the link for this course
-- Remove this TODO list
-
--->
