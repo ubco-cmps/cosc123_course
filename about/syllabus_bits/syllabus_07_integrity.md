@@ -1,3 +1,5 @@
+## Academic Integrity
+
 ### How do I go through this course with integrity?
 
 I want to be proud of your work in this course, and I want YOU to be proud of yourself as well!

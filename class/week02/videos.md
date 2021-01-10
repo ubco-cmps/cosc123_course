@@ -7,7 +7,7 @@ The videos are collapsible so once you're done with one, you can move to the nex
 :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/uTQ4_AOae1g" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=QJfY3Z5d9" frameborder="0" scrolling="no" seamless="yes" style="overflow: hidden;" allowfullscreen=""></iframe>
 </div>
 
 - [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0007_lecture_notes_-_displacement_versus_distance.pdf)

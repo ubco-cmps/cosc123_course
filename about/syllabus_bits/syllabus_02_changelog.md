@@ -1,4 +1,6 @@
-## Is this syllabus a contract? 
+## What is a syllabus?
+
+### Is this syllabus a contract? 
 
 Rather than interpreting this syllabus as a legal document that serves as a contract between the instructor and the students, I prefer to view the syllabus as a *living document*.
 Dr. John Warmer describes this best [in his article, "A syllabus is not a contract"](https://www.insidehighered.com/blogs/just-visiting/syllabus-not-contract):
@@ -19,9 +21,11 @@ I invite you to be co-contributors to this syllabus, and use the tools provided 
 ```{important} Please note that I have your best interests in mind, and it is highly unlikely that I will ever change a syllabus in a way that negatively affects the class, or even individual students. If you believe a syllabus change is affecting you negatively, please do not hesitate to reach out to me, or [submit your feedback anonymously here](https://ubc.ca1.qualtrics.com/jfe/form/SV_6FhZZZAe9WoKdnv).
 ```
 
-## Changes to the syllabus since the start of Term
+### Changes since the start of Term
 
-Any major changes to the syllabus (this page) will be documented here as well as the date the change was made. 
+We will do our best to follow the syllabus, but in case things go south, I will need to make adjustments to the contents and the schedule.
+
+Any major changes to the syllabus (this page) will be documented here, as well as the date the change was made. 
 
 | Change Date | Summary | Rationale |
 |-------------|---------|-----------|

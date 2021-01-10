@@ -1,10 +1,12 @@
+## Course Accommodations
+
 ### What if I miss labs, tests, or the exam due to an illness, health, or other personal situations?
 
 Students who, because of unforeseen events, are absent during the term and are unable to complete tests or other graded work, should normally discuss with their instructors how they can make up for missed work.
 If ill health is an issue, students are encouraged to seek attention from a health professional.
 Campus Health and Counselling will normally provide documentation only to students who have been seen previously at these offices for treatment or counselling specific to conditions associated with their academic difficulties. 
-Students who feel that requests for consideration have not been dealt with fairly by their instructors may take their concerns first to the Head of the Department, and if not resolved, to the Office of the Dean (Email: fos.students.ubco@ubc.ca). 
-Further information can be found at the [UBCO Calendar](https://www.calendar.ubc.ca/okanagan/index.cfm?tree=3,48,0,0). 
+Students who feel that requests for consideration have not been dealt with fairly by their instructors may take their concerns first to the Head of the Department, and if not resolved, to the Office of the Dean (Email: [fos.students.ubco@ubc.ca](mailto:fos.students.ubco@ubc.ca)). 
+Further information can be found at the [UBCO Calendar](http://www.calendar.ubc.ca/okanagan/index.cfm?tree=3,48,0,0). 
 
 ```{tip}
 If you miss a course component due to an illness, health, or other personal situation, please reach out to me as soon as you are comfortable, and I'll work with you to get you back on track.
@@ -51,3 +53,22 @@ You will *never* owe me an explanation about your physical health, mental health
 I will not judge you, nor think any less of you.
 I will do everything in my power to work out something that is both reasonable and fair. 
 This, I promise!
+
+### What should I think about if I'm considering withdrawing from the course?
+
+First of all, I'm sorry you're having trouble and are considering withdrawing from the course!
+This is no problem, and I will not be personally offended or upset you need to do this, I encourage you to do what you feel is right for you and your situation. 
+Below is some information that might be helpful for you in making the decision.
+
+```{warning} Please note that it is the student's responsibility to check the withdrawal dates as [listed in the UBC Calendar](http://www.calendar.ubc.ca/okanagan/index.cfm?go=deadlines).
+```
+| Withdrawal type                   | Effect on Transcript | Tuition refund                                                                                     |
+|-----------------------------------|----------------------|----------------------------------------------------------------------------------------------------|
+| Before {{ W_DATE_1 }} | None                 | 100% refund                                                                                        |
+| Before {{ W_DATE_2 }}   | W on transcript      | [See UBCO Calendar](https://students.ok.ubc.ca/courses-money-enrolment/finances/tuition-and-fees/) |
+| After {{ W_DATE_3 }} ^  | W on transcript      | [See UBCO Calendar](https://students.ok.ubc.ca/courses-money-enrolment/finances/tuition-and-fees/) |
+
+^ Note: Withdrawal after this date cannot happen without approval from the Faculty (Email: fos.students.ubco@ubc.ca).
+
+There are factors other than money and your transcript to consider as well, including your mental health, graduation requirements/timelines, eligibility for student loans, bursaries, scholarships etc.
+I advise you to [read the full list of considerations](https://students.ok.ubc.ca/courses-money-enrolment/registration/late-course-changes/) here and consult with an Academic Advisor or your Program Advisor if you have additional questions.

@@ -1,4 +1,4 @@
-## References
+## Acknowledgements
 
 The syllabus was constructed and adapted from many other templates and examples.
 Below is the list of resources I have used to put this syllabus together:
@@ -10,7 +10,7 @@ Below is the list of resources I have used to put this syllabus together:
 - [Header image -  Photo by Pixabay from Pexels](https://www.pexels.com/photo/code-coding-computer-cyberspace-270373/)
 - [Course Logo - Photo by Rakicevic Nenad from Pexels](https://www.pexels.com/photo/silhouette-of-person-holding-glass-mason-jar-1274260/)
 
-## Bibliography
+## References
 
 ```{bibliography} citations.bib
 :style: unsrt

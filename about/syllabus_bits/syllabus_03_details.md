@@ -1,15 +1,4 @@
-## About this Course
-
-### A message from your instructor
-
-Closer to the start of the term, I will update the video below with an actual message to the students :-).
-Until then, enjoy being [Rick-Rolled](https://www.dictionary.com/e/slang/rickrolling/).
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-    <iframe src="https://player.vimeo.com/video/148751763" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
-
-<div class="page_break"> </div>
+## About {{ COURSE_CODE }}
 
 ### Why should I take this course?
 
@@ -36,20 +25,20 @@ Number one reason thing to take away from this is...
 
 The grading scheme for this course is here:
 
-| Item                  | Weight         | Due date(s) |
-|-----------------------|----------------|-------------|
-| Learning Logs         | 10% (10 x 1%)  | TBD         |
-| Homework Assignments  | 20% (10 x 2%)  | TBD         |
-| Labs                  | 20% (8 x 2.5%) | TBD         |
-| Tests (& Bonus Tests) | 30% (5 x 6%)   | TBD         |
-| Final Exam            | 20%            | TBD         |
+| Item                  | Weight          | Due date(s) |
+|-----------------------|-----------------|-------------|
+| Homework Assignments  | 25% (10 x 2.5%) | TBD         |
+| Labs                  | 25% (10 x 2.5%) | TBD         |
+| Tests (& Bonus Tests) | 25% (5 x 5%)    | TBD         |
+| Learning Logs         | 5% (10 x 0.5%)  | TBD         |
+| Final Exam            | 20%             | TBD         |
 
 There will be 5 tests in this course in an (approximately) bi-weekly schedule.
 For each of the tests, there will be a bonus test exactly one week later and the better score of the Test-Bonus Test pair will be taken.
 
 ```{attention} 
 All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.
-Any submissions submitted past the grace period will not be graded.
+Any submissions submitted past the grace period will not be graded (with some exceptions).
 ```
 
 ### What are the passing requirements for this course?
@@ -71,6 +60,8 @@ If students do not satisfy the appropriate requirements, the student will be ass
 
 ```{tip}
 The full course schedule is available here: {ref}`page_Course_Schedule`
+
+and [here](./course_schedule.md)
 ```
 ### What do I need to purchase for this course?
 
