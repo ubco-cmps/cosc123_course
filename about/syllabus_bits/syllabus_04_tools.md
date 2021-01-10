@@ -20,13 +20,45 @@ Even though the tools above are required for this course, if you have a moral or
 
 This term we will be using {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} for class discussion.
 The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself.
-Please do NOT email questions to the instructor and TAs unless it is a legitimate emergency (or if you cannot access Ed Discussion).
+I will do a demo of {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} in the first class and part of your first assignment will be on there.
+
+For this course, you will need to create an account on {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }}.
+
+```{figure} ../images/EdDiscussion.png
+---
+width: 750px
+name: EdDiscussion
+---
+Sign up for an Ed Discussion account for Q&A in this course.
+```
+
 
 ```{warning}
 The Ed Discussion tool is stored on servers outside Canada. When you access this site by clicking on the link through Canvas, you are being transferred to these servers. In order to protect your identity, UBC obfuscates your user ID before it is sent to the site. However, Ed Discussion does require you to create an account on their servers. While Ed Discussion adheres to strict U.S. privacy regulations (FERPA), UBC cannot guarantee security of your private details on servers outside of Canada. Please exercise caution whenever using personal information. You may wish to use a pseudonym to protect your privacy if you have concerns.
 ```
 
-Sign up for {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} using our unique course link.
+Please do NOT email questions to the instructor and TAs unless it is a legitimate emergency (or if you cannot access {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }}).
+
+### Sign up for a (free) GitHub account [Required]
+
+This term we will be using GitHub Classroom for your labs and assignments.
+If you do not already have a GitHub.com account, you will need to create one for this course. 
+"Git" is a free and open source distributed version control system; most, if not all software developers use a version control system and Git is by far the most popular one. 
+GitHub.com is a website (previously independent, now owned by Microsoft) that provides many convenient features that make using Git easier. 
+For this course, you will need to create an account.
+
+```{figure} ../images/github.png
+---
+width: 750px
+name: github
+---
+Sign up for GitHub.com and take note of your username. You will need to submit your GitHub.com username to us (details TBD) so we can link your assignments/labs to Canvas.
+```
+
+```{warning}
+GitHub.com is a website service whose data is stored on servers outside Canada. GitHub requires you to create an account on their servers and agree to their terms of service. UBC cannot guarantee security of your private details on servers outside of Canada, so you should take care not to put any private, sensitive, or personal information on GitHub. You may also wish to use a pseudonym and/or throw-away email address to protect your privacy if you have concerns. In general, you should exercise caution whenever you share your personal information on the internet.
+```
+
 
 <!-- ### Optional Tools
 
