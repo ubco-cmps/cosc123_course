@@ -5,6 +5,8 @@ Course Schedule
 This is the tentative plan for {{ COURSE_CODE }} this term.
 Things may change depending on many factors so this is subject to change.
 
+Course schedule coming soon...
+<!-- 
 | Wk | Date | Topic                                         | Homework   | Lab   | Logs | Test / Bonus Test              |
 |----|----------|-----------------------------------------------|------------|-------|--------------|--------------------------------|
 | 0  | Jan 11   | About this course                             | Diagnostic | Lab X | LL X         | Test 0: Course policies        |
@@ -19,4 +21,4 @@ Things may change depending on many factors so this is subject to change.
 | 9  | Mar 15   | Chapter 9: Work and Kinetic Energy            | HW X       | Lab X | LL X         | Test 4: Chapters 8 & 9         |
 | 10 | Mar 22   | Chapter 10: Interactions and Potential Energy | HW X       | Lab X | LL X         | Bonus Test 4                   |
 | 11 | Mar 29   | Chapter 11: Impulse and momentum              | HW X       | Lab X | LL X         | Test 5: Chapters 10 & 11       |
-| 12 | Apr 5    | Review and recap                              | Practice   | Lab X | LL X         | Diagnostic (Post) Bonus Test 5 |
+| 12 | Apr 5    | Review and recap                              | Practice   | Lab X | LL X         | Diagnostic (Post) Bonus Test 5 | -->

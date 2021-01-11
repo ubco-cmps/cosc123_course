@@ -1,50 +1,25 @@
 - file: about/syllabus
 
-#- part: About this course
-#  chapters:
-#    - file: about/course_schedule
-#    - file: class/week02/videos
+- part: Important Links
+  chapters:
+    - file: about/syllabus2
+      title: Course Syllabus
+    - file: about/course_schedule
+      title: Course Schedule
+    - url: https://us.edstem.org/8hqvVzxx
+      title: Ed Discussion
 
-#     - file: about/accommodations
-#     - file: about/doing_well
-#     - file: about/faq
-
-# # This is the demo section to show some of the Jupyter Book functionality
-
-# - part: Demo section
-#   chapters:
-#     - file: class/demo01/demo01_summary
-#       title: Demo 1 - Data Science
-#       sections:
-#         - file: class/demo01/lecture1
-#         - file: class/demo01/lecture2
-#         - file: class/demo01/lecture3
-#     - file: class/demo02/demo02_summary
-#       title: Demo 2 - Introductory Physics
-#       sections:
-#         - file: class/demo02/videos
-#         - file: class/demo02/homework
-#         - file: class/demo02/readings
-#         - file: class/demo02/lab
-#         - file: class/demo02/learninglogs
-#         - file: class/demo02/test
-#     - file: class/demo03/demo03_summary
-#       title: Demo 3 - Shakespeare
-#     - file: class/demo04/demo04_summary
-#       title: Demo 4 - Chemistry
-#     - url: https://firas.moosvi.com/books/active-learning-technologies/jupyterdays/capacitor_talk/Capacitor.html
-#       title: Capacitor Lecture
-
-# # This is an actual course that was run on Jupyter Book in 2020 Winter Term 1 at UBC Okanagan.
-# # If interested in the PDF slides that are embedded, copy the files folder from here: https://github.com/ubco-cmps/physics111_course/tree/master/files
-# # Here is an example: https://firas.moosvi.com/courses/physics111/class/week12/lecture.html
-
-# - part: Part 1 - Kinematics
-#   chapters:
-#     - file: class/week01/week01_summary
-#       title: Week 1 - Introductions!
-#     - file: class/week02/week02_summary
-#       title: Week 2 - Chapter 2
+- part: Part 1 - New Beginnings
+  chapters:
+    - file: class/week00/week00_summary
+      title: Week 0 - Getting Started
+    #     sections:
+    #       - file: class/week00/macos.md
+    #         title: macOS Install Instructions
+    #       - file: class/week00/windows.md
+    #         title: Windows Install Instructions
+    # - file: class/week01/week01_summary
+    #   title: Week 1 - Introductions!
 #       sections:
 #         - file: class/week02/readings
 #         - file: class/week02/videos
@@ -172,7 +147,7 @@
 #     - file: class/labs
 #       title: Lab Stuff
 
-# - part: Course Feedback
-#   chapters:
-#     - file: about/feedback
-#       title: Anonymous Feedback Form
+- part: Course Feedback
+  chapters:
+    - file: about/feedback
+      title: Anonymous Feedback Form
