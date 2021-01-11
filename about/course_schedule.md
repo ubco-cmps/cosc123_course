@@ -6,6 +6,9 @@ This is the tentative plan for {{ COURSE_CODE }} this term.
 Things may change depending on many factors so this is subject to change.
 
 Course schedule coming soon...
+
+P.S. Labs will start next week!
+
 <!-- 
 | Wk | Date | Topic                                         | Homework   | Lab   | Logs | Test / Bonus Test              |
 |----|----------|-----------------------------------------------|------------|-------|--------------|--------------------------------|

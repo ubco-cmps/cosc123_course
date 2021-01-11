@@ -27,7 +27,7 @@ In particular, I hope (and expect) that the following features of the course sho
 - Each test has a "bonus test" available one week later; for each test, we will take the better score of the pair.
 - No high-stakes exams (the single largest assessment item is the final exam).
 - All course assessments are completely open book and open notes. 
-- Plenty of TA and instructor office hours and several outside of normal business hours.
+- Plenty of TA and instructor office hours and several outside of class time.
 - Class website that outlines exactly what you should do when to help you manage your time.
 - Tonnes of supplemental materials including other instructional videos in case you want a different perspective.
 - Weekly prompt to accept the integrity pledge to keep you accountable.

@@ -6,8 +6,10 @@ In this course, we will be using the following required learning technologies (p
 
 - [Canvas](https://faculty.canvas.ubc.ca/canvas-privacy/)
 - [Ed Discussion](https://edstem.org/privacy)
-- [Sli.do](https://www.sli.do/terms#privacy-policy)
-- [Mastering Physics](https://www.pearson.com/en-us/legal-information/privacy-policy.html)
+- [GitHub](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)
+
+<!-- - [Sli.do](https://www.sli.do/terms#privacy-policy)
+- [Mastering Physics](https://www.pearson.com/en-us/legal-information/privacy-policy.html) -->
 
 All tools used in the course will be used in a [FIPPA-compliant](https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/access-to-information/about-fippa/) manner, with your privacy top of mind. 
 New tools may be added to the course as the need arises, and I will update this section with the appropriate information and make an announcement if a new tool is added midway through a course.
@@ -31,7 +33,6 @@ name: EdDiscussion
 ---
 Sign up for an Ed Discussion account for Q&A in this course.
 ```
-
 
 ```{warning}
 The Ed Discussion tool is stored on servers outside Canada. When you access this site by clicking on the link through Canvas, you are being transferred to these servers. In order to protect your identity, UBC obfuscates your user ID before it is sent to the site. However, Ed Discussion does require you to create an account on their servers. While Ed Discussion adheres to strict U.S. privacy regulations (FERPA), UBC cannot guarantee security of your private details on servers outside of Canada. Please exercise caution whenever using personal information. You may wish to use a pseudonym to protect your privacy if you have concerns.

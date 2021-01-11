@@ -15,7 +15,7 @@ This is the official syllabus and course outline for {{ COURSE_CODE }}.
 ```{include} syllabus_bits/syllabus_02_changelog.md
 ```
 
-<!-- ```{include} syllabus_bits/syllabus_03_details.md
+```{include} syllabus_bits/syllabus_03_details.md
 ```
 
 ```{include} syllabus_bits/syllabus_04_tools.md
@@ -37,7 +37,7 @@ This is the official syllabus and course outline for {{ COURSE_CODE }}.
 ```
 
 ```{include} syllabus_bits/syllabus_10_references.md
-``` -->
+```
 
 ```{figure} ../images/construction.jpeg
 ---
