@@ -60,7 +60,6 @@ Sign up for GitHub.com and take note of your username. You will need to submit y
 GitHub.com is a website service whose data is stored on servers outside Canada. GitHub requires you to create an account on their servers and agree to their terms of service. UBC cannot guarantee security of your private details on servers outside of Canada, so you should take care not to put any private, sensitive, or personal information on GitHub. You may also wish to use a pseudonym and/or throw-away email address to protect your privacy if you have concerns. In general, you should exercise caution whenever you share your personal information on the internet.
 ```
 
-
 <!-- ### Optional Tools
 
 There are some learning tools that I would like to experiment with this year, and I will not require you to sign up for these (but you are free to do so to explore):
