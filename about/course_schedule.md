@@ -5,23 +5,72 @@ Course Schedule
 This is the tentative plan for {{ COURSE_CODE }} this term.
 Things may change depending on many factors so this is subject to change.
 
-Course schedule coming soon...
+P.S. Labs start on January 18th
 
-P.S. Labs will start next week!
+| Wk | Date   | Topic                                                  | Activity | Lab    | Logs  | Test / Bonus Test        |
+|----|--------|--------------------------------------------------------|----------|--------|-------|--------------------------|
+| 0  | Jan 11 | About this course, and Processing                      | --       | --     | --    | --                       |
+| 1  | Jan 18 | Git, GitHub, and the Terminal and some Processing      | A1       | Lab 1  | LL 1  | Test 0 (course policies) |
+| 2  | Jan 25 | Starting with Pixels in Processing and the environment | A2       | Lab 2  | LL 2  | Test 1 (weeks 0-2)       |
+| 3  | Feb 1  | Interactions                                           | A3       | Lab 3  | LL 3  | Bonus Test 1             |
+| 4  | Feb 8  | Variables                                              | A4       | Lab 4  | LL 4  | Test 2 (weeks 3-4)       |
+| 5  | Feb 15 | Reading Week (no new material)                         | --       | --     | --    | --                       |
+| 6  | Feb 22 | Loops                                                  | A6       | Lab 6  | LL 6  | Bonus Test 2             |
+| 7  | Mar 1  | Functions                                              | A7       | Lab 7  | LL 7  | Test 3 (weeks 6-7)       |
+| 8  | Mar 8  | Object-oriented programming                            | A8       | Lab 8  | LL 8  | Bonus Test 3             |
+| 9  | Mar 15 | Arrays                                                 | A9       | Lab 9  | LL 9  | Test 4 (weeks 8-9)       |
+| 10 | Mar 22 | Images and Pixels                                      | A10      | Lab 10 | LL 10 | Bonus Test 4             |
+| 11 | Mar 29 | Videos                                                 | --       | --     | LL 11 | Test 5 (weeks 3-10)      |
+| 12 | Apr 5  | Text and Data, Review, and Recap                       | --       | --     | LL 12 | Bonus Test 5             |
+
+
 
 <!-- 
-| Wk | Date | Topic                                         | Homework   | Lab   | Logs | Test / Bonus Test              |
-|----|----------|-----------------------------------------------|------------|-------|--------------|--------------------------------|
-| 0  | Jan 11   | About this course                             | Diagnostic | Lab X | LL X         | Test 0: Course policies        |
-| 1  | Jan 18   | Chapter 2: Kinematics in 1 D                  | HW X       | Lab X | LL X         | Diagnostic (Pre)               |
-| 2  | Jan 25   | Chapter 3: Vectors and Coordinate Systems     | HW X       | Lab X | LL X         | Test 1: Chapters 2 & 3         |
-| 3  | Feb 1    | Chapter 4: Kinematics in 2D                   | HW X       | Lab X | LL X         | Bonus Test 1                   |
-| 4  | Feb 8    | Chapter 5: Force and Motion                   | HW X       | Lab X | LL X         | Test 2: Chapters 4 & 5         |
-| 5  | Feb 15   | Reading Week (no new material)                | -          | -     | -            | -                              |
-| 6  | Feb 22   | Chapter 6: Dynamics I: Motion along a line    | HW X       | Lab X | LL X         | Bonus Test 2                   |
-| 7  | Mar 1    | Chapter 7: Newton's third law                 | HW X       | Lab X | LL X         | Test 3: Chapters 6 & 7         |
-| 8  | Mar 8    | Chapter 8: Dynamics II: Motion in a Plane     | HW X       | Lab X | LL X         | Bonus Test 3                   |
-| 9  | Mar 15   | Chapter 9: Work and Kinetic Energy            | HW X       | Lab X | LL X         | Test 4: Chapters 8 & 9         |
-| 10 | Mar 22   | Chapter 10: Interactions and Potential Energy | HW X       | Lab X | LL X         | Bonus Test 4                   |
-| 11 | Mar 29   | Chapter 11: Impulse and momentum              | HW X       | Lab X | LL X         | Test 5: Chapters 10 & 11       |
-| 12 | Apr 5    | Review and recap                              | Practice   | Lab X | LL X         | Diagnostic (Post) Bonus Test 5 | -->
+00. Kinect and processing (Ignore)
+
+Test 1: Git and Command Line & Primitive Shapes in processing (Weeks 0-2)
+
+    - Git and GitHub (coding train videos)
+    - Command line ()
+    0. Intro to processing (7)
+    1. Pixels (1)
+    2. Processing environment (2)
+
+Test 2: Processing and Interactions (3-4)
+    3. Interactions (3)
+    4. Variables (4)
+
+Test 3: Loops, Functions, and Conditionals (5 + 7)
+
+    6. Loops (6)
+    7. Functions (4)
+
+Test 4: OOP and Arrays (8-9)
+
+    8. OOP (6)
+    9. Arrays (5)
+
+Test 5: Overview (9-10)
+
+    10. Images and Pixels (7)
+    11. Videos (10)
+    13. Text and Data 
+
+
+------ Previous structure
+1. Intro, Software Dev, Into ro processing (coordinates & shapes)
+2. Primitive shapes, debugging, text, color, active sketches, user interaction
+3. Active sketches, user interaction, coordinate transformation, variables and math A
+4. Variables and math B, C, and Practice
+5. Useful functions: map, norm, constrain, random, noise, images
+6. Midterm revision, midterm, review solutions
+7. Reading week off
+8. Conditionals
+9. Loops and functions
+10. Functions and OOP
+11. Midterm 2
+12. OOP
+13. Arrays, arrays of object, from processing to Java
+14. libraries, gaming techniques, custom shapes, math, data visualization, intro to 3d
+
+-->
