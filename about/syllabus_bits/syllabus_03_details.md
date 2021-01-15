@@ -17,16 +17,19 @@ I hope by taking this course your creative juices start flowing and you can see 
 
 The grading scheme for this course is here:
 
-| Item                  | Weight          | Due date(s) |
-|-----------------------|-----------------|-------------|
-| Homework Assignments  | 25% (10 x 2.5%) | TBD         |
-| Labs                  | 25% (10 x 2.5%) | TBD         |
-| Tests (& Bonus Tests) | 25% (5 x 5%)    | TBD         |
-| Learning Logs         | 5% (10 x 0.5%)  | TBD         |
-| Final Exam            | 20%             | TBD         |
+| Item                  | Weight          | Due date(s)                                     |
+|-----------------------|-----------------|-------------------------------------------------|
+| Labs                  | 25% (10 x 2.5%) | Tuesdays at 6 PM                                |
+| Activities            | 25% (10 x 2.5%) | Wednesdays at 6 PM                              |
+| Tests (& Bonus Tests) | 25% (5 x 5%)    | Thursday 6 PM - Saturday 6 PM (no grace period) |
+| Learning Logs         | 5% (10 x 0.5%)  | Fridays at 6 PM                                 |
+| Final Exam            | 20%             | TBD                                             |
+
 
 There will be 5 tests in this course in an (approximately) bi-weekly schedule.
 For each of the tests, there will be a bonus test exactly one week later and the better score of the Test-Bonus Test pair will be taken.
+
+There will be 12 learning logs to be submitted, and I will count 10 of them for grades.
 
 ```{attention} 
 All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.
