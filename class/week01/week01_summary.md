@@ -2,41 +2,37 @@
 Week 1
 =======================
 
-This week we will be doing course introductions, I will be showing you how to navigate the course website, and how the course is set up. 
-In terms of content, we will use this week to do a math diagnostic, get everyone access to the textbook and homework system, and understand the syllabus.
+## About this page
 
-## Course Introductions!
+Each week, on the "Week X Summary" page, you will find a list of things you have to do this week, and the suggested order. 
+Note that these are just SUGGESTIONS and you are by no means required to them this way. 
+Once you finish the task, check off the box so you can keep track of your progress (just a note, I will not know whether you click the checkboxes or not).
 
-Hello, my name is Firas Moosvi and I am your instructor for Physics 111! 
+## List of things to do this week
 
-## Navigating the course website
+<label><input type="checkbox" id="week01_task1" class="box"> [**Watch the lecture videos**](./videos.md)</input></label>
 
-Live demo...
+<label><input type="checkbox" id="week01_task2" class="box"> [**Skim the assigned readings**](./readings.md)</input></label>
 
-## Navigating Mastering Physics
+<label><input type="checkbox" id="week01_task3" class="box"> [**Attend the Lecture**](./lecture.md) </input></label>
 
-```{tip}
-I have added an assignment called "Introduction to Mastering Physics" to help familiarize you with the interface. It is due, but there are no marks associated with it.
-```
+<label><input type="checkbox" id="week01_task4" class="box"> [**Attend the lecture then complete the Lecture Activity**](./activity.md) </input></label>
 
-## Online polls using Sli.do
+<label><input type="checkbox" id="week01_task5" class="box"> [**Attend and Complete the lab**](./lab.md) </input></label>
 
-Event Code: Physics111
+<label><input type="checkbox" id="week01_task4" class="box"> [**Write Test 0 (60 mins)**](./test.md) </input></label>
 
-<iframe src="https://app.sli.do/event/lk89xpvr" width="500px" height="700px"></iframe>
+<label><input type="checkbox" id="week01_task6" class="box"> [**Complete your Learning Log assignment**](./learninglogs.md) </input></label>
 
-## Math Diagnostic
+## How to watch flipped lecture videos
 
-```{tip}
-I have added an assignment called "Introduction to Mastering Physics" to help familiarize you with the interface. It is due, but there are no marks associated with it.
-```
+You should plan on scheduling time to watch these lecture videos as they will be one of the major mediums through which new content will be communicated to you.
+In lecture we will practice some of the things mentioned in the videos (and to a lesser extent, the readings), but we won't be able to hit on everything.
 
-## Example videos you should expect to see starting next week
+Here is a nice video summarizing how to watch flipped lecture videos - the context is in the video is physics, but it is applicable to COSC courses as well.
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/yBMeYW8Nm_s" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/PPc8nY6Tcns" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/OoO5d5P0Jn4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Optional: [Showing the differences between a Traditional and a Flipped Classroom](https://www.youtube.com/watch?v=yzMFdDT6FSA).

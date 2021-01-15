@@ -41,13 +41,13 @@ If there is a lab and/or tutorial listed on the SSC for this course, You **must*
 - You are encouraged to post questions publicly whenever possible so others can benefit. For private and personal issues, you can send private messages on {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }}.
 - Any student may visit the office hour for any member of the teaching team (TA or instructor)! In other words, you can go to the office hour of ANY TA, not just the one whose lab/tutorial you are registered in. 
 
-| Team Member                               | Pronounce as     | Contact                                                  | Office Hour                 |
+| Team Member                               | Pronounce as     | Contact                                                  | Office Hour (on Collaborate Ultra) |
 |-------------------------------------------|------------------|----------------------------------------------------------|-----------------------------|
 | Dr. Firas Moosvi (he/his/him); Instructor | Fur-az Moose-vee | Contact via {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} | TBD                         |
-| Brenden                                   |                  | Contact via {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} | Wednesday 12-1 PM           |
-| Camila                                    |                  | Contact via {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} | Monday and Wednesday 8-9 AM |
-| Danielle                                  |                  | Contact via {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} | Thursday 12 - 1 PM          |
-| Tim                                       |                  | Contact via {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} | Friday 12-1 PM              |
+| Brenden                                   |                  | Contact via {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} | [Wednesday 12-1 PM](https://ca.bbcollab.com/guest/286c1e052d7649d4914d5488eaa200ab)           |
+| Camila                                    |                  | Contact via {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} | [Monday and Wednesday 8-9 AM](https://ca.bbcollab.com/guest/286c1e052d7649d4914d5488eaa200ab) |
+| Danielle                                  |                  | Contact via {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} | [Thursday 12 - 1 PM](https://ca.bbcollab.com/guest/286c1e052d7649d4914d5488eaa200ab)          |
+| Tim                                       |                  | Contact via {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} | [Friday 12-1 PM](https://ca.bbcollab.com/guest/286c1e052d7649d4914d5488eaa200ab)              |
 
 
 ### A message from your instructor

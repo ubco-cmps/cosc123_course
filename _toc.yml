@@ -142,10 +142,10 @@
 #   chapters:
 #     - file: class/final
 
-# - part: Lab Materials
-#   chapters:
-#     - file: class/labs
-#       title: Lab Stuff
+- part: Lab Materials
+  chapters:
+    - file: class/labs
+      title: Lab Stuff
 
 - part: Course Feedback
   chapters:

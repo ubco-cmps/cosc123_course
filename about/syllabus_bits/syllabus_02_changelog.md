@@ -27,6 +27,6 @@ We will do our best to follow the syllabus, but in case things go south, I will 
 
 Any major changes to the syllabus (this page) will be documented here, as well as the date the change was made. 
 
-| Change Date | Summary | Rationale |
-|-------------|---------|-----------|
-| TBD         | TBD     | TBD       |
+| Change Date  | Summary                                                                                                | Rationale |
+|--------------|--------------------------------------------------------------------------------------------------------|-----------|
+| Jan 15, 2021 | Added Course schedule, added office hours and TA name, clarified learning log and assessment deadlines | N/A       |
