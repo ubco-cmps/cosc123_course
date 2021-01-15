@@ -13,6 +13,8 @@
   chapters:
     - file: class/week00/week00_summary
       title: Week 0 - Getting Started
+    - file: class/week00/activity
+      title: Lecture 0 Activity
     #     sections:
     #       - file: class/week00/macos.md
     #         title: macOS Install Instructions
