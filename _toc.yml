@@ -21,8 +21,8 @@
         - file: class/week01/videos
         - file: class/week01/readings
         - file: class/week01/lecture
-        - file: class/week01/test
         - file: class/week01/lab
+        - file: class/week01/test
         - file: class/week01/learninglog
 
     #     sections:
