@@ -2,69 +2,117 @@
 
 Below are the assigned videos for this week. 
 The videos are collapsible so once you're done with one, you can move to the next one.
+In the sidebar on the right, you can use the checklists to keep track of what's done.
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading1" class="box"> **Introduction to Displacement and the Differences Between Displacement and Distance**</input></label></h4> 
-:open:
+````{margin}
+```{admonition} Checklist of items
+:class: tip
 
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=QJfY3Z5d9" frameborder="0" scrolling="no" seamless="yes" style="overflow: hidden;" allowfullscreen=""></iframe>
-</div>
+<input type="checkbox" id="week01_video1" class="box"><label>1.1: Introduction - Git and GitHub for Poets</input></label>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0007_lecture_notes_-_displacement_versus_distance.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/introduction-to-displacement.html)
+<input type="checkbox" id="week01_video2" class="box"><label>1.2: Branches - Git and GitHub for Poets</input></label>
 
-```
+<input type="checkbox" id="week01_video3" class="box"><label>1.3: Forks and Pull Requests </input></label>
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading2" class="box"> **Introduction to Velocity and Speed and the differences between the two** </input></label></h4>
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/I16utd8d6JM" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<input type="checkbox" id="week01_video4" class="box"><label>1.4: GitHub Issues</input></label>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0008_lecture_notes_-_introduction_to_velocity_and_speed.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/introduction-to-velocity-and-speed.html)
+<input type="checkbox" id="week01_video5" class="box"><label>1.5: Intro to the Command Line</input></label>
 
-```
+<input type="checkbox" id="week01_video6" class="box"><label>Absolute vs. Relative Paths</input></label>
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading3" class="box"> **Average Velocity Example Problem with Three Velocities** </input></label></h4>
+<input type="checkbox" id="week01_video7" class="box"><label>1.6: Cloning Repo and Push/Pull</input></label>
 
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/WpdYBnyZOm8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<input type="checkbox" id="week01_video8" class="box"><label>1.7: git init and git add</input></label>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0009_lecture_notes_-_average_velocity_example_problem_with_three_velocities.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/average-velocity-example-problem-with-three-velocities.html)
+<input type="checkbox" id="week01_video9" class="box"><label>1.9: Resolving Merge Conflicts</input></label>
 
 ```
+````
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading4" class="box"> **Example Problem: Velocity and Speed are Different** </input></label></h4>
+## Required Videos
 
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/8AWvUvHlpcQ" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0010_lecture_notes_-_example_problem_-_velocity_and_speed_are_different.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/example-problem-velocity-and-speed-are-different.html)
-
-```
-
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading5" class="box"> **Understanding and Walking Position as a function of Time Graphs**</input></label></h4>
+```{dropdown} 1.1: Introduction - Git and GitHub for Poets
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+    :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Mjnu5ePzXDM" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/BCQHnlnPusY" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0011_lecture_notes_-_understanding_walking_and_graphing_position_as_a_function_of_time.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/understanding-and-walking-graphs-of-position-as-a-function-of-time.html)
-
 ```
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading6" class="box"> **Example Problem: Finding Average Speed for Pole Position** </input></label></h4>
+```{dropdown} 1.2: Branches - Git and GitHub for Poets
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/n8mC8V0_Rbo" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/oPpnCh7InLY" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0012_lecture_notes_-_example_problem_-_finding_necessary_pole_position_speed.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/example-problem-finding-average-speed-for-pole-position-ndash-not-as-easy-as-you-think.html)
-
 ```
+
+```{dropdown} 1.3: Forks and Pull Requests 
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/_NrSWLQsDL4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 1.4: GitHub Issues
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/WMykv2ZMyEQ" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 1.5: Intro to the Command Line
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/oK8EvVeVltE" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} Absolute vs. Relative Paths
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/sqX6hu7oEew" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 1.6: Cloning Repo and Push/Pull
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+    
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/yXT1ElMEkW8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 1.7: git init and git add
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/9p2d-CuVlgc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 1.9: Resolving Merge Conflicts
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/JtIX3HJKwfo" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+## Optional Videos
+
+None this week.

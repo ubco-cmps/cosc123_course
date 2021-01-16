@@ -4,12 +4,12 @@
 
 This week is your first test - it is NOT for marks, but is not optional.
 It will cover the course policies and will be timed to give you practice on how the testing system works.
-This test will be open to you after the Week 2 lecture.
+This test will be open to you on Thursday at 6 PM and will remain open until Saturday at 6 PM.
 
 ++++ 
 
-```{link-button} https://canvas.ubc.ca/courses/63995/quizzes/256495
-:text: Test0 is available
+```{link-button} https://canvas.ubc.ca/courses/63995/assignments
+:text: Test0
 :type: url
 :classes: btn-outline-success btn-block stretched-link text-dark
 ```

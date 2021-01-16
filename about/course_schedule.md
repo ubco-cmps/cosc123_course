@@ -10,7 +10,7 @@ P.S. Labs start on January 18th.
 | Wk | Date   | Topic                                                  | Activity | Lab    | Logs  | Test / Bonus Test        |
 |----|--------|--------------------------------------------------------|----------|--------|-------|--------------------------|
 | 0  | Jan 11 | About this course, and Processing                      | --       | --     | --    | --                       |
-| 1  | Jan 18 | Git, GitHub, and the Terminal and some Processing      | A1       | Lab 1  | LL 1  | Test 0 (course policies) |
+| 1  | Jan 18 | Setting up (Git, GitHub, the Terminal and some Processing)      | A1       | Lab 1  | LL 1  | Test 0 (course policies) |
 | 2  | Jan 25 | Starting with Pixels in Processing and the environment | A2       | Lab 2  | LL 2  | Test 1 (weeks 0-2)       |
 | 3  | Feb 1  | Interactions                                           | A3       | Lab 3  | LL 3  | Bonus Test 1             |
 | 4  | Feb 8  | Variables                                              | A4       | Lab 4  | LL 4  | Test 2 (weeks 3-4)       |
@@ -20,7 +20,7 @@ P.S. Labs start on January 18th.
 | 8  | Mar 8  | Object-oriented programming                            | A8       | Lab 8  | LL 8  | Bonus Test 3             |
 | 9  | Mar 15 | Arrays                                                 | A9       | Lab 9  | LL 9  | Test 4 (weeks 8-9)       |
 | 10 | Mar 22 | Images and Pixels                                      | A10      | Lab 10 | LL 10 | Bonus Test 4             |
-| 11 | Mar 29 | Videos                                                 | --       | --     | LL 11 | Test 5 (weeks 3-10)      |
+| 11 | Mar 29 | Videos                                                 | A11      | Lab 11 | LL 11 | Test 5 (weeks 3-10)      |
 | 12 | Apr 5  | Text and Data, Review, and Recap                       | --       | --     | LL 12 | Bonus Test 5             |
 
 

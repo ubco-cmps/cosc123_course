@@ -2,69 +2,186 @@
 
 Below are the assigned videos for this week. 
 The videos are collapsible so once you're done with one, you can move to the next one.
+In the sidebar on the right, you can use the checklists to keep track of what's done.
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading1" class="box"> **Introduction to Displacement and the Differences Between Displacement and Distance**</input></label></h4> 
-:open:
+````{margin}
+```{admonition} Checklist of items
+:class: tip
+
+<input type="checkbox" id="week02_video1" class="box"><label>Video 1</input></label>
+
+<input type="checkbox" id="week02_video2" class="box"><label>Video 2</input></label>
+
+<input type="checkbox" id="week02_video3" class="box"><label>Video 3</input></label>
+
+<input type="checkbox" id="week02_video4" class="box"><label>Video 4</input></label>
+
+<input type="checkbox" id="week02_video5" class="box"><label>Video 5</input></label>
+
+<input type="checkbox" id="week02_video6" class="box"><label>Video 6</input></label>
+
+<input type="checkbox" id="week02_video7" class="box"><label>Video 7</input></label>
+
+<input type="checkbox" id="week02_video8" class="box"><label>Video 8</input></label>
+
+<input type="checkbox" id="week02_video9" class="box"><label>Video 9</input></label>
+
+<input type="checkbox" id="week02_video10" class="box"><label>Video 10</input></label>
+
+<input type="checkbox" id="week02_video11" class="box"><label>Video 11</input></label>
+
+<input type="checkbox" id="week02_video12" class="box"><label>Video 12</input></label>
+```
+````
+
+## Content Summary from Crash Course Physics
+
+```{dropdown} Work, Energy, and Power
+    :container: + shadow
+    :title: bg-success text-white font-weight-bold
+    :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=QJfY3Z5d9" frameborder="0" scrolling="no" seamless="yes" style="overflow: hidden;" allowfullscreen=""></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/w4QFJb9a8vo" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0007_lecture_notes_-_displacement_versus_distance.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/introduction-to-displacement.html)
-
 ```
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading2" class="box"> **Introduction to Velocity and Speed and the differences between the two** </input></label></h4>
+## Required Videos
+
+```{dropdown} 1. Introduction to Work with Examples
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+    :open:
+
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/I16utd8d6JM" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/0Oeywu5IR6s" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0008_lecture_notes_-_introduction_to_velocity_and_speed.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/introduction-to-velocity-and-speed.html)
-
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0134_lecture_notes_-_introduction_to_work_with_examples.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/work-intro.html)
 ```
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading3" class="box"> **Average Velocity Example Problem with Three Velocities** </input></label></h4>
+```{dropdown} 2. Introductory Work Problem
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/WpdYBnyZOm8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/e8ZwNtn4uLc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0009_lecture_notes_-_average_velocity_example_problem_with_three_velocities.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/average-velocity-example-problem-with-three-velocities.html)
-
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0137_lecture_notes_-_introductory_work_problem.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/work-problem.html)
 ```
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading4" class="box"> **Example Problem: Velocity and Speed are Different** </input></label></h4>
+```{dropdown} 3. Introduction to Kinetic Energy with Example Problem
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/8AWvUvHlpcQ" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/TcIMFGLqt44" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0010_lecture_notes_-_example_problem_-_velocity_and_speed_are_different.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/example-problem-velocity-and-speed-are-different.html)
-
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0138_lecture_notes_-_introduction_to_kinetic_energy_with_example_problem.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/intro-ke.html)
 ```
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading5" class="box"> **Understanding and Walking Position as a function of Time Graphs**</input></label></h4>
+```{dropdown} 4. Introduction to the Integral or Anti-Derivative for use in Work from a Non-Constant Force
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Mjnu5ePzXDM" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/X97-azGdDl8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0011_lecture_notes_-_understanding_walking_and_graphing_position_as_a_function_of_time.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/understanding-and-walking-graphs-of-position-as-a-function-of-time.html)
-
 ```
 
-```{dropdown} <h4 class="dropdown-margin"><label><input type="checkbox" id="week02_reading6" class="box"> **Example Problem: Finding Average Speed for Pole Position** </input></label></h4>
+```{dropdown} 5. Defining Work with the Dot Product and a Review of the Dot Product - Constant Force
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/n8mC8V0_Rbo" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/svtv13DeyYs" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 6. Hooke's Law Introduction - Force of a Spring
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+    
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/EbVeoJBjHTw" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0012_lecture_notes_-_example_problem_-_finding_necessary_pole_position_speed.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/example-problem-finding-average-speed-for-pole-position-ndash-not-as-easy-as-you-think.html)
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0248_lecture_notes_-_hookes_law_introduction_-_force_of_a_spring.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/hookes-law.html)
+```
 
+```{dropdown} 7. Determining the Spring Constant, k, with a Vertically Hanging Mass
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/flCA41BG7Do" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0249_lecture_notes_-_determining_the_spring_constant_k_with_a_vertically_hanging_mass.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/vertical-spring-constant.html)
+```
+
+```{dropdown} 8. The Human Spine acts like a Compression Spring
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/4d7dHY7RLjA" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0250_lecture_notes_-_the_human_spine_acts_like_a_compression_spring.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/horizontal-spring-constant.html)
+```
+
+```{dropdown} 9. Introduction to Mechanical Energy with Friction
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/d4a3BnOkFcs" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0145_lecture_notes_-_introduction_to_mechanical_energy_with_friction.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/intro-wf.html)
+```
+
+```{dropdown} 10. Introductory Work due to Friction equals Change in Mechanical Energy Problem
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/oPP83wQ8ZmU" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0148_lecture_notes_-_introductory_work_due_to_friction_equals_change_in_mechanical_energy_problem.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/intro-wf-problem.html)
+```
+
+```{dropdown} 11. Introduction to Power
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/BtHLmxvP7o0" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0162_lecture_notes_-_introduction_to_power.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/power.html)
+```
+
+```{dropdown} 12. Average and Instantaneous Power Example
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/c02hWCeSkAI" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0163_lecture_notes_-_average_and_instantaneous_power_example.pdf)
+- [Direct link to Mr. P's page](https://www.flippingphysics.com/power-example.html)
 ```

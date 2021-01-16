@@ -18,7 +18,6 @@ Hello students! Welcome to Week 2 - this week we will begin the physics part of 
 
 Optional: [Showing the differences between a Traditional and a Flipped Classroom](https://www.youtube.com/watch?v=yzMFdDT6FSA).
 
-
 ## List of things to do this week
 
 Below is a list of things you need to do this week, links to where you can do them, as well as roughly the order you should do it.

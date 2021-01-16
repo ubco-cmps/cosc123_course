@@ -6,15 +6,25 @@
       title: Course Syllabus
     - file: about/course_schedule
       title: Course Schedule
-    - url: https://us.edstem.org/8hqvVzxx
+    - url: https://edstem.org/us/join/7gqvVz
       title: Ed Discussion
 
 - part: Part 1 - New Beginnings
   chapters:
     - file: class/week00/week00_summary
       title: Week 0 - Getting Started
-    - file: class/week00/activity
-      title: Lecture 0 Activity
+      sections:
+        - file: class/week00/lecture
+    - file: class/week01/week01_summary
+      title: Week 1 - Setting up
+      sections:
+        - file: class/week01/videos
+        - file: class/week01/readings
+        - file: class/week01/lecture
+        - file: class/week01/test
+        - file: class/week01/lab
+        - file: class/week01/learninglog
+
     #     sections:
     #       - file: class/week00/macos.md
     #         title: macOS Install Instructions

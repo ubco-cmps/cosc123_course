@@ -1,8 +1,6 @@
 # Learning Logs
 
-This week's learning log assignment is now posted on Canvas:
-
-https://canvas.ubc.ca/courses/63995/quizzes/255367
+This week's learning log assignment will be posted on Canvas next week:
 
 ````{panels}
 

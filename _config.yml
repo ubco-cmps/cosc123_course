@@ -66,6 +66,7 @@ sphinx:
       CANVAS_ID: '64279'
       ED_ID: 7gqvVz
       LECTURE_TIMES: (Required) Fridays 14:00 - 15:00 PST; Monday/Wednesday 08:00 - 09:00 PST [Tutorial]
+      CANVAS_LINK: "[Canvas](https://canvas.ubc.ca/courses/CANVAS_ID)"
       ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
       CU_LINK: "[Collaborate Ultra](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/5284)"
       ANNOUNCEMENTS_LINK: "[Canvas Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
