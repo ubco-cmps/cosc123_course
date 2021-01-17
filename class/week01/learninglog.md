@@ -1,4 +1,4 @@
-# Learning Logs
+# Learning Log 1
 
 This week's learning log assignment will be posted on Canvas next week:
 

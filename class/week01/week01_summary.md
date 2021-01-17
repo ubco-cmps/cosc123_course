@@ -22,7 +22,7 @@ Once you finish the task, check off the box so you can keep track of your progre
 
 <label><input type="checkbox" id="week01_task4" class="box"> [**Write Test 0 (60 mins)**](./test.md) </input></label>
 
-<label><input type="checkbox" id="week01_task6" class="box"> [**Complete your Learning Log assignment**](./learninglogs.md) </input></label>
+<label><input type="checkbox" id="week01_task6" class="box"> [**Complete your Learning Log assignment**](./learninglog.md) </input></label>
 
 ## How to watch flipped lecture videos
 
