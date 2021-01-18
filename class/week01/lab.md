@@ -34,7 +34,7 @@ Once you have gone through the installation instructions, please take a screensh
 
 - One terminal window with the output of `git config --list --global`
 - Another terminal window with the output of `code --version` and `git --version` sequentially printed
-- Processing open with the following code run: `eclipse(15,30,25,50);`
+- Processing open with the following code run: `ellipse(15,30,25,50);`
   - If you have not yet installed Processing, you should now go back and complete Task 1
 - VS Code open
 - Date/time should be visible somewhere in the screenshot
