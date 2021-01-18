@@ -3,7 +3,7 @@
 ### What if I miss labs, tests, or the exam due to an illness, health, or other personal situations?
 
 ```{important}
-In  {{ COURSE_CODE }}, you are welcome to join another lab if you miss your scheduled lab. If you need extra help, you may also join other labs as needed but priority will be given to those who are attending the scheduled lab.
+In  {{ COURSE_CODE }}, you are welcome to join another lab if you miss your scheduled lab. If you need extra help, you may also join other labs as needed but priority will be given to those who are attending their scheduled lab.
 ```
 
 Students who, because of unforeseen events, are absent during the term and are unable to complete tests or other graded work, should normally discuss with their instructors how they can make up for missed work.
