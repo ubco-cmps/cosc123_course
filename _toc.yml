@@ -22,6 +22,10 @@
         - file: class/week01/readings
         - file: class/week01/lecture
         - file: class/week01/lab
+          sections:
+            - file: class/week01/macOS
+            - file: class/week01/windows
+            - file: class/week01/ubuntu
         - file: class/week01/test
         - file: class/week01/learninglog
 

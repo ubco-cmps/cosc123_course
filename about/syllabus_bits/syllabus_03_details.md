@@ -17,7 +17,7 @@ I hope by taking this course your creative juices start flowing and you can see 
 
 The grading scheme for this course is here:
 
-| Item                  | Weight          | Due date(s)                   | Notes                                    |
+| Item                  | Weight          | Due date(s)                   | First item due                                    |
 |-----------------------|-----------------|-------------------------------|------------------------------------------|
 | Labs                  | 25% (10 x 2.5%) | Tuesdays at 6 PM              | Lab 1 is due Tues Jan 26 at 6 PM         |
 | Activities            | 25% (10 x 2.5%) | Wednesdays at 6 PM            | A1 is due Wed Jan 20 at 6 PM             |
