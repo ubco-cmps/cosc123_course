@@ -20,7 +20,7 @@ The grading scheme for this course is here:
 | Item                  | Weight          | Due date(s)                   | First item due                                    |
 |-----------------------|-----------------|-------------------------------|------------------------------------------|
 | Labs                  | 25% (10 x 2.5%) | Tuesdays at 6 PM              | Lab 1 is due Tues Jan 26 at 6 PM         |
-| Activities            | 25% (10 x 2.5%) | Wednesdays at 6 PM            | A1 is due Wed Jan 20 at 6 PM             |
+| Activities            | 25% (10 x 2.5%) | Wednesdays at 6 PM            | A1 is due Wed Jan 27 at 6 PM             |
 | Tests (& Bonus Tests) | 25% (5 x 5%)    | Thursday 6 PM - Saturday 6 PM | Test 0 window opens Thurs Jan 21 at 6 PM |
 | Learning Logs         | 5% (10 x 0.5%)  | Fridays at 6 PM               | LL1 is due Fri Jan 22 at 6 PM            |
 | Final Exam            | 20%             | TBD                           | N/A                                      |
