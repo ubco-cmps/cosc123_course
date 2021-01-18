@@ -2,6 +2,10 @@
 
 ### What if I miss labs, tests, or the exam due to an illness, health, or other personal situations?
 
+```{important}
+In  {{ COURSE_CODE }}, you are welcome to join another lab if you miss your scheduled lab. If you need extra help, you may also join other labs as needed but priority will be given to those who are attending the scheduled lab.
+```
+
 Students who, because of unforeseen events, are absent during the term and are unable to complete tests or other graded work, should normally discuss with their instructors how they can make up for missed work.
 If ill health is an issue, students are encouraged to seek attention from a health professional.
 Campus Health and Counselling will normally provide documentation only to students who have been seen previously at these offices for treatment or counselling specific to conditions associated with their academic difficulties. 
