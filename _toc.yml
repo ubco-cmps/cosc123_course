@@ -28,22 +28,24 @@
             - file: class/week01/ubuntu
         - file: class/week01/test
         - file: class/week01/learninglog
+    - file: class/week02/week02_summary
+      title: Week 2 - Processing
+      sections:
+        # - file: class/week02/readings
+        # - file: class/week02/videos
+        # - file: class/week02/homework
+        # - file: class/week02/lecture
+        # - file: class/week02/test
+        - file: class/week02/lab
+        # - file: class/week02/learninglogs
+
+
 
     #     sections:
     #       - file: class/week00/macos.md
     #         title: macOS Install Instructions
     #       - file: class/week00/windows.md
     #         title: Windows Install Instructions
-    # - file: class/week01/week01_summary
-    #   title: Week 1 - Introductions!
-#       sections:
-#         - file: class/week02/readings
-#         - file: class/week02/videos
-#         - file: class/week02/homework
-#         - file: class/week02/lecture
-#         - file: class/week02/test
-#         - file: class/week02/lab
-#         - file: class/week02/learninglogs
 #     - file: class/week03/week03_summary
 #       title: Week 3 - Chapter 3
 #       sections:
