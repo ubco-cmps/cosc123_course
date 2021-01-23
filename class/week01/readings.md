@@ -26,12 +26,11 @@ These readings are recommended if you would like to explore the topic further an
 
 <label><input type="checkbox" id="week01_reading7" class="box"> **[Exploring History](https://swcarpentry.github.io/git-novice/05-history/index.html)** </input></label>
 
-
 <label><input type="checkbox" id="week01_reading8" class="box"> **[Ignoring Things](https://swcarpentry.github.io/git-novice/06-ignore/index.html)** </input></label>
 
-<label><input type="checkbox" id="week01_reading9" class="box"> **[Remotes in GitHub](https://swcarpentry.github.io/git-novice/07-github/index.html)** </input></label
+<label><input type="checkbox" id="week01_reading9" class="box"> **[Remotes in GitHub](https://swcarpentry.github.io/git-novice/07-github/index.html)** </input></label>
 
-<label><input type="checkbox" id="week01_reading10" class="box"> **[Collaborating in GitHub](https://swcarpentry.github.io/git-novice/08-collab/index.html)** </input></label
+<label><input type="checkbox" id="week01_reading10" class="box"> **[Collaborating in GitHub](https://swcarpentry.github.io/git-novice/08-collab/index.html)** </input></label>
 
-<label><input type="checkbox" id="week01_reading11" class="box"> **[Conflicts](https://swcarpentry.github.io/git-novice/09-conflict/index.html)** </input></label
+<label><input type="checkbox" id="week01_reading11" class="box"> **[Conflicts](https://swcarpentry.github.io/git-novice/09-conflict/index.html)** </input></label>
 
