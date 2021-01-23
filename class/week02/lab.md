@@ -1,4 +1,4 @@
-# COSC 123 Lab 2 - Command Line Practice
+# Lab 2 - Command Line Practice
 
 ## Instructions
 
