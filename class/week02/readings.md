@@ -15,3 +15,4 @@ This week the readings are listed below:
 
 <label><input type="checkbox" id="week02_reading4" class="box"> **[Coordinate system and shapes](https://processing.org/tutorials/drawing/)** </input></label>
 
+<label><input type="checkbox" id="week02_reading5" class="box"> **[Colour](https://processing.org/tutorials/color/)** </input></label>
