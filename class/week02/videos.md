@@ -10,10 +10,6 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 <input type="checkbox" id="week02_video1" class="box"><label>0.2 - How and why should you learn Programming?</input></label>
 
-<input type="checkbox" id="week02_video2" class="box"><label>0.3 - What is programming?</input></label>
-
-<input type="checkbox" id="week02_video3" class="box"><label>0.5 - Processing Examples</input></label>
-
 <input type="checkbox" id="week02_video4" class="box"><label>0.6 - Overview of Processing Topics </input></label>
 
 <input type="checkbox" id="week02_video5" class="box"><label>1.1 - Drawing with Pixels</input></label>
@@ -21,7 +17,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```
 ````
 
-## Content Summary from Crash Course Physics
+## Required Videos
 
 ```{dropdown} 0.2 - How and why should you learn Programming? 
     :container: + shadow
@@ -30,24 +26,6 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/qUVWM2Q4vAU" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-```
-
-```{dropdown} 0.3 - What is programming?
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/AImF__7FyzM" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-```
-
-```{dropdown} 0.5 - Processing Examples
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/_F_qZBWmjyI" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
@@ -66,5 +44,25 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/a562vsSI2Po" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+## Optional Videos
+
+```{dropdown} 0.3 - What is programming?
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/AImF__7FyzM" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 0.5 - Processing Examples
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/_F_qZBWmjyI" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
