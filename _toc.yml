@@ -143,10 +143,12 @@
 #   chapters:
 #     - file: class/final
 
-- part: Lab Materials
+- part: GitHub Classroom Links
   chapters:
     - file: class/labs
-      title: Lab Stuff
+      title: Labs
+    - file: class/activities
+      title: Lecture Activities
 
 - part: Course Feedback
   chapters:
