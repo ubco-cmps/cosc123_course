@@ -2,6 +2,10 @@
 Labs
 =======================
 
+<head>
+    <base target="_blank">
+</head>
+
 We are using GitHub Classroom to deliver the labs for this course.
 You will first need to create a GitHub account, and then you can accept each lab
 Once the lab is ready, the link wil become active, and you will be able to accept the lab in your GitHub.com account.

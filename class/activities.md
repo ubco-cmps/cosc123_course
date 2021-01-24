@@ -2,6 +2,10 @@
 Activities
 =======================
 
+<head>
+    <base target="_blank">
+</head>
+
 We are using GitHub Classroom to deliver the Lecture Activities for this course.
 You will first need to create a GitHub account, and then you can accept each Lecture Activities.
 Once the Lecture Activities is ready (usually activities are started during the lecture), the link wil become active, and you will be able to accept the lab in your GitHub.com account.
