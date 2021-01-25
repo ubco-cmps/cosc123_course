@@ -110,8 +110,8 @@ git push
 - Open a new GitBash window, simply `cd` (change directory) into your lab2 directory, and run these commands:
 
 ```
-tree.com \\a \\f
-tree.com \\a \\f > mydungeonmap.md
+tree.com //a //f
+tree.com //a //f > mydungeonmap
 ```
 
 **macOS** instructions:
@@ -122,11 +122,11 @@ tree.com \\a \\f > mydungeonmap.md
 
 ```
 tree
-tree > mydungeonmap.md
+tree > mydungeonmap
 ```
 
 The first command will generate a hierarchy of all files and folders in your lab2 directory. 
-The second command will put the results of `tree` into `mydungeonmap.md` to create your explored dungeon map!
+The second command will put the results of `tree` into `mydungeonmap` to create your explored dungeon map!
 
 **Linux** instructions:
 
@@ -136,11 +136,11 @@ The second command will put the results of `tree` into `mydungeonmap.md` to crea
 
 ```
 tree
-tree > mydungeonmap.md
+tree > mydungeonmap
 ```
 
 The first command will generate a hierarchy of all files and folders in your lab2 directory. 
-The second command will put the results of `tree` into `mydungeonmap.md` to create your explored dungeon map!
+The second command will put the results of `tree` into `mydungeonmap` to create your explored dungeon map!
 
 ### What to do if `tree` isn't installed on your machine? 
 
