@@ -9,6 +9,7 @@ Here is what it will cover:
 - Terminal commands (pwd, ls, mv, cp, touch, mkdir)
 - File structures and hierarchies
 - Relative vs. Absolute paths
+- Markdown syntax
 
 You will have approximately 60 minutes to do the Test.
 
