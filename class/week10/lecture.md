@@ -1,6 +1,11 @@
-# Lecture
+# Lecture 10
 
-This week the lecture is CANCELLED due to the Remembrance Day Holiday.
+## Lecture Slides
 
-There will be an OPTIONAL makeup class on Monday or Tuesday the following week.
-It will be recorded.
+<iframe src="../../2021-01-99 - Lecture2.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+
+These slides have been adapted for this course and are courtesy of [Dr. Abdallah Mohamed](https://people.ok.ubc.ca/abdalmoh/).
+
+## Lecture activity
+
+Please see the [Lecture Activity page](../activities) for the link to accept the GH Classroom link

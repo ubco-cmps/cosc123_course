@@ -8,21 +8,21 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```{admonition} Checklist of items
 :class: tip
 
-<input type="checkbox" id="week03_video1" class="box"><label>2.1 - </input></label>
+<input type="checkbox" id="week03_video1" class="box"><label>2.1 - How to use Processing</input></label>
 
-<input type="checkbox" id="week03_video2" class="box"><label>2.2 - </input></label>
+<input type="checkbox" id="week03_video2" class="box"><label>2.2 - RGB Color</input></label>
 
-<input type="checkbox" id="week03_video3" class="box"><label>3.1 - Drawing with Pixels</input></label>
+<input type="checkbox" id="week03_video3" class="box"><label>3.1 - Flow</input></label>
 
-<input type="checkbox" id="week03_video3" class="box"><label>3.2 - Drawing with Pixels</input></label>
+<input type="checkbox" id="week03_video3" class="box"><label>3.2 - Built-in Variables</input></label>
 
-<input type="checkbox" id="week03_video3" class="box"><label>3.3 - Drawing with Pixels</input></label>
+<input type="checkbox" id="week03_video3" class="box"><label>3.3 - Events</input></label>
 ```
 ````
 
 ## Required Videos
 
-```{dropdown} 2.1 - 
+```{dropdown} 2.1 - How to use Processing
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
     :open:
@@ -32,7 +32,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
-```{dropdown} 2.2 -  
+```{dropdown} 2.2 -  RGB Color
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -41,7 +41,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
-```{dropdown} 3.1 - 
+```{dropdown} 3.1 - Flow
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -50,7 +50,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
-```{dropdown} 3.2 - 
+```{dropdown} 3.2 - Built-in Variables
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -59,7 +59,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
-```{dropdown} 3.3 - 
+```{dropdown} 3.3 - Events
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 

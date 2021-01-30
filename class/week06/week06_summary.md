@@ -2,21 +2,24 @@
 Week 6 Summary
 =======================
 
-This week there is no new content (except for your lab) in this course.
-This week, you'll have an opportunity to catch your breath and catch up on anything from the last few weeks that you didn't have time to grasp or go through.
-This may include test questions, missed homework questions, videos that you didn't watch, readings you didn't do, or anything else.
-Though you don't *have to* use this break for Physics work, I encourage you to make sure you are actually caught up before re-purposing that time for other courses.
-That being said, I understand it's midterm season so I'm sure you'll have plenty of things to fill your time with.
+## About this page
 
+Each week, on the "Week X Summary" page, you will find a list of things you have to do this week, and the suggested order. 
+Note that these are just SUGGESTIONS and you are by no means required to them this way. 
+Once you finish the task, check off the box so you can keep track of your progress (just a note, I will not know whether you click the checkboxes or not).
 
-```{dropdown} Portal
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
-    :open:
+## List of things to do this week
 
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/TluRVBhmf8w" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<label><input type="checkbox" id="week06_task1" class="box"> [**Watch the lecture videos**](./videos.md)</input></label>
 
-[Link to the game](https://store.steampowered.com/app/400/Portal)
-```
+<label><input type="checkbox" id="week06_task2" class="box"> [**Skim the assigned readings**](./readings.md)</input></label>
+
+<label><input type="checkbox" id="week06_task3" class="box"> [**Attend the Lecture**](./lecture.ipynb) </input></label>
+
+<label><input type="checkbox" id="week06_task4" class="box"> [**Complete the Lecture Activity**](../activities) </input></label>
+
+<label><input type="checkbox" id="week06_task5" class="box"> [**Attend and Complete the lab**](./lab.md) </input></label>
+
+<label><input type="checkbox" id="week06_task6" class="box"> [**Write Test 1 (60 mins)**](./test.md) </input></label>
+
+<label><input type="checkbox" id="week06_task7" class="box"> [**Complete your Learning Log assignment**](./learninglog) </input></label>

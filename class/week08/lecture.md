@@ -1,15 +1,11 @@
-# Lecture
+# Lecture 8
 
-This week we will do go over some key clicker questions from Chapter 7.
+## Lecture Slides
 
-## Sli.do Polls
+<iframe src="../../2021-01-99 - Lecture2.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-You can go to [https://sli.do/physics111](https://app.sli.do/event/lk89xpvr/live/polls) in a new tab or use the embedded poll here:
+These slides have been adapted for this course and are courtesy of [Dr. Abdallah Mohamed](https://people.ok.ubc.ca/abdalmoh/).
 
-<iframe src="https://app.sli.do/event/lk89xpvr/live/polls" height="100%" width="100%" style="min-height: 560px;"></iframe>
+## Lecture activity
 
-## Slides from Lecture
-
-Slides are available now, questions with answers will be available here after the lecture.
-
-<iframe src="../../2020-10-29 - Lecture8.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+Please see the [Lecture Activity page](../activities) for the link to accept the GH Classroom link

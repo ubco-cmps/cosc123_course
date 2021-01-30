@@ -1,10 +1,11 @@
-# Lecture
+# Lecture 12
 
-Slides are available now, questions with answers will be available here after the lecture.
+## Lecture Slides
 
-<iframe src="../../2020-11-26 - Lecture12.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../2021-01-99 - Lecture2.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
+These slides have been adapted for this course and are courtesy of [Dr. Abdallah Mohamed](https://people.ok.ubc.ca/abdalmoh/).
 
-## Link to final exam practice questions:
+## Lecture activity
 
-https://people.ok.ubc.ca/jbobowsk/phys111.html
+Please see the [Lecture Activity page](../activities) for the link to accept the GH Classroom link

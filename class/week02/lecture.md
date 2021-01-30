@@ -1,6 +1,5 @@
 # Lecture 2
 
-
 ## Lecture Slides
 
 <iframe src="../../2021-01-29 - Lecture2.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
