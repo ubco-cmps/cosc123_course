@@ -15,7 +15,7 @@ You will have approximately 60 minutes to do the Test.
 
 ++++ 
 
-```{link-button} https://canvas.ubc.ca/courses/64277/quizzes/313992
+```{link-button} https://canvas.ubc.ca/courses/64279/quizzes/314003
 :text: Test1 will be available during the weekly Test window (Thursday 6PM - Saturday 6PM).
 :type: url
 :classes: btn-outline-success btn-block stretched-link text-dark
