@@ -196,7 +196,7 @@ Run the following commands in your Terminal:
 
 ```
 git add .
-git commit -m "Added my dungeon map"
+git commit -m "Added my dungeon history"
 git push
 ```
 
