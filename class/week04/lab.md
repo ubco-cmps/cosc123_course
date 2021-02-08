@@ -67,8 +67,8 @@ planet.
 This question is worth **20 marks** distributed as follows:
 - **+4** for the look of the spaceship.
 - **+4** for the look of the planet. (2 marks are deducted if the planetary rings are not inclined as in the screenshot)
-- **+** for proper use of coordinate transformation for both the spaceship and the planet.
-- **+4** for moving the spaceship with the mouse.
+- **+6** for proper use of coordinate transformation for both the spaceship and the planet.
+- **+6** for moving the spaceship with the mouse.
 - **Up to +2 bonus marks** for distinguished work (e.g. better spaceship, more creative scene).
 
 > For this question, you do not need to include a screenshot, the TAs will download and run your code.
