@@ -53,10 +53,10 @@
       sections:
         - file: class/week04/videos
         - file: class/week04/readings
-        # - file: class/week04/lecture
-        # - file: class/week04/test
-        # - file: class/week04/lab
-        # - file: class/week04/learninglog
+        - file: class/week04/lecture
+        - file: class/week04/test
+        - file: class/week04/lab
+        - file: class/week04/learninglog
     - file: class/week05/week05_summary
       title: Week 5 - Reading Week
     - file: class/week06/week06_summary
