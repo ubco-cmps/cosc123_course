@@ -1,13 +1,22 @@
-# Bonus Test 01
+# Test 02
 
 ````{panels}
 
-This week you will have an opportunity to do Bonus Test 01 on Chapters 2 and 3. The Bonus Test will be available from Thursday at 6 PM to Saturday at 6 PM.
+This week will be your second test.
+
+Here is what it will cover:
+
+- Basics of Processing (little bit of week 2)
+- Interactions (Week 3)
+- Variables (Week 04)
+- You will be expected to create some sketches in PDE and submit code
+
+You will have approximately 60 minutes to do the Test.
 
 ++++ 
 
-```{link-button} https://canvas.ubc.ca/courses/63995
-:text: Canvas Assignments
+```{link-button} https://canvas.ubc.ca/courses/64279/quizzes/314003
+:text: Test2 will be available during the weekly Test window (Thursday 6PM - Saturday 6PM).
 :type: url
 :classes: btn-outline-success btn-block stretched-link text-dark
 ```
