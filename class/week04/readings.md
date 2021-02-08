@@ -5,8 +5,7 @@ They are here if you need an additional resource to reference.
 
 ## Suggested Readings
 
-No suggested readings.
+This week the readings are listed below:
 
-<!-- This week the readings are listed below:
-
-<label><input type="checkbox" id="week09_reading1" class="box"> **[Arrays](https://processing.org/tutorials/arrays/)** </input></label>  -->
+<label><input type="checkbox" id="week04_reading1" class="box"> **[Curves](https://processing.org/tutorials/curves/)** </input></label>
+<label><input type="checkbox" id="week04_reading2" class="box"> **[Review: Interactivity](https://processing.org/tutorials/interactivity/)** </input></label>
