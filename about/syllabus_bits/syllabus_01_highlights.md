@@ -47,7 +47,7 @@ If there is a lab and/or tutorial listed on the SSC for this course, You **must*
 | Brenden                                   | Bren-den         | Contact via {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} | [Wednesday 12-1 PM](https://ca.bbcollab.com/guest/286c1e052d7649d4914d5488eaa200ab)           |
 | Camila                                    | Ca-Mila          | Contact via {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} | [Monday and Wednesday 8-9 AM](https://ca.bbcollab.com/guest/286c1e052d7649d4914d5488eaa200ab) |
 | Danielle                                  | Dan-i-elle       | Contact via {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} | [Thursday 12 - 1 PM](https://ca.bbcollab.com/guest/286c1e052d7649d4914d5488eaa200ab)          |
-| Tim                                       | Tim              | Contact via {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} | [Friday 12-1 PM](https://ca.bbcollab.com/guest/286c1e052d7649d4914d5488eaa200ab)              |
+| Tim                                       | Tim              | Contact via {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} | [Friday 11-12 PM](https://ca.bbcollab.com/guest/286c1e052d7649d4914d5488eaa200ab)              |
 
 
 ### A message from your instructor
