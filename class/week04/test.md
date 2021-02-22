@@ -6,8 +6,8 @@ This week will be your second test.
 
 Here is what it will cover:
 
-- Basics of Processing (little bit of week 2)
-- Interactions (Week 3)
+- Basics of Processing (little bit of Week 02)
+- Interactions (Week 03)
 - Variables (Week 04)
 - You will be expected to create some sketches in PDE and submit code
 

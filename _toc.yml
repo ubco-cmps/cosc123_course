@@ -64,10 +64,10 @@
       sections:
         - file: class/week06/videos
         - file: class/week06/readings
-        # - file: class/week06/lecture
-        # - file: class/week06/test
-        # - file: class/week06/lab
-        # - file: class/week06/learninglog
+        - file: class/week06/lecture
+        - file: class/week06/test
+        - file: class/week06/lab
+        - file: class/week06/learninglog
     - file: class/week07/week07_summary
       title: Week 7 - Loops II and Functions
       sections:
