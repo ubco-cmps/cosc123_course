@@ -14,18 +14,18 @@ Once you click the link, a repository will automatically be created for you with
 You can then work on the lab, make commits, and push them to GitHub as often as you please. 
 Once the deadline and the grace period has passed, you will no longer be able to push any changes.
 
-| Lab                     | Due Date                      | Link to Accept                                        |
-|-------------------------|-------------------------------|-------------------------------------------------------|
-| [Lab 1](week01/lab.md)  | Tuesday Jan 26 at 18:00 PST | [Accept Lab](https://classroom.github.com/a/6T444r1F) |
-| [Lab 2](week02/lab.md)  | Tuesday February 2 at 18:00 PST | [Accept Lab](https://classroom.github.com/a/KALHiWyg)                                        |
-| [Lab 3](week03/lab.md)  | Tuesday Feb 9 at 18:00 PST | [Accept Lab](https://classroom.github.com/a/1fKuuAbo)                                        |
-| [Lab 4](week04/lab.md)  | Tuesday Feb 16 at 18:00 PST | [Accept Lab](https://classroom.github.com/a/tZly-yOI)                                        |
-| [Lab 5](week99/lab.md)  | Tuesday Feb XX at 18:00 PST | [Accept Lab]()                                        |
-| [Lab 6](week99/lab.md)  | Tuesday Feb XX at 18:00 PST | [Accept Lab]()                                        |
-| [Lab 7](week99/lab.md)  | Tuesday Mar XX at 18:00 PST | [Accept Lab]()                                        |
-| [Lab 8](week99/lab.md)  | Tuesday Mar XX at 18:00 PST | [Accept Lab]()                                        |
-| [Lab 9](week99/lab.md)  | Tuesday Mar XX at 18:00 PST | [Accept Lab]()                                        |
-| [Lab 10](week99/lab.md) | Tuesday Apr XX at 18:00 PST | [Accept Lab]()                                        |
+| Lab                     | Due Date                        | Link to Accept                                        |
+|-------------------------|---------------------------------|-------------------------------------------------------|
+| [Lab 1](week01/lab.md)  | Tuesday Jan 26 at 18:00 PST     | [Accept Lab](https://classroom.github.com/a/6T444r1F) |
+| [Lab 2](week02/lab.md)  | Tuesday February 2 at 18:00 PST | [Accept Lab](https://classroom.github.com/a/KALHiWyg) |
+| [Lab 3](week03/lab.md)  | Tuesday Feb 9 at 18:00 PST      | [Accept Lab](https://classroom.github.com/a/1fKuuAbo) |
+| [Lab 4](week04/lab.md)  | Tuesday Feb 16 at 18:00 PST     | [Accept Lab](https://classroom.github.com/a/tZly-yOI) |
+| Lab 5                   | Cancelled due to Reading Week   | N/A                                                   |
+| [Lab 6](week06/lab.md)  | Tuesday Feb XX at 18:00 PST     | [Accept Lab](https://classroom.github.com/a/KfJg5SuF) |
+| [Lab 7](week99/lab.md)  | Tuesday Mar XX at 18:00 PST     | [Accept Lab]()                                        |
+| [Lab 8](week99/lab.md)  | Tuesday Mar XX at 18:00 PST     | [Accept Lab]()                                        |
+| [Lab 9](week99/lab.md)  | Tuesday Mar XX at 18:00 PST     | [Accept Lab]()                                        |
+| [Lab 10](week99/lab.md) | Tuesday Apr XX at 18:00 PST     | [Accept Lab]()                                        |
 
 ```{tip}
 Remember that once you've accepted the lab, the link to your repository becomes fixed so you can submit it on Canvas at any time. We will mark the last commit before the deadline (including grace period).
