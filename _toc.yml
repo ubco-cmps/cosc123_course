@@ -75,7 +75,7 @@
         - file: class/week07/readings
         # - file: class/week07/lecture
         # - file: class/week07/test
-        # - file: class/week07/lab
+        - file: class/week07/lab
         # - file: class/week07/learninglog
 
 - part: Part 3 - Object-Oriented Programming
@@ -85,10 +85,10 @@
       sections:
         - file: class/week08/videos
         - file: class/week08/readings
-        # - file: class/week08/lecture
+        - file: class/week08/lecture
         # - file: class/week08/test
-        # - file: class/week08/lab
-        # - file: class/week08/learninglog
+        - file: class/week08/lab
+        - file: class/week08/learninglog
     - file: class/week09/week09_summary
       title: Week 9 - Arrays
       sections:

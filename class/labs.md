@@ -22,7 +22,7 @@ Once the deadline and the grace period has passed, you will no longer be able to
 | [Lab 4](week04/lab.md)  | Tuesday Feb 16 at 18:00 PST     | [Accept Lab](https://classroom.github.com/a/tZly-yOI) |
 | Lab 5                   | Cancelled due to Reading Week   | N/A                                                   |
 | [Lab 6](week06/lab.md)  | Tuesday Feb XX at 18:00 PST     | [Accept Lab](https://classroom.github.com/a/KfJg5SuF) |
-| [Lab 7](week99/lab.md)  | Tuesday Mar XX at 18:00 PST     | [Accept Lab]()                                        |
+| [Lab 7](week07/lab.md)  | Tuesday Mar XX at 18:00 PST     | [Accept Lab](https://classroom.github.com/a/4CWSIDWZ)                                        |
 | [Lab 8](week99/lab.md)  | Tuesday Mar XX at 18:00 PST     | [Accept Lab]()                                        |
 | [Lab 9](week99/lab.md)  | Tuesday Mar XX at 18:00 PST     | [Accept Lab]()                                        |
 | [Lab 10](week99/lab.md) | Tuesday Apr XX at 18:00 PST     | [Accept Lab]()                                        |

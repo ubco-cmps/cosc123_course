@@ -16,13 +16,13 @@ P.S. Labs start on January 18th.
 | 4  | Feb 8  | Variables                                                  | A4       | Lab 4  | LL 4  | Test 2 (weeks 3-4)       |
 | 5  | Feb 15 | Reading Week (no new material)                             | --       | --     | --    | --                       |
 | 6  | Feb 22 | Loops                                                      | A6       | Lab 6  | LL 6  | Bonus Test 2             |
-| 7  | Mar 1  | Functions                                                  | A7       | Lab 7  | LL 7  | Test 3 (weeks 6-7)       |
-| 8  | Mar 8  | Object-oriented programming                                | A8       | Lab 8  | LL 8  | Bonus Test 3             |
-| 9  | Mar 15 | Arrays                                                     | A9       | Lab 9  | LL 9  | Test 4 (weeks 8-9)       |
-| 10 | Mar 22 | Images and Pixels                                          | A10      | Lab 10 | LL 10 | Bonus Test 4             |
-| 11 | Mar 29 | Videos                                                     | A11      | Lab 11 | LL 11 | Test 5 (weeks 3-10)      |
-| 12 | Apr 5  | Text and Data, Review, and Recap                           | --       | --     | LL 12 | Bonus Test 5             |
-
+| 7  | Mar 1  | Functions                                                  | A7       | Lab 7  | LL 7  | N/A                      |
+| 8  | Mar 8  | Object-oriented programming                                | A8       | Lab 8  | LL 8  | Test 3 (weeks 6-7)       |
+| 9  | Mar 15 | Arrays                                                     | A9       | Lab 9  | LL 9  | Bonus Test 3             |
+| 10 | Mar 22 | Images and Pixels                                          | A10      | Lab 10 | LL 10 | Test 4 (weeks 8-9)       |
+| 11 | Mar 29 | Videos                                                     | A11      | Lab 11 | LL 11 | Bonus Test 4             |
+| 12 | Apr 5  | Text and Data, Review, and Recap                           | --       | --     | LL 12 | Test 5 (weeks 3-10)      |
+| 13 | Apr 12 | TBD                                                        | --       | --     | --    | Bonus Test 5             |
 
 
 <!-- 
