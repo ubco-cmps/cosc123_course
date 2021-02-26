@@ -15,15 +15,14 @@ P.S. Labs start on January 18th.
 | 3  | Feb 1  | Interactions                                               | A3       | Lab 3  | LL 3  | Bonus Test 1             |
 | 4  | Feb 8  | Variables                                                  | A4       | Lab 4  | LL 4  | Test 2 (weeks 3-4)       |
 | 5  | Feb 15 | Reading Week (no new material)                             | --       | --     | --    | --                       |
-| 6  | Feb 22 | Loops                                                      | A6       | Lab 6  | LL 6  | Bonus Test 2             |
-| 7  | Mar 1  | Functions                                                  | A7       | Lab 7  | LL 7  | N/A                      |
-| 8  | Mar 8  | Object-oriented programming                                | A8       | Lab 8  | LL 8  | Test 3 (weeks 6-7)       |
-| 9  | Mar 15 | Arrays                                                     | A9       | Lab 9  | LL 9  | Bonus Test 3             |
-| 10 | Mar 22 | Images and Pixels                                          | A10      | Lab 10 | LL 10 | Test 4 (weeks 8-9)       |
-| 11 | Mar 29 | Videos                                                     | A11      | Lab 11 | LL 11 | Bonus Test 4             |
-| 12 | Apr 5  | Text and Data, Review, and Recap                           | --       | --     | LL 12 | Test 5 (weeks 3-10)      |
-| 13 | Apr 12 | TBD                                                        | --       | --     | --    | Bonus Test 5             |
-
+| 6  | Feb 22 | Conditionals and Images                                    | A6       | Lab 6  | LL 6  | Bonus Test 2             |
+| 7  | Mar 1  | Images and Loops                                           | A7       | Lab 7  | LL 7  | N/A                      |
+| 8  | Mar 8  | Functions                                                  | A8       | Lab 8  | LL 8  | Test 3 (weeks 6-7)       |
+| 9  | Mar 15 | Object-oriented programming I                              | A9       | Lab 9  | LL 9  | Bonus Test 3             |
+| 10 | Mar 22 | Object-oriented programming II                             | A10      | Lab 10 | LL 10 | Test 4 (weeks 8-10)       |
+| 11 | Mar 29 | Arrays I                                                   | A11      | Lab 11 | LL 11 | Bonus Test 4             |
+| 12 | Apr 5  | Arrays II                                                  | --       | --     | LL 12 | Test 5 (weeks 11-12)      |
+| 13 | Apr 12 | Text, Data, Videos (Optional)                              | --       | --     | --    | Bonus Test 5             |
 
 <!-- 
 00. Kinect and processing (Ignore)
@@ -40,10 +39,11 @@ Test 2: Processing and Interactions (3-4)
     3. Interactions (3)
     4. Variables (4)
 
-Test 3: Loops, Functions, and Conditionals (5 + 7)
+Test 3-revised: Loops, Images, Conditionals (6+7)
 
-    6. Loops (6)
-    7. Functions (4)
+Test 4-revised: Functions and OOP ()
+
+Test 5-revised: Arrays ()
 
 Test 4: OOP and Arrays (8-9)
 
