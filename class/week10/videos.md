@@ -8,53 +8,41 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```{admonition} Checklist of items
 :class: tip
 
-<input type="checkbox" id="week10_video1" class="box"><label>10.1 - </input></label>
+<input type="checkbox" id="week10_video4" class="box"><label>8.4 - </input></label>
 
-<input type="checkbox" id="week10_video2" class="box"><label>10.2 - </input></label>
+<input type="checkbox" id="week10_video5" class="box"><label>8.5 - </input></label>
 
-<input type="checkbox" id="week10_video3" class="box"><label>10.3 - </input></label>
-
-<input type="checkbox" id="week10_video4" class="box"><label>10.4 - </input></label>
+<input type="checkbox" id="week10_video6" class="box"><label>8.6 - </input></label>
 
 ```
 ````
 
 ## Required Videos
 
-```{dropdown} 10.1 - 
+```{dropdown} 8.4 - 
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
-    :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/-f0WEitGmiw" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/NrwaKOsplZk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 10.2 -  
+```{dropdown} 8.5 - 
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/7BoJBYh16CQ" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/V7k5bFQbhG0" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 10.3 - 
+```{dropdown} 8.6 - 
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/DPFJROWdkQ8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-```
-
-```{dropdown} 10.4 - 
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/EmtU0eloTlE" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/hNR6fsksEu8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
