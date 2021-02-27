@@ -14,7 +14,15 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 <input type="checkbox" id="week12_video3" class="box"><label>11.3 - </input></label>
 
-<input type="checkbox" id="week12_video3" class="box"><label>11.3 - </input></label>
+<input type="checkbox" id="week12_video4" class="box"><label>11.3 - </input></label>
+
+<input type="checkbox" id="week13_video5" class="box"><label>13.1 - </input></label>
+
+<input type="checkbox" id="week13_video6" class="box"><label>13.2 - </input></label>
+
+<input type="checkbox" id="week13_video7" class="box"><label>13.3 - </input></label>
+
+<input type="checkbox" id="week13_video8" class="box"><label>13.4 - </input></label>
 
 ```
 ````
@@ -49,6 +57,42 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
+```{dropdown} 13.1 - 
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+    :open:
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/NLzne4XaR3M" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 13.2 -  
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/PjxbuSnj8Pk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 13.3 - 
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/TaPVzWBWqd4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 13.4 - 
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/JRlqDsuK3Is" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
 
 ## Optional Videos
 
