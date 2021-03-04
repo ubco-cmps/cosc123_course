@@ -60,7 +60,7 @@
     - file: class/week05/week05_summary
       title: Week 5 - Reading Week
     - file: class/week06/week06_summary
-      title: Week 6 - Conditionals and Loops
+      title: Week 6 - Conditionals and Images
       sections:
         - file: class/week06/videos
         - file: class/week06/readings
@@ -69,15 +69,14 @@
         - file: class/week06/lab
         - file: class/week06/learninglog
     - file: class/week07/week07_summary
-      title: Week 7 - Loops and Images
+      title: Week 7 - Images and Loops
       sections:
         - file: class/week07/videos
         - file: class/week07/readings
-        # - file: class/week07/lecture
-        # - file: class/week07/test
+        - file: class/week07/lecture
+        - file: class/week07/test
         - file: class/week07/lab
-        # - file: class/week07/learninglog
-
+        - file: class/week07/learninglog
 - part: Part 3 - Object-Oriented Programming
   chapters:
     - file: class/week08/week08_summary
