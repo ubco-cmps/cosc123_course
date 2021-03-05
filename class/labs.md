@@ -24,8 +24,8 @@ Once the deadline and the grace period has passed, you will no longer be able to
 | [Lab 6](week06/lab.md)  | Tuesday Mar 2 at 18:00 PST     | [Accept Lab](https://classroom.github.com/a/KfJg5SuF) |
 | [Lab 7](week07/lab.md)  | Tuesday Mar 9 at 18:00 PST     | [Accept Lab](https://classroom.github.com/a/4CWSIDWZ)                                        |
 | [Lab 8](week08/lab.md)  | Tuesday Mar 16 at 18:00 PST     | [Accept Lab](https://classroom.github.com/a/wW9Kpvdu)                                        |
-| [Lab 9](week09/lab.md)  | Tuesday Mar 23 at 18:00 PST     | [Accept Lab]()                                        |
-| [Lab 10](week10/lab.md) | Tuesday Mar 30 at 18:00 PST     | [Accept Lab]()                                        |
+| [Lab 9](week09/lab.md)  | Tuesday Mar 23 at 18:00 PST     | [Accept Lab](https://classroom.github.com/a/S3EcYltz)                                        |
+| [Lab 10](week10/lab.md) | Tuesday Mar 30 at 18:00 PST     | [Accept Lab](https://classroom.github.com/a/y4tjhq3h)                                        |
 | [Lab 11](week11/lab.md) | Tuesday Apr 6 at 18:00 PST     | [Accept Lab]()                                        |
 
 ```{tip}
