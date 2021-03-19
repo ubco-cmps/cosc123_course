@@ -1,7 +1,7 @@
 # Lab 9
 In this lab, you will be practicing with loops and functions.
 
-### Expectations
+## Expectations
 
 We are expecting you to commit your work often with useful commit messages.
 This is helpful for you so that there are regular commits that demonstrate your progress. 

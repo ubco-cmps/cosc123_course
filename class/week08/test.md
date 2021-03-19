@@ -1,6 +1,6 @@
 # Test
 
-This week you'll get a break from the Test/Bonus Test to catch up.
+This week is Test 3, and it will mostly be on the contents of Weeks 6, 7 and 8, or Conditionals, Images, and Loops
 
 Here is what it will cover:
 
