@@ -8,7 +8,7 @@ Activities
 
 We are using GitHub Classroom to deliver the Lecture Activities for this course.
 You will first need to create a GitHub account, and then you can accept each Lecture Activities.
-Once the Lecture Activities is ready (usually activities are started during the lecture), the link wil become active, and you will be able to accept the lab in your GitHub.com account.
+Once the Lecture Activities is ready (usually activities are started during the lecture), the link will become active, and you will be able to accept the lab in your GitHub.com account.
 
 Once you click the link, a repository will automatically be created for you with some starter code.
 You can then work on the Lecture Activities, make commits, and push them to GitHub as often as you please. 
