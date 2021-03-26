@@ -111,10 +111,10 @@
       sections:
         - file: class/week11/videos
         - file: class/week11/readings
-        # - file: class/week11/lecture
-        # - file: class/week11/test
-        # - file: class/week11/lab
-        # - file: class/week11/learninglog
+        - file: class/week11/lecture
+        - file: class/week11/test
+        - file: class/week11/lab
+        - file: class/week11/learninglog
     - file: class/week12/week12_summary
       title: Week 12 - Arrays II
       sections:
