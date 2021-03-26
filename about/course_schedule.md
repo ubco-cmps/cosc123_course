@@ -20,8 +20,8 @@ P.S. Labs start on January 18th.
 | 8  | Mar 8  | Functions                                                  | A8       | Lab 8  | LL 8  | Test 3 (weeks 6-7)       |
 | 9  | Mar 15 | Object-oriented programming I                              | A9       | Lab 9  | LL 9  | Bonus Test 3             |
 | 10 | Mar 22 | Object-oriented programming II                             | A10      | Lab 10 | LL 10 | Test 4 (weeks 8-10)       |
-| 11 | Mar 29 | Arrays I                                                   | A11      | Lab 11 | LL 11 | Bonus Test 4             |
-| 12 | Apr 5  | Arrays II                                                  | --       | --     | LL 12 | Test 5 (weeks 11-12)      |
+| 11 | Mar 29 | Class Cancelled (Good Friday)                                                     | A11      | Lab 11 | LL 11 | Bonus Test 4             |
+| 12 | Apr 5  | Arrays                              | --       | --     | LL 12 | Test 5 (weeks 11-12)      |
 | 13 | Apr 12 | Text, Data, Videos (Optional)                              | --       | --     | --    | Bonus Test 5             |
 
 <!-- 
