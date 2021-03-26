@@ -102,10 +102,10 @@
       sections:
         - file: class/week10/videos
         - file: class/week10/readings
-        # - file: class/week10/lecture
-        # - file: class/week10/test
-        # - file: class/week10/lab
-        # - file: class/week10/learninglog
+        - file: class/week10/lecture
+        - file: class/week10/test
+        - file: class/week10/lab
+        - file: class/week10/learninglog
     - file: class/week11/week11_summary
       title: Week 11 - Arrays I
       sections:
@@ -120,10 +120,10 @@
       sections:
         - file: class/week12/videos
         - file: class/week12/readings
-        # - file: class/week12/lecture
-        # - file: class/week12/test
-        # - file: class/week12/lab
-        # - file: class/week12/learninglog
+        - file: class/week12/lecture
+        - file: class/week12/test
+        - file: class/week12/lab
+        - file: class/week12/learninglog
     - file: class/week13/week13_summary
       title: Week 13 - Text, Data, Videos (Optional)
       sections:
