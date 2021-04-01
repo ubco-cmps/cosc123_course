@@ -2,7 +2,9 @@
 
 ## Lecture Slides
 
-This week's lecture is cancelled because of Good Friday, but I will post a video recording soon. 
+This week's lecture is cancelled because of Good Friday, but [here is a video recording of this week's lecture](https://ubc.zoom.us/rec/share/6i2Y_Lg8kHOHV5TW9jbOw4INGxR19a0T891f9qUMnIv4vuHNSRqQryIQOtrPCSiW.4uuTLInqj_dYsHZ8). The password is: 
+
+> NJ.8Cw7i
 
 The slides are included here:
 
