@@ -22,8 +22,6 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
-        pip install linkify-it-py
-        pip install myst-parser~=0.13
     # Build the book
     - name: Build the book
       run: |
@@ -38,7 +36,7 @@ jobs:
         REMOTE_DIR: ${{ secrets.REMOTE_TARGET }}
         LOCAL_DIR: "_build/html/"
         COURSE_NAME: "cosc123"
-        TERM: "2020_WT2"
+        TERM: "2021_WT2"
       run: |
         mkdir ~/.ssh
         echo "$REMOTE_KEY" > ~/.ssh/id_rsa
