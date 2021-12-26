@@ -9,7 +9,6 @@ parts:
     title: Course Schedule
   - url: https://ubc.ca1.qualtrics.com/jfe/form/SV_4UYDc6zEiwa2Jq6
     title: Course Introduction
-  - file: about/accommodations
   - file: about/doing_well
 - caption: Getting Started
   chapters:
