@@ -1,140 +1,162 @@
 format: jb-book
-root: about/syllabus
+root: about/unsyllabus
 parts:
 - caption: Important Links
   chapters:
-  - file: about/syllabus2
+  - file: about/syllabus
     title: Course Syllabus
   - file: about/course_schedule
     title: Course Schedule
-  - url: https://edstem.org/us/join/7gqvVz
-    title: Ed Discussion
-- caption: Part 1 - New Beginnings
+  - url: https://ubc.ca1.qualtrics.com/jfe/form/SV_4UYDc6zEiwa2Jq6
+    title: Course Introduction
+  - file: about/accommodations
+  - file: about/doing_well
+- caption: Getting Started
   chapters:
-  - file: class/week00/week00_summary
-    title: Week 0 - Getting Started
-    sections:
-    - file: class/week00/lecture
-  - file: class/week01/week01_summary
-    title: Week 1 - Setting up
-    sections:
-    - file: class/week01/videos
-    - file: class/week01/readings
-    - file: class/week01/lecture
-    - file: class/week01/lab
-      sections:
-      - file: class/week01/macOS
-      - file: class/week01/windows
-      - file: class/week01/ubuntu
-    - file: class/week01/test
-    - file: class/week01/learninglog
-  - file: class/week02/week02_summary
-    title: Week 2 - Processing
-    sections:
-    - file: class/week02/videos
-    - file: class/week02/readings
-    - file: class/week02/lecture
-    - file: class/week02/lab
-    - file: class/week02/test
-    - file: class/week02/learninglog
-- caption: Part 2 - Processing
-  chapters:
-  - file: class/week03/week03_summary
-    title: Week 3 - Interactions
-    sections:
-    - file: class/week03/videos
-    - file: class/week03/readings
-    - file: class/week03/lecture
-    - file: class/week03/test
-    - file: class/week03/lab
-    - file: class/week03/learninglog
-  - file: class/week04/week04_summary
-    title: Week 4 - Variables
-    sections:
-    - file: class/week04/videos
-    - file: class/week04/readings
-    - file: class/week04/lecture
-    - file: class/week04/test
-    - file: class/week04/lab
-    - file: class/week04/learninglog
-  - file: class/week05/week05_summary
-    title: Week 5 - Reading Week
-  - file: class/week06/week06_summary
-    title: Week 6 - Conditionals and Images
-    sections:
-    - file: class/week06/videos
-    - file: class/week06/readings
-    - file: class/week06/lecture
-    - file: class/week06/test
-    - file: class/week06/lab
-    - file: class/week06/learninglog
-  - file: class/week07/week07_summary
-    title: Week 7 - Images and Loops
-    sections:
-    - file: class/week07/videos
-    - file: class/week07/readings
-    - file: class/week07/lecture
-    - file: class/week07/test
-    - file: class/week07/lab
-    - file: class/week07/learninglog
-- caption: Part 3 - Object-Oriented Programming
-  chapters:
-  - file: class/week08/week08_summary
-    title: Week 8 - Functions
-    sections:
-    - file: class/week08/videos
-    - file: class/week08/readings
-    - file: class/week08/lecture
-    - file: class/week08/test
-    - file: class/week08/lab
-    - file: class/week08/learninglog
-  - file: class/week09/week09_summary
-    title: Week 9 - Object-oriented programming I
-    sections:
-    - file: class/week09/videos
-    - file: class/week09/readings
-    - file: class/week09/lecture
-    - file: class/week09/test
-    - file: class/week09/lab
-    - file: class/week09/learninglog
-  - file: class/week10/week10_summary
-    title: Week 10 - Object-oriented programming II
-    sections:
-    - file: class/week10/videos
-    - file: class/week10/readings
-    - file: class/week10/lecture
-    - file: class/week10/test
-    - file: class/week10/lab
-    - file: class/week10/learninglog
-  - file: class/week11/week11_summary
-    title: Week 11 - Arrays I
-    sections:
-    - file: class/week11/videos
-    - file: class/week11/readings
-    - file: class/week11/lecture
-    - file: class/week11/test
-    - file: class/week11/lab
-    - file: class/week11/learninglog
-  - file: class/week12/week12_summary
-    title: Week 12 - Arrays II
-    sections:
-    - file: class/week12/videos
-    - file: class/week12/readings
-    - file: class/week12/lecture
-    - file: class/week12/test
-    - file: class/week12/lab
-    - file: class/week12/learninglog
-  - file: class/week13/week13_summary
-    title: Week 13 - Text, Data, Videos (Optional)
-    sections:
-    - file: class/week13/videos
-    - file: class/week13/readings
-- caption: GitHub Classroom Links
-  chapters:
-  - file: class/labs
-    title: Labs
-  - file: class/activities
-    title: Lecture Activities
+  - file: getting-started/tasks1
+    title: Before the Term starts
+  - file: getting-started/tasks2
+    title: After the first class
+  - file: getting-started/tasks3
+    title: In the first week
+  # - file: class/week01/week01_summary.md
+  #   title: Week 1 - Introductions!
+  #   sections:
+  #     - file: class/week01/readings
+  #     - file: class/week01/videos
+  #     - file: class/week01/classes
+  #     - file: class/week01/homework
+  #     - file: class/week01/test
+  #     - file: class/week01/lab
+  #     - file: class/week01/learninglog
+
+      
+# - caption: Part 1 - New Beginnings
+#   chapters:
+#   - file: class/week00/week00_summary
+#     title: Week 0 - Getting Started
+#     sections:
+#     - file: class/week00/lecture
+#   - file: class/week01/week01_summary
+#     title: Week 1 - Setting up
+#     sections:
+#     - file: class/week01/videos
+#     - file: class/week01/readings
+#     - file: class/week01/lecture
+#     - file: class/week01/lab
+#       sections:
+#       - file: class/week01/macOS
+#       - file: class/week01/windows
+#       - file: class/week01/ubuntu
+#     - file: class/week01/test
+#     - file: class/week01/learninglog
+#   - file: class/week02/week02_summary
+#     title: Week 2 - Processing
+#     sections:
+#     - file: class/week02/videos
+#     - file: class/week02/readings
+#     - file: class/week02/lecture
+#     - file: class/week02/lab
+#     - file: class/week02/test
+#     - file: class/week02/learninglog
+# - caption: Part 2 - Processing
+#   chapters:
+#   - file: class/week03/week03_summary
+#     title: Week 3 - Interactions
+#     sections:
+#     - file: class/week03/videos
+#     - file: class/week03/readings
+#     - file: class/week03/lecture
+#     - file: class/week03/test
+#     - file: class/week03/lab
+#     - file: class/week03/learninglog
+#   - file: class/week04/week04_summary
+#     title: Week 4 - Variables
+#     sections:
+#     - file: class/week04/videos
+#     - file: class/week04/readings
+#     - file: class/week04/lecture
+#     - file: class/week04/test
+#     - file: class/week04/lab
+#     - file: class/week04/learninglog
+#   - file: class/week05/week05_summary
+#     title: Week 5 - Reading Week
+#   - file: class/week06/week06_summary
+#     title: Week 6 - Conditionals and Images
+#     sections:
+#     - file: class/week06/videos
+#     - file: class/week06/readings
+#     - file: class/week06/lecture
+#     - file: class/week06/test
+#     - file: class/week06/lab
+#     - file: class/week06/learninglog
+#   - file: class/week07/week07_summary
+#     title: Week 7 - Images and Loops
+#     sections:
+#     - file: class/week07/videos
+#     - file: class/week07/readings
+#     - file: class/week07/lecture
+#     - file: class/week07/test
+#     - file: class/week07/lab
+#     - file: class/week07/learninglog
+# - caption: Part 3 - Object-Oriented Programming
+#   chapters:
+#   - file: class/week08/week08_summary
+#     title: Week 8 - Functions
+#     sections:
+#     - file: class/week08/videos
+#     - file: class/week08/readings
+#     - file: class/week08/lecture
+#     - file: class/week08/test
+#     - file: class/week08/lab
+#     - file: class/week08/learninglog
+#   - file: class/week09/week09_summary
+#     title: Week 9 - Object-oriented programming I
+#     sections:
+#     - file: class/week09/videos
+#     - file: class/week09/readings
+#     - file: class/week09/lecture
+#     - file: class/week09/test
+#     - file: class/week09/lab
+#     - file: class/week09/learninglog
+#   - file: class/week10/week10_summary
+#     title: Week 10 - Object-oriented programming II
+#     sections:
+#     - file: class/week10/videos
+#     - file: class/week10/readings
+#     - file: class/week10/lecture
+#     - file: class/week10/test
+#     - file: class/week10/lab
+#     - file: class/week10/learninglog
+#   - file: class/week11/week11_summary
+#     title: Week 11 - Arrays I
+#     sections:
+#     - file: class/week11/videos
+#     - file: class/week11/readings
+#     - file: class/week11/lecture
+#     - file: class/week11/test
+#     - file: class/week11/lab
+#     - file: class/week11/learninglog
+#   - file: class/week12/week12_summary
+#     title: Week 12 - Arrays II
+#     sections:
+#     - file: class/week12/videos
+#     - file: class/week12/readings
+#     - file: class/week12/lecture
+#     - file: class/week12/test
+#     - file: class/week12/lab
+#     - file: class/week12/learninglog
+#   - file: class/week13/week13_summary
+#     title: Week 13 - Text, Data, Videos (Optional)
+#     sections:
+#     - file: class/week13/videos
+#     - file: class/week13/readings
+# - caption: GitHub Classroom Links
+#   chapters:
+#   - file: class/labs
+#     title: Labs
+#   - file: class/activities
+#     title: Lecture Activities
 - caption: Course Feedback
   chapters:
   - file: about/feedback

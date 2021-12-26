@@ -3,8 +3,11 @@ title: COSC 123
 author: Firas Moosvi
 logo: images/logo.jpg
 copyright: ""
-exclude_patterns: ["LICENSE.md", "README.md"]
+exclude_patterns: ["LICENSE.md", "README.md","files/*"]
 only_build_toc_files: true
+
+bibtex_bibfiles:
+  - about/citations.bib
 
 latex:
   latex_documents:
@@ -15,7 +18,7 @@ html:
   use_issues_button: true
   use_edit_page_button: true
   navbar_number_sections : false
-  baseurl : "https://firas.moosvi.com/courses/cosc123"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl : "https://firas.moosvi.com/courses/2021_WT2//cosc123"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   google_analytics_id: UA-168693744-4 # add your Google Analytics Tracking Code
   comments:
     hypothesis: false
@@ -27,11 +30,6 @@ html:
           All content on this site (unless otherwise specified) is licensed under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 license</a>
       </div>
 
-launch_buttons:
-  notebook_interface : "jupyterlab"
-  binderhub_url      : "https://mybinder.org"
-  thebe              : true
-
 repository: 
   url          : https://github.com/ubco-cmps/cosc123_course
   path_to_book : ""
@@ -41,6 +39,7 @@ sphinx:
   config:
     html_show_copyright: false
     html_extra_path: ['files']
+    bibtex_reference_style: author_year
     myst_enable_extensions: 
     - amsmath
     - colon_fence
@@ -48,31 +47,36 @@ sphinx:
     - dollarmath
     - html_image
     - linkify
-    - replacements
-    - smartquotes
     - substitution
-
     myst_substitutions:
-      INSTRUCTOR: Dr. Firas Moosvi
-      COURSE_CODE: COSC 123
-      COURSE_TITLE: (3) Computer Creativity
+      INSTRUCTOR: "Dr. Firas Moosvi (he/his/him)"
+      PRONOUNCE: "[Fur-az Moose-vee](https://namedrop.io/firasmoosvi)"
+      OFFICE: "SCI 393"
+      PHONE: "N/A"
+      COURSE_CODE: "COSC 123"
+      SECTION: "001"
+      CREDITS: "3"
+      TITLE: "Computer Creativity"
       PREREQS: One of COSC 111, COSC 122.
       COREQS: N/A
-      FEES: $0
-      TERM: 2020 Winter Term 2
-      W_DATE_1: 11:59 PDT on January 22, 2021 
-      W_DATE_2: 11:59 PDT on March 26, 2021 
-      W_DATE_3: 11:59 PDT on March 26, 2021
-      CANVAS_ID: '64279'
-      ED_ID: 7gqvVz
-      LECTURE_TIMES: (Required) Fridays 14:00 - 15:00 PST; Monday/Wednesday 08:00 - 09:00 PST [Tutorial]
-      CANVAS_LINK: "[Canvas](https://canvas.ubc.ca/courses/CANVAS_ID)"
+      TERM: "2021 Winter Term 2"
+      ROOM: "Lectures Online Via Zoom; Labs online until January 24th, 2022 (then in-person)"
+      MEETING_TIMES: "Tuesday, Thursday from 11:00 AM - 12:30 PM"
+      GRACE_PERIOD: "48 hour"
+      W_DATE_1: "11:59 PDT on January 21, 2022"
+      W_DATE_2: "11:59 PDT on March 18, 2022"
+      W_DATE_3: "March 18, 2022"
+      EXAM_PERIOD: "Thursday April 14th - Friday, April 29"
+      CANVAS_ID: "86697"
+      CANVAS_LINK: "https://canvas.ubc.ca/courses/CANVAS_ID" # {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID)) }}
       ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
-      CU_LINK: "[Collaborate Ultra](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/5284)"
-      ANNOUNCEMENTS_LINK: "[Canvas Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
-      COURSE_LINK: "https://firas.moosvi.com/courses/cosc123"
-      FORUM_LINK: "[Ed Discussion](https://edstem.org/us/join/JOIN_LINK)"
-      ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_4SB8DCF8fnktkLb)"
-
+      ANNOUNCEMENTS_LINK: "[Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
+      COURSE_LINK: "https://firas.moosvi.com/courses/2021_WT2/cosc123"
+      #FORUM_LINK: "Ed Discussion"
+      FORUM_LINK: "[Ed Discussion (sign up for it here)](https://ubc.ca1.qualtrics.com/jfe/form/SV_4UYDc6zEiwa2Jq6)"
+      ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_0p6lP4TtNpJn410)"
+      FORMAT: "Lectures will be online in this course all semester. Labs will be online until at least January 24th, 2022."
+      ASSOCIATE_HEAD: "Yves Lucet [yves.lucet@ubc.ca](mailto:yves.lucet@ubc.ca)"
+      ANON_FEEDBACK: "[feedback form](https://ubc.ca1.qualtrics.com/jfe/form/SV_e8mWuIdUjuNF4l7)"
 parse:
   myst_extended_syntax: true
