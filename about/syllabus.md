@@ -29,7 +29,7 @@ Additional details about the course are available on the {{ '[course website]({l
 
 For information on how to contact your course instructor, including office hours, see the {{ '[course website]({link})'.format(link=COURSE_LINK)}}.
 
-**Mode of Delivery:** Online (All course activities and assessments, including the Final Exam, will be conducted Online.)
+**Mode of Delivery:** {{ FORMAT }}
 
 ## Course Description
 
@@ -38,10 +38,20 @@ For information on how to contact your course instructor, including office hours
 
 ## Course Format
 
-This course has {{ FORMAT }}
+{{ FORMAT }}
 
 You will find all the important term dates in the [UBCO Academic Calendar](http://www.calendar.ubc.ca/okanagan/index.cfm?go=deadlines).
 
+## Under Construction
+
+```{figure} ../images/construction.jpeg
+---
+width: 750px
+name: Under Construction.
+---
+This course website is currently under construction. It will continue to be updated and will be released closer to the course start date. [Photo by Mabel Amber from Pexels](https://www.pexels.com/photo/traffic-red-blue-sign-117602/). 
+```
+<!-- 
 ## Learning Outcomes
 
 The Learning Outcomes for this course are: 
@@ -81,3 +91,5 @@ The tentative course schedule, subject to change, can be found on the {{ '[cours
 
 ```{include} syllabus_bits/policies.md
 ```
+ -->
+

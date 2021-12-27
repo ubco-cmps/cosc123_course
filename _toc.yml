@@ -1,7 +1,8 @@
 format: jb-book
 root: about/unsyllabus
+title: Course Unsyllabus
 parts:
-- caption: Important Links
+- caption: About this course
   chapters:
   - file: about/syllabus
     title: Course Syllabus
@@ -9,15 +10,15 @@ parts:
     title: Course Schedule
   - url: https://ubc.ca1.qualtrics.com/jfe/form/SV_4UYDc6zEiwa2Jq6
     title: Course Introduction
-  - file: about/doing_well
+  # - file: about/doing_well
 - caption: Getting Started
   chapters:
   - file: getting-started/tasks1
     title: Before the Term starts
   - file: getting-started/tasks2
-    title: After the first class
-  - file: getting-started/tasks3
     title: In the first week
+  - file: getting-started/tasks3
+    title: At the end of the first week
   # - file: class/week01/week01_summary.md
   #   title: Week 1 - Introductions!
   #   sections:

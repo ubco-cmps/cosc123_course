@@ -4,7 +4,7 @@ Things to do at the start of the course
 There are several things you'll need to do at the start of the course to get set up with all the technology, accounts, and services we'll be using.
 I've split these tasks up into several chunks so it's a bit more manageable. 
 
-## In the first week of Class
+## At the end of the first week
 
 ```{dropdown} 8. Complete the first Learning Log (LL01) on Gradescope.
     :container: + shadow

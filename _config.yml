@@ -13,7 +13,7 @@ latex:
   latex_documents:
     targetname: book.tex
 html:
-  home_page_in_navbar : false
+  home_page_in_navbar : true
   use_repository_button: true
   use_issues_button: true
   use_edit_page_button: true
@@ -60,7 +60,7 @@ sphinx:
       PREREQS: One of COSC 111, COSC 122.
       COREQS: N/A
       TERM: "2021 Winter Term 2"
-      ROOM: "Lectures Online Via Zoom; Labs online until January 24th, 2022 (then in-person)"
+      ROOM: "Lectures Online via Zoom"
       MEETING_TIMES: "Tuesday, Thursday from 11:00 AM - 12:30 PM"
       GRACE_PERIOD: "48 hour"
       W_DATE_1: "11:59 PDT on January 21, 2022"
@@ -75,7 +75,7 @@ sphinx:
       #FORUM_LINK: "Ed Discussion"
       FORUM_LINK: "[Ed Discussion (sign up for it here)](https://ubc.ca1.qualtrics.com/jfe/form/SV_4UYDc6zEiwa2Jq6)"
       ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_0p6lP4TtNpJn410)"
-      FORMAT: "Lectures will be online in this course all semester. Labs will be online until at least January 24th, 2022."
+      FORMAT: "Lectures will be online in this course all semester. Labs will be online until at least January 24th, 2022. Final Exam details TBD."
       ASSOCIATE_HEAD: "Yves Lucet [yves.lucet@ubc.ca](mailto:yves.lucet@ubc.ca)"
       ANON_FEEDBACK: "[feedback form](https://ubc.ca1.qualtrics.com/jfe/form/SV_e8mWuIdUjuNF4l7)"
 parse:
