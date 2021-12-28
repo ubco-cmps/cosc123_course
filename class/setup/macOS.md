@@ -7,10 +7,6 @@ macOS Install Instructions
     <base target="_blank">
 </head>
 
-```{important} 
-This guide has been adapted from the UBC-Vancouver [MDS Install stack](https://ubc-mds.github.io/resources_pages/installation_instructions/) under a CC-BY-SA 4.0 license.
-```
-
 These instructions will walk you through installing the required software stack for this course. 
 Before starting, ensure that your laptop meets the following requirements:
 
@@ -22,20 +18,6 @@ Before starting, ensure that your laptop meets the following requirements:
 - student user has full administrative access to the computer
 
 **Students' whose laptops do not meet the requirements specified above will not be able to receive technical assistance from the course team in troubleshooting installation issues.**
-
-## UBC Student Email
-
-Please sign up for a UBC Student Email. 
-This account will also grant you access to a range of UBC services, including Microsoft Teams and OneDrive. 
-To do so navigate to [https://it.ubc.ca/services/email-voice-internet/ubc-student-email-service](https://it.ubc.ca/services/email-voice-internet/ubc-student-email-service) and follow the instructions under "Get Started".
-
-## Install Microsoft Office (Optional!)
-
-UBC students have free access to a Microsoft Office 365 annual subscription, which is renewed for students enrolled in at least one course.
-Office 365 includes Word, Excel, PowerPoint, Outlook, and OneNote, and is available on a variety of platforms, including Windows, Mac, and Linux/Android.
-
-To get your free Office 365 license and download the installer files, visit [UBC IT] (https://it.ubc.ca/services/desktop-print-services/software-licensing/office-365-students) and click `Download Office 365`.
-Note that you will need your CWL login credentials in order to download the software and activate your license.
 
 ## Visual Studio Code
 
@@ -74,7 +56,7 @@ x64
 
 The real magic of VS Code is in the extensions that let you add languages, debuggers, and tools to your installation to support your specific workflow. Now that we have installed all our other Data Science tools, we can install the VS Code extensions that work really well with them. From within VS Code you can open up the [Extension Marketplace (read more here)](https://code.visualstudio.com/docs/editor/extension-gallery) to browse and install extensions by clicking on the Extensions icon in the Activity Bar indicated in the figure below.
 
-<img src="week01_images/vscode.png" alt = ""/>
+<img src="images/vscode.png" alt = ""/>
 
 To install an extension, you simply search for it in the search bar, click the extension you want, and then click "Install". 
 There are extensions available to make almost any workflow or task you are interested in more efficient!
@@ -174,6 +156,10 @@ You have completed the installation instructions, well done 🙌!
 Remember to add a screenshot as instructed in your lab!
 
 ### Attributions
+
+```{important} 
+This guide has been adapted from the UBC-Vancouver [MDS Install stack](https://ubc-mds.github.io/resources_pages/installation_instructions/) under a CC-BY-SA 4.0 license.
+```
 
 * [Harvard CS109](http://cs109.github.io/2015/)
 * [UBC STAT 545](http://stat545.com/packages01_system-prep.html#mac-os-system-prep) licensed under the [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/legalcode).

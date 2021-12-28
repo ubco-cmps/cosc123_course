@@ -7,10 +7,6 @@ Ubuntu Install Instructions
     <base target="_blank">
 </head>
 
-```{important} 
-This guide has been (lightly) adapted from the UBC-Vancouver [MDS Install stack](https://ubc-mds.github.io/resources_pages/installation_instructions/) under a CC-BY-SA 4.0 license.
-```
-
 These instructions will walk you through installing the required software stack for this course. 
 Before starting, ensure that your laptop meets the following requirements:
 
@@ -108,7 +104,7 @@ Then save the file and exit VS Code.
 The real magic of VS Code is in the extensions that let you add languages, debuggers, and tools to your installation to support your specific workflow. 
 From within VS Code you can open up the [Extension Marketplace (read more here)](https://code.visualstudio.com/docs/editor/extension-gallery) to browse and install extensions by clicking on the Extensions icon in the Activity Bar indicated in the figure below.
 
-<img src="week01_images/vscode.png" alt = ""/>
+<img src="images/vscode.png" alt = ""/>
 
 To install an extension, you simply search for it in the search bar, click the extension you want, and then click "Install". 
 There are extensions available to make almost any workflow or task you are interested in more efficient! 
@@ -126,6 +122,10 @@ You have completed the installation instructions, well done 🙌!
 Remember to add a screenshot as instructed in your lab!
 
 ### Attributions
+
+```{important} 
+This guide has been (lightly) adapted from the UBC-Vancouver [MDS Install stack](https://ubc-mds.github.io/resources_pages/installation_instructions/) under a CC-BY-SA 4.0 license.
+```
 
 * [Harvard CS109](http://cs109.github.io/2015/)
 * [UBC STAT 545](http://stat545.com/packages01_system-prep.html#mac-os-system-prep) licensed under the [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/legalcode).

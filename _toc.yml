@@ -19,6 +19,11 @@ parts:
     title: In the first week
   - file: getting-started/tasks3
     title: At the end of the first week
+# - caption: Setup Your Machine
+#   chapters:
+#   - file: class/setup/macOS
+#   - file: class/setup/windows
+#   - file: class/setup/ubuntu
   # - file: class/week01/week01_summary.md
   #   title: Week 1 - Introductions!
   #   sections:
@@ -153,8 +158,8 @@ parts:
 #     - file: class/week13/readings
 # - caption: GitHub Classroom Links
 #   chapters:
-#   - file: class/labs
-#     title: Labs
+#   - file: class/links
+#     title: GitHub Classroom Links
 #   - file: class/activities
 #     title: Lecture Activities
 - caption: Course Feedback
