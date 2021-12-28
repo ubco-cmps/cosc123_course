@@ -2,6 +2,9 @@
 Course Schedule
 =======================
 
+```{include} syllabus_bits/schedule.md
+```
+
 This is the tentative plan for {{ COURSE_CODE }} this term.
 Things may change depending on many factors so this is subject to change.
 
@@ -9,7 +12,7 @@ P.S. Labs start on January 18th.
 
 | Wk | Date   | Topic                                                      | Activity | Lab    | Logs  | Test / Bonus Test        |
 |----|--------|------------------------------------------------------------|----------|--------|-------|--------------------------|
-| 0  | Jan 11 | About this course, and Processing                          | --       | --     | --    | --                       |
+| ``  | Jan 11 | About this course, and Processing                          | --       | --     | --    | --                       |
 | 1  | Jan 18 | Setting up (Git, GitHub, the Terminal and some Processing) | A1       | Lab 1  | LL 1  | Test 0 (course policies) |
 | 2  | Jan 25 | Starting with Pixels in Processing and the environment     | A2       | Lab 2  | LL 2  | Test 1 (weeks 0-2)       |
 | 3  | Feb 1  | Interactions                                               | A3       | Lab 3  | LL 3  | Bonus Test 1             |
