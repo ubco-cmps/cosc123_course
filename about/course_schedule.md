@@ -10,6 +10,7 @@ Things may change depending on many factors so this is subject to change.
 
 P.S. Labs start on January 18th.
 
+<!-- 
 | Wk | Date   | Topic                                                      | Activity | Lab    | Logs  | Test / Bonus Test        |
 |----|--------|------------------------------------------------------------|----------|--------|-------|--------------------------|
 | ``  | Jan 11 | About this course, and Processing                          | --       | --     | --    | --                       |
@@ -27,7 +28,7 @@ P.S. Labs start on January 18th.
 | 12 | Apr 5  | Arrays                                                     | A11      | --     | LL 12 | Test 5 (weeks 11-12)      |
 | 13 | Apr 12 | Text, Data, Videos (Optional)                              | --       | --     | --    | Bonus Test 5             |
 
-<!-- 
+
 00. Kinect and processing (Ignore)
 
 Test 1: Git and Command Line & Primitive Shapes in processing (Weeks 0-2)
