@@ -2,15 +2,14 @@
 
 The [UBCO calendar description](https://www.calendar.ubc.ca/okanagan/courses.cfm?code=PHYS) of this course is: 
 
-> PHYS 111 (3) Introductory Physics for the Physical Sciences I
+> COSC 123 (3) Computer Creativity
 > 
-> Introduction to mechanics primarily for students majoring in the physical sciences (e.g. physics, chemistry, mathematics, computer science, geology, physical geography) or engineering.
-> Particle kinematics and dynamics, work and energy, momentum, gravitation, rigid body motion, fluid statics and dynamics with applications to the physical sciences.
-> Credit will be granted for only one of PHYS 111 and PHYS 112. Students with Physics 12 may apply for a tutorial exemption. [3-3-1]
+> A hands-on introduction to programming and computer-based problem solving and creativity.
+> Experience with application development including storytelling, graphics, games, and networking. [3-2-0]
 > 
-> Prerequisite: One of MATH 12, PREC 12, MATH 125, MATH 126 and PHYS 11. Physics 12 is strongly recommended.
+> Prerequisite: One of COSC 111, COSC 122..
 > 
-> Corequisite: MATH 100.
+> Corequisite: N/A.
 
 ```{warning}
 If there is a lab and/or tutorial listed on the SSC for this course, You **must** register for all course elements without conflicts, otherwise the department will remove you from the course!
