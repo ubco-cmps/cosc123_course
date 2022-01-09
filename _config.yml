@@ -78,5 +78,3 @@ sphinx:
       FORMAT: "Lectures will be online in this course all semester. Labs will be online until at least January 24th, 2022. Final Exam details TBD."
       ASSOCIATE_HEAD: "Yves Lucet [yves.lucet@ubc.ca](mailto:yves.lucet@ubc.ca)"
       ANON_FEEDBACK: "[feedback form](https://ubc.ca1.qualtrics.com/jfe/form/SV_e8mWuIdUjuNF4l7)"
-parse:
-  myst_extended_syntax: true

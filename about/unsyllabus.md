@@ -1,4 +1,4 @@
-![](../images/header.jpg)
+![](../images/header.png)
 
 ![](../images/UBCO_CMPS_header.jpg)
 
@@ -9,6 +9,7 @@
 ```{include} unsyllabus_bits/important_details.md
 ```
 
+<!-- 
 ```{figure} ../images/construction.jpeg
 ---
 width: 750px
@@ -16,7 +17,8 @@ name: Under Construction.
 ---
 This course website is currently under construction. It will continue to be updated and will be released closer to the course start date. [Photo by Mabel Amber from Pexels](https://www.pexels.com/photo/traffic-red-blue-sign-117602/). 
 ```
-<!-- 
+-->
+
 ## Contact Us
 
 ```{include} syllabus_bits/teaching_team.md
@@ -32,10 +34,12 @@ This course website is currently under construction. It will continue to be upda
 ```{include} syllabus_bits/passing_requirement.md
 ```
 
+<!-- 
 ## Learning Outcomes
 
 ```{include} syllabus_bits/course_LOs.md
 ```
+-->
 
 ## Schedule
 
@@ -49,7 +53,7 @@ This course website is currently under construction. It will continue to be upda
 
 ## Syllabus vs. Unsyllabus
 
-```{include} syllabus_bits/syllabus_00_why.md
+```{include} unsyllabus_bits/why_syllabus_unsyllabus.md
 ```
 
 ## Unsyllabus changes
@@ -57,14 +61,16 @@ This course website is currently under construction. It will continue to be upda
 ```{include} unsyllabus_bits/changes.md
 ```
 
+<!--
 ## How do I do well in this course?
 
 ```{include} unsyllabus_bits/doing_well_physics.md
 ```
+-->
 
 ## Course Tools
 
-```{include} unsyllabus_bits/changes.md
+```{include} unsyllabus_bits/course_tools.md
 ```
 
 ## Teaching Philosophy
@@ -97,4 +103,3 @@ This course website is currently under construction. It will continue to be upda
 ```{bibliography}
 :style: unsrt
 ```
--->
