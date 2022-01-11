@@ -259,11 +259,18 @@ This is a bit tricky, so please make sure you follow these directions carefully.
 - Click Developer Settings
 - Click "Personal access tokens", set the appropriate permissions at the "repo" level (see gif below):
 
-<img src="setup/images/github_PAT.gif">
+<img src="images/github_PAT.gif">
 
+- Set the Expiration to "No Expiration"
 - Click "Generate new token"
 - Save this token somewhere on your computer, you will need it when you clone a repository to your computer.
 - Don't share your token with anyone and protect it like it's your password! You will not be able to come back to this page to get your token. If you forget it, or lose it, you can just delete the token and create another one.
+
+```{warning}
+Please make sure you set the expiration date of the personal access token to be "No Expiration", otherwise you will lose access to GitHub at the WORST possible time and have to do this again.
+```
+
+<img src="images/github_PAT_expiration.gif">
 
 ## Processing
 

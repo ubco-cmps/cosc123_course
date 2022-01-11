@@ -45,7 +45,7 @@ It is *very* important that you have the most recent version of Zoom installed, 
 The latest version of Zoom as of January 2022 is: `5.9.1 (3506)`. 
 You can ensure you have the latest version of Zoom by clicking "Check for Updates" as shown in the screenshot below.
 
-<img src="setup/images/zoom.png" alt = "Zoom 'Check for Updates' showing the latest version of Zoom is installed."/>
+<img src="images/zoom.png" alt = "Zoom 'Check for Updates' showing the latest version of Zoom is installed."/>
 
 ```{important}
 Please note that if you have been relying on the "web version" of Zoom that works only in a browser, this will not work for this course! Please make sure to download the Zoom desktop client for your operating system to fully participate in the course.
@@ -56,7 +56,7 @@ Please note that if you have been relying on the "web version" of Zoom that work
 Sign up for a free account at [GitHub.com](https://github.com/) if you don't have one already.
 Your GitHub username is important, here's how to find your username:
 
-<img src="setup/images/github_account.png" alt = "Pointing to the top right once you log into GitHub.com to identify your username."/>
+<img src="images/github_account.png" alt = "Pointing to the top right once you log into GitHub.com to identify your username."/>
 
 ## Visual Studio Code
 
@@ -170,11 +170,18 @@ This is a bit tricky, so please make sure you follow these directions carefully.
 - Click Developer Settings
 - Click "Personal access tokens", set the appropriate permissions at the "repo" level (see gif below):
 
-<img src="setup/images/github_PAT.gif">
+<img src="images/github_PAT.gif">
 
+- Set the Expiration to "No Expiration"
 - Click "Generate new token"
 - Save this token somewhere on your computer, you will need it when you clone a repository to your computer.
 - Don't share your token with anyone and protect it like it's your password! You will not be able to come back to this page to get your token. If you forget it, or lose it, you can just delete the token and create another one.
+
+```{warning}
+Please make sure you set the expiration date of the personal access token to be "No Expiration", otherwise you will lose access to GitHub at the WORST possible time and have to do this again.
+```
+
+<img src="images/github_PAT_expiration.gif">
 
 ## Processing
 
