@@ -10,7 +10,6 @@ parts:
     title: Course Schedule
   - url: https://ubc.ca1.qualtrics.com/jfe/form/SV_4UYDc6zEiwa2Jq6
     title: Course Introduction
-  # - file: about/doing_well
 - caption: Getting Started
   chapters:
   - file: getting-started/tasks1
@@ -19,29 +18,20 @@ parts:
     title: In the first week
   - file: getting-started/tasks3
     title: At the end of the first week
-# - caption: Setup Your Machine
-#   chapters:
-#   - file: class/setup/macOS
-#   - file: class/setup/windows
-#   - file: class/setup/ubuntu
-  # - file: class/week01/week01_summary.md
-  #   title: Week 1 - Introductions!
-  #   sections:
-  #     - file: class/week01/readings
-  #     - file: class/week01/videos
-  #     - file: class/week01/classes
-  #     - file: class/week01/homework
-  #     - file: class/week01/test
-  #     - file: class/week01/lab
-  #     - file: class/week01/learninglog
+- caption: Setup Your Machine
+  chapters:
+  - file: class/setup/macOS
+  - file: class/setup/windows
+  - file: class/setup/ubuntu
 
-      
-# - caption: Part 1 - New Beginnings
-#   chapters:
-#   - file: class/week00/week00_summary
-#     title: Week 0 - Getting Started
-#     sections:
-#     - file: class/week00/lecture
+
+- caption: Part 1 - New Beginnings
+  chapters:
+  - file: class/week01/week01_summary
+    title: Week 1 - Getting Started
+    sections:
+    - file: class/week01/class1A
+    - file: class/week01/class1B
 #   - file: class/week01/week01_summary
 #     title: Week 1 - Setting up
 #     sections:
