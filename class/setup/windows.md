@@ -182,7 +182,21 @@ Then save the file and exit VS Code.
 
 > Most terminal programs will read the `EDITOR` environmental variable when determining which editor to use, but some read `VISUAL`, so we're setting both to the same value.
 
-## Post-installation notes
+## Processing
+
+To install the Processing Development Environment (PDE), you should follow these steps:
+
+1. [Visit the download page](https://processing.org/download/).
+1. Download the installer for the latest version (v4.0 beta 2) your operating system (Windows, macOS, or Linux)
+1. See the installation instructions for your operating system ([adapted from here](https://processing.org/tutorials/gettingstarted/)):
+
+    - On Windows, you'll have a .zip file. Double-click it, and drag the folder inside to a location on your hard disk. I suggest a location where your other programs are stored. Once it's moved out of the unzipped folder, you can double-click processing.exe to start.
+
+    - On macOS, the installer is also a .zip file. Double-click it and drag the Processing icon to the Applications folder. Then double-click the Processing icon to start.
+
+    - The Linux version is a .tar.gz file. Download the file to your home directory, then open a Terminal window, and type: `tar xvfz processing-4.0b2-linux64.tgz`. This will create a folder. Then change to that directory: `cd processing-4.0b2` and then run it by typing `./processing`.
+
+## That's it!
 
 You have completed the installation instructions, well done 🙌!
 Remember to add a screenshot as instructed in your lab!
