@@ -1,6 +1,6 @@
 # Test
 
-This week is Bonus Test 4, and it will mostly be on the contents of Weeks 8-10, or Methods and Object Oriented Programming.
+This week is Test 4, and it will mostly be on the contents of Weeks 8-10, or Methods and Object Oriented Programming.
 
 Here is what it will cover:
 

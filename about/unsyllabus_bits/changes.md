@@ -3,6 +3,6 @@ We will do our best to follow the plan outlined in this unsyllabus, but in case 
 
 Any major changes to the syllabus (this page) will be documented here, as well as the date the change was made. 
 
-| Change Date   | Summary                                                     | Rationale  |
-|---------------|-------------------------------------------------------------|------------|
-|  |  |  |
+| Change Date | Summary | Rationale |
+|-------------|---------|-----------|
+|             |         |           |

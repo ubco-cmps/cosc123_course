@@ -1,10 +1,8 @@
-# Bonus Test 1
+# Test 1
 
 ````{panels}
 
-This week will be your first bonus test.
-It will cover the same content as Test 1, and we will take the better score of the Test/Bonus Test pair.
-
+This week will be your first test.
 Here is what it will cover:
 
 - Basic Git Commands (init, commit, add, pull, push, fetch, merge, branch)

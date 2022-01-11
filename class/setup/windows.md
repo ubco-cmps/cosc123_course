@@ -7,17 +7,49 @@ Windows Install Instructions
     <base target="_blank">
 </head>
 
-These instructions will walk you through installing the required software stack for this course. 
-Before starting, ensure that your laptop meets the following requirements:
+These instructions will walk you through installing the required Computer Science software stack for {{ COURSE_CODE }}. 
+Before starting, ensure that your laptop meets the minimum requirements:
 
-- runs one of the following operating systems: macOS 11.x, Windows 10, and Ubuntu 20.04.
+- runs one of the following operating systems: 
+    - Macs: 
+        - Latest: macOS 12.1
+        - Recommended: macOS 10.14.6 or higher
+        - Required: macOS 10.11 (El Capitan)
+    - Windows: 
+        - Latest: Windows 11
+        - Recommended: Windows 10 (64-bit) or higher
+        - Required: Windows 7 or higher
+    - Ubuntu: 
+        - Latest: Ubuntu 21.10
+        - Recommended: Ubuntu 20.04 or higher
+        - Required: version 18.04
 - can connect to networks via a wireless connection
-- has at least 50 GB disk space available
-- has at least 8 GB of RAM
+- has at least 25 GB disk space available
+- has at least 4 GB of RAM
 - uses English as the default language (if you want TAs or the instructor to help you)
 - student user has full administrative access to the computer
 
-**Students' whose laptops do not meet the requirements specified above will not be able to receive technical assistance from the course team in troubleshooting installation issues.**
+**We will do our best to help you if your laptop does not meet the minimum requirements, but there are no guarantees we will be able to get things to work so be warned.**
+
+## Web browser
+
+You are welcome to use most modern browsers that have a WebKit or Gecko backend.
+[Safari](https://www.apple.com/ca/safari/), [Firefox](https://www.mozilla.org/en-CA/firefox/new/?redirect_source=firefox-com), [Vivaldi](https://vivaldi.com), [Brave](https://brave.com), [Edge](https://www.microsoft.com/en-us/edge) are all recommended.
+Google Chrome is not recommended because of the [well-documented privacy and tracking issues with Google](https://www.forbes.com/sites/zakdoffman/2021/03/20/stop-using-google-chrome-on-apple-iphone-12-pro-max-ipad-and-macbook-pro/).
+
+## Zoom
+
+We will be using Zoom in this course for the classes, as well as the labs, and student hours.
+It is *very* important that you have the most recent version of Zoom installed, as we will be using many of the features that are only available in more recent versions.
+
+The latest version of Zoom as of January 2022 is: `5.9.1 (3506)`.
+You can ensure you have the latest version of Zoom by clicking "Check for Updates" as shown in the screenshot below.
+
+<img src="setup/images/zoom.png" alt = "Zoom 'Check for Updates' showing the latest version of Zoom is installed."/>
+
+```{important}
+Please note that if you have been relying on the "web version" of Zoom that works only in a browser, this will not work for this course! Please make sure to download the Zoom desktop client for your operating system to fully participate in the course.
+```
 
 ## Visual Studio Code
 
@@ -114,8 +146,8 @@ code --version
 ```
 
 ```
-1.47.3
-91899dcef7b8110878ea59626991a18c8a6a1b3e
+1.63.2
+899d46d82c4c95423fb7e10e68eba52050e30ba3
 x64
 ```
 

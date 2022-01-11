@@ -1,22 +1,15 @@
-# Test 1
+# Test 0
 
 ````{panels}
 
-This week will be your first test.
-Here is what it will cover:
-
-- Basic Git Commands (init, commit, add, pull, push, fetch, merge, branch)
-- Terminal commands (pwd, ls, mv, cp, touch, mkdir)
-- File structures and hierarchies
-- Relative vs. Absolute paths
-- Markdown syntax
-
-You will have approximately 60 minutes to do the Test.
+This week is your first test - it is NOT for marks, but is not optional.
+It will cover the course policies and will be timed to give you practice on how the testing system works.
+This test will be open to you on Thursday at 6 PM and will remain open until Saturday at 6 PM.
 
 ++++ 
 
-```{link-button} https://canvas.ubc.ca/courses/64279/quizzes/314003
-:text: Test1 will be available during the weekly Test window (Thursday 6PM - Saturday 6PM).
+```{link-button} https://canvas.ubc.ca/courses/64279/quizzes/313864
+:text: Test0
 :type: url
 :classes: btn-outline-success btn-block stretched-link text-dark
 ```

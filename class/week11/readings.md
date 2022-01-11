@@ -5,4 +5,6 @@ They are here if you need an additional resource to reference.
 
 ## Suggested Readings
 
-<label><input type="checkbox" id="week11_reading1" class="box"> **[Arrays](https://processing.org/tutorials/arrays/)** </input></label> 
+This week the readings are listed below:
+
+<label><input type="checkbox" id="week10_reading1" class="box"> **[Objects](https://processing.org/tutorials/objects/)** </input></label> 
