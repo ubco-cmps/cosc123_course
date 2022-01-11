@@ -42,7 +42,7 @@ Many of you are familiar with the "Traditional Grading" model many courses use.
 Briefly, this model involves earning (or losing) points on individual assessments throughout the course, and then a grade calculated by doing a "weighted-average" throughout the term.
 
 You may be surprised to learn that this is not the only way classes can be structured, and there are alternative models that research has shown to be far better for learning, motivation, attitudes, and long-term benefit.
-If you're interested in learning more details about the last sentence (and if it surprises you), I encourage you to [check out this very accessible paper](https://www.lifescied.org/doi/full/10.1187/cbe.cbe-14-03-0054) from Drs. Jeffrey Schinske and Kimberly Tanner {cite:t}`Schinske:2014`.
+If you're interested in learning more details about the last sentence (and if it surprises you), I encourage you to [check out this very accessible paper](https://www.lifescied.org/doi/full/10.1187/cbe.cbe-14-03-0054) from Drs. {cite:t}`Schinske:2014`.
 
 I am not quite ready to fully move away from Traditional Grading yet (mostly because of a lack of resources, otherwise I'm totally all-in!) but I'd like to experiment with a modified version of Specifications-Grading this term.
 Here are some [key features](https://twitter.com/siwelwerd/status/1472940473924960261) of Specifications Grading:
