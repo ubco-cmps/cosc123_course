@@ -32,6 +32,10 @@ parts:
     sections:
     - file: class/week01/class1A
     - file: class/week01/class1B
+    - file: class/week01/activity01/README
+      title: Activity 1
+      sections:
+        - file: class/week01/activity01/Task1
 #   - file: class/week01/week01_summary
 #     title: Week 1 - Setting up
 #     sections:
@@ -149,9 +153,7 @@ parts:
 # - caption: GitHub Classroom Links
 #   chapters:
 #   - file: class/links
-#     title: GitHub Classroom Links
-#   - file: class/activities
-#     title: Lecture Activities
+#     title: Lab and Activity Links
 - caption: Course Feedback
   chapters:
   - file: about/feedback
