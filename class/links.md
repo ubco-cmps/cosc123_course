@@ -1,12 +1,12 @@
 (page_labintro)=
-Labs
+Lab and Activity Links
 =======================
 
 <head>
     <base target="_blank">
 </head>
 
-## Activities
+## Class Activities
 
 We are using GitHub Classroom to deliver the Class Activities for this course.
 You will first need to create a GitHub account, and then you can accept each Class Activity.
@@ -18,7 +18,7 @@ Once the deadline and the grace period has passed, you will no longer be able to
 
 | Activities                           | Due Date | Link to Accept      |
 |--------------------------------------|----------|---------------------|
-| [Activity 1](class/week01/activity)  |          | [Accept Activity]() |
+| [Activity 1](class/week01/activity)  |          | [Accept Activity](https://cbc.ca) |
 | [Activity 2](class/week02/activity)  |          | [Accept Activity]() |
 | [Activity 3](class/week03/activity)  |          | [Accept Activity]() |
 | [Activity 4](class/week04/activity)  |          | [Accept Activity]() |
