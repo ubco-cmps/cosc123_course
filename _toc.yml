@@ -150,10 +150,10 @@ parts:
 #     sections:
 #     - file: class/week13/videos
 #     - file: class/week13/readings
-# - caption: GitHub Classroom Links
-#   chapters:
-#   - file: class/links
-#     title: Lab and Activity Links
+- caption: GitHub Classroom Links
+  chapters:
+  - file: class/links
+    title: Lab and Activity Links
 - caption: Course Feedback
   chapters:
   - file: about/feedback
