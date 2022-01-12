@@ -3,8 +3,8 @@ The exact details are subject to change, so this is roughly the plan we will try
 
 | #  | Week           | Topics                                                                       | Lab | Activity | Logs | Tests          | Concepts Tested                                                   |
 |----|----------------|------------------------------------------------------------------------------|-----|----------|------|----------------|-------------------------------------------------------------------|
-| 1  | Jan 10 - 16    | Introduction to COSC 123 <br /> Markdown and Technology Setup                | 1   | 1        | 1    | Test 0         | Course Policies                                                   |
-| 2  | Jan 17 - 23    | Introduction to Processing <br /> Introduction to Version Control            | 2   | 2        | 2    | -              |                                                                   |
+| 1  | Jan 10 - 16    | Introduction to COSC 123 <br /> Markdown and Technology Setup                | 1   | 1        | 1    | -              |                                                                   |
+| 2  | Jan 17 - 23    | Introduction to Processing <br /> Introduction to Version Control            | 2   | 2        | 2    | Test 0         | Course Policies                                                   |
 | 3  | Jan 24 - 30    | Starting with Pixels in Processing <br /> Processing Development Environment | 3   | 3        | 3    | Test 1         | Command-line, Version Control, Processing (Weeks 1-3)             |
 | 4  | Jan 31 - Feb 6 | Interactions <br />                                                          | 4   | 4        | 4    | (Bonus Test 1) |                                                                   |
 | 5  | Feb 7 - 13     | Variables<br />                                                              | 5   | 5        | 5    | Test 2         | Processing, Interactions and Variables (Weeks 3-5)                |

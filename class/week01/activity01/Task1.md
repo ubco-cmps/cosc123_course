@@ -2,7 +2,9 @@
 
 ## Task 1.1: Accept the lab assignment
 
-You can find the link to accept the lab on Canvas, under "Course Content" and then "GitHub Links".
+- You will find the link to accept the lab on Canvas, under "Course Content" and then "GitHub Links".
+
+![](images/accept_activities.gif)
 
 - You can get your clone URL from GitHub:
 

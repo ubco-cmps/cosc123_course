@@ -1,5 +1,5 @@
 (page_topic7)=
-Week 7 Summary
+Week 8 Summary
 =======================
 
 ## About this page

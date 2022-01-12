@@ -1,5 +1,5 @@
 (page_topic5)=
-Week 5 Summary
+Week 6 Summary
 =======================
 
 <!-- This week there is no new content in this course.
