@@ -39,8 +39,8 @@ parts:
     - file: class/week01/lab/README
       title: Lab 1
       sections:
-        - file: class/week01/lab/Task1.md
-        - file: class/week01/lab/Task2.md
+        - file: class/week01/lab/Task1
+        - file: class/week01/lab/Task2
 #   - file: class/week01/week01_summary
 #     title: Week 1 - Setting up
 #     sections:
