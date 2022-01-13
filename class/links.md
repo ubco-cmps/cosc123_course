@@ -48,7 +48,7 @@ Once the deadline and the grace period has passed, you will no longer be able to
 
 | Lab                     | Due Date | Link to Accept |
 |-------------------------|----------|----------------|
-| [Lab 1](week01/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/kUnSuy0O) |
+| [Lab 1](week01/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/dUtXCqtm) |
 | [Lab 2](week02/lab.md)  |          | [Accept Lab]() |
 | [Lab 3](week03/lab.md)  |          | [Accept Lab]() |
 | [Lab 4](week04/lab.md)  |          | [Accept Lab]() |
