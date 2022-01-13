@@ -18,7 +18,7 @@ Once the deadline and the grace period has passed, you will no longer be able to
 
 | Activities                           | Due Date | Link to Accept      |
 |--------------------------------------|----------|---------------------|
-| [Activity 1](class/week01/activity)  |          | [Accept Activity]() |
+| [Activity 1](class/week01/activity)  |          | [Accept Activity](https://classroom.github.com/a/kUnSuy0O) |
 | [Activity 2](class/week02/activity)  |          | [Accept Activity]() |
 | [Activity 3](class/week03/activity)  |          | [Accept Activity]() |
 | [Activity 4](class/week04/activity)  |          | [Accept Activity]() |
@@ -48,7 +48,7 @@ Once the deadline and the grace period has passed, you will no longer be able to
 
 | Lab                     | Due Date | Link to Accept |
 |-------------------------|----------|----------------|
-| [Lab 1](week01/lab.md)  |          | [Accept Lab]() |
+| [Lab 1](week01/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/kUnSuy0O) |
 | [Lab 2](week02/lab.md)  |          | [Accept Lab]() |
 | [Lab 3](week03/lab.md)  |          | [Accept Lab]() |
 | [Lab 4](week04/lab.md)  |          | [Accept Lab]() |
