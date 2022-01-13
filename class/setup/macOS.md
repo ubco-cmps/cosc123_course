@@ -45,7 +45,7 @@ It is *very* important that you have the most recent version of Zoom installed, 
 The latest version of Zoom as of January 2022 is: `5.9.1 (3506)`.
 You can ensure you have the latest version of Zoom by clicking "Check for Updates" as shown in the screenshot below.
 
-<img src="setup/images/zoom.png" alt = "Zoom 'Check for Updates' showing the latest version of Zoom is installed."/>
+<img src="images/zoom.png" alt = "Zoom 'Check for Updates' showing the latest version of Zoom is installed."/>
 
 ```{important}
 Please note that if you have been relying on the "web version" of Zoom that works only in a browser, this will not work for this course! Please make sure to download the Zoom desktop client for your operating system to fully participate in the course.
@@ -56,7 +56,7 @@ Please note that if you have been relying on the "web version" of Zoom that work
 Sign up for a free account at [GitHub.com](https://github.com/) if you don't have one already.
 Your GitHub username is important, here's how to find your username:
 
-<img src="setup/images/github_account.png" alt = "Pointing to the top right once you log into GitHub.com to identify your username."/>
+<img src="images/github_account.png" alt = "Pointing to the top right once you log into GitHub.com to identify your username."/>
 
 ## Visual Studio Code
 
@@ -164,7 +164,7 @@ you should see something like this if you were successful:
 x64
 ```
 
-[Manual install instructions are here, but remember you're using the zsh now!](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) steps as well.
+[Manual install instructions are here, but remember you're using the zsh now!](https://code.visualstudio.com/docs/mac#_launching-from-the-command-line) steps as well.
 
 ### Setting VS Code as the default editor
 
@@ -270,7 +270,7 @@ This is a bit tricky, so please make sure you follow these directions carefully.
 Please make sure you set the expiration date of the personal access token to be "No Expiration", otherwise you will lose access to GitHub at the WORST possible time and have to do this again.
 ```
 
-<img src="images/github_PAT_expiration.gif">
+<img src="images/github_PAT_expiration.png">
 
 ## Processing
 

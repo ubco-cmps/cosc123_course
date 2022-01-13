@@ -181,7 +181,7 @@ This is a bit tricky, so please make sure you follow these directions carefully.
 Please make sure you set the expiration date of the personal access token to be "No Expiration", otherwise you will lose access to GitHub at the WORST possible time and have to do this again.
 ```
 
-<img src="images/github_PAT_expiration.gif">
+<img src="images/github_PAT_expiration.png">
 
 ## Processing
 
