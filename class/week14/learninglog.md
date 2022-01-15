@@ -1,15 +1,12 @@
 # Learning Logs
 
-This week's learning log assignment will be posted on Canvas mid-week:
-
 ````{panels}
 
-This week's learning log assignment is now posted on Canvas.
-
+This week's learning log assignment will be posted on Gradescope at the end of the week:
 ++++ 
 
-```{link-button} https://canvas.ubc.ca/courses/64279
-:text: Learning Log #13
+```{link-button} https://www.gradescope.ca/courses/5934
+:text: Learning Log #14
 :type: url
 :classes: btn-outline-primary btn-block stretched-link text-dark
 ```

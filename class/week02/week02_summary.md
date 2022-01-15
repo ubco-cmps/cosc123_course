@@ -10,19 +10,17 @@ Once you finish the task, check off the box so you can keep track of your progre
 
 ## List of things to do this week
 
-<label><input type="checkbox" id="week01_task1" class="box"> [**Watch the lecture videos**](./videos.md)</input></label>
+<label><input type="checkbox" id="week02_task1" class="box"> [**Watch the lecture videos**](videos.md)</input></label>
 
-<label><input type="checkbox" id="week01_task2" class="box"> [**Skim the assigned readings**](./readings.md)</input></label>
+<label><input type="checkbox" id="week02_task2" class="box"> [**Attend Classes**](class2A.ipynb) </input></label>
 
-<label><input type="checkbox" id="week01_task3" class="box"> [**Attend the Lecture**](./lecture.ipynb) </input></label>
+<label><input type="checkbox" id="week02_task3" class="box"> [**Complete the Lecture Activity**](activity/README.md) </input></label>
 
-<label><input type="checkbox" id="week01_task4" class="box"> [**Complete the Lecture Activity**](./lecture.ipynb) </input></label>
+<label><input type="checkbox" id="week02_task4" class="box"> [**Attend and Complete the lab**](lab/README.md) </input></label>
 
-<label><input type="checkbox" id="week01_task5" class="box"> [**Attend and Complete the lab**](./lab.md) </input></label>
+<label><input type="checkbox" id="week02_task5" class="box"> [**Write Test 0 on course policies (not for marks)**](test.md) </input></label>
 
-<label><input type="checkbox" id="week01_task4" class="box"> [**Write Test 0 (60 mins)**](./test.md) </input></label>
-
-<label><input type="checkbox" id="week01_task6" class="box"> [**Complete your Learning Log assignment**](./learninglog.md) </input></label>
+<label><input type="checkbox" id="week02_task6" class="box"> [**Complete your Learning Log assignment**](learninglog.md) </input></label>
 
 ## How to watch flipped lecture videos
 

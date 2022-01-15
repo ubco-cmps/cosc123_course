@@ -13,7 +13,7 @@ Labs start in the first week, on January 10th!
 ```
 
 ```{attention}
-Note: Until at least January 24th, all labs will be offered online via Zoom. Attendance in the lab sessions is **not** required, but you cannot pass the course without completing the labs. You are welcome to attend any of the labs sessions in the course (i.e. not just the ones you are registered in), as many times as you like to get extra help.
+Note: Until at least February 7th, all labs will be offered online via Zoom. Attendance in the lab sessions is **not** required, but you cannot pass the course without completing the labs. You are welcome to attend any of the labs sessions in the course (i.e. not just the ones you are registered in), as many times as you like to get extra help.
 ```
 
 <!-- 

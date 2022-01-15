@@ -22,5 +22,3 @@ You can find the {{ ZOOM_LINK.replace('CANVAS_ID',CANVAS_ID) }} link here.
 <label><input type="checkbox" id="week01_task6" class="box"> **[Attend your Lab, complete it, and submit it on Gradescope](./lab01/README.md)** </input></label>
 
 <label><input type="checkbox" id="week01_task7" class="box"> **[Complete Learning Log 1 on Gradescope]({{ CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID) }})** </input></label>
-
-<label><input type="checkbox" id="week01_task8" class="box"> **[Attend your Lab](./lecture.md)** </input></label>

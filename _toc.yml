@@ -18,11 +18,12 @@ parts:
     title: In the first week
   - file: getting-started/tasks3
     title: At the end of the first week
-- caption: Setup Your Machine
-  chapters:
-  - file: class/setup/macOS
-  - file: class/setup/windows
-  - file: class/setup/ubuntu
+  - file: class/setup/stack
+    title: Setup Your Machine
+    sections:
+    - file: class/setup/macOS
+    - file: class/setup/windows
+    - file: class/setup/ubuntu
 
 
 - caption: Part 1 - New Beginnings
@@ -41,6 +42,41 @@ parts:
       sections:
         - file: class/week01/lab/Task1
         - file: class/week01/lab/Task2
+    - file: class/week01/learninglog
+
+  - file: class/week02/week02_summary
+    title: Week 2 - Command line and Git
+    sections:
+    - file: class/week02/videos
+    - file: class/week02/class2A
+    - file: class/week02/class2B/class2B
+    - file: class/week02/activity/README
+      title: Activity 2
+      sections:
+        - file: class/week02/activity/Task1
+        - file: class/week02/activity/Task2
+    - file: class/week02/lab/README
+      title: Lab 2
+      sections:
+        - file: class/week02/lab/Task1
+        - file: class/week02/lab/Task2
+    - file: class/week02/test
+    - file: class/week02/learninglog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #   - file: class/week01/week01_summary
 #     title: Week 1 - Setting up
 #     sections:
@@ -60,7 +96,11 @@ parts:
 #     - file: class/week02/videos
 #     - file: class/week02/readings
 #     - file: class/week02/lecture
-#     - file: class/week02/lab
+#     - file: class/week01/lab/README
+      # title: Lab 1
+      # sections:
+      #   - file: class/week01/lab/Task1
+      #   - file: class/week01/lab/Task2
 #     - file: class/week02/test
 #     - file: class/week02/learninglog
 # - caption: Part 2 - Processing
