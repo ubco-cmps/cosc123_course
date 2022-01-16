@@ -8,7 +8,7 @@ This test will be open to you on Thursday at 6 PM and will remain open until Sat
 
 ++++ 
 
-```{link-button} https://canvas.ubc.ca/courses/64279/quizzes/313864
+```{link-button} 
 :text: Test0
 :type: url
 :classes: btn-outline-success btn-block stretched-link text-dark

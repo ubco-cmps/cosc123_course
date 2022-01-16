@@ -65,6 +65,11 @@ The Learning Outcomes for this course are:
 More details about the course can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
 -->
 
+## Teaching Team
+
+```{include} syllabus_bits/teaching_team.md
+```
+
 ## Required Materials
 
 There is no requirement to purchase textbooks or any other materials for this course.
