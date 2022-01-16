@@ -19,7 +19,7 @@ Important: The maximum mark you can get on each item is 100%. Any available bonu
 
 There is a delicate balance between an instructor being flexible with deadlines, and giving students (particularly in introductory courses) too much freedom, to the detriment of your learning and your work habits.
 
-#### No deadlines for Class Activities and Labs
+#### No late penalties for late submissions of Class Activities and Labs
 
 It is important to build a rhythm as you go through undergraduate courses (particularly mine) and to do that, there is a fixed schedule that must be followed. 
 Of course, deviation from the ideal schedule happens frequently in a term when students are taking other courses as well. 
