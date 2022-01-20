@@ -19,7 +19,7 @@ Once the deadline and the grace period has passed, you will no longer be able to
 | Activities                           | Due Date | Link to Accept      |
 |--------------------------------------|----------|---------------------|
 | [Activity 1](class/week01/activity)  |          | [Accept Activity](https://classroom.github.com/a/kUnSuy0O) |
-| [Activity 2](class/week02/activity)  |          | [Accept Activity]() |
+| [Activity 2](class/week02/activity)  |          | [Accept Activity](https://classroom.github.com/a/RLPA_1BZ) |
 | [Activity 3](class/week03/activity)  |          | [Accept Activity]() |
 | [Activity 4](class/week04/activity)  |          | [Accept Activity]() |
 | [Activity 5](class/week05/activity)  |          | [Accept Activity]() |
