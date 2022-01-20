@@ -1,4 +1,4 @@
-# Lecture 3
+# Week 4 Class
 
 ## Lecture Slides
 
@@ -8,4 +8,4 @@ These slides have been adapted for this course and are courtesy of [Dr. Abdallah
 
 ## Lecture activity
 
-Please see the [Lecture Activity page](../activities) for the link to accept the GH Classroom link
+Please see the [Lecture Activity page](../links) for the link to accept the GH Classroom repo.

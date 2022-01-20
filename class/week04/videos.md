@@ -8,29 +8,19 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```{admonition} Checklist of items
 :class: tip
 
-<input type="checkbox" id="week03_video1" class="box"><label>2.1 - How to use Processing</input></label>
+<input type="checkbox" id="week04_video1" class="box"><label>2.1 - How to use Processing</input></label>
 
-<input type="checkbox" id="week03_video2" class="box"><label>2.2 - RGB Color</input></label>
+<input type="checkbox" id="week04_video2" class="box"><label>2.2 - RGB Color</input></label>
 
-<input type="checkbox" id="week03_video3" class="box"><label>3.1 - Flow</input></label>
+<input type="checkbox" id="week04_video3" class="box"><label>3.1 - Flow</input></label>
 
-<input type="checkbox" id="week03_video3" class="box"><label>3.2 - Built-in Variables</input></label>
+<input type="checkbox" id="week04_video3" class="box"><label>3.2 - Built-in Variables</input></label>
 
-<input type="checkbox" id="week03_video3" class="box"><label>3.3 - Events</input></label>
+<input type="checkbox" id="week04_video3" class="box"><label>3.3 - Events</input></label>
 ```
 ````
 
 ## Required Videos
-
-```{dropdown} 2.1 - How to use Processing
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
-    :open:
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/5N31KNgOO0g" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-```
 
 ```{dropdown} 2.2 -  RGB Color
     :container: + shadow

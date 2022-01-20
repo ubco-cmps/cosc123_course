@@ -1,10 +1,6 @@
-(page_topic5)=
-Week 6 Summary
+(page_topic6)=
+Week 7 Summary
 =======================
-
-<!-- This week there is no new content in this course.
-You'll have an opportunity to catch your breath and catch up on anything from the last few weeks you didn't have time to grasp or go through in detail.
-This may include tests, lecture-activities, questions, videos, or readings that you didn't get a chance to complete. -->
 
 ## About this page
 
@@ -14,16 +10,16 @@ Once you finish the task, check off the box so you can keep track of your progre
 
 ## List of things to do this week
 
-<label><input type="checkbox" id="week05_task1" class="box"> [**Watch the lecture videos**](./videos.md)</input></label>
+<label><input type="checkbox" id="week06_task1" class="box"> [**Watch the lecture videos**](./videos.md)</input></label>
 
-<label><input type="checkbox" id="week05_task2" class="box"> [**Skim the assigned readings**](./readings.md)</input></label>
+<label><input type="checkbox" id="week06_task2" class="box"> [**Skim the assigned readings**](./readings.md)</input></label>
 
-<label><input type="checkbox" id="week05_task3" class="box"> [**Attend the Lecture**](./lecture.ipynb) </input></label>
+<label><input type="checkbox" id="week06_task3" class="box"> [**Attend the Lecture**](./lecture.ipynb) </input></label>
 
-<label><input type="checkbox" id="week05_task4" class="box"> [**Complete the Lecture Activity**](../activities) </input></label>
+<label><input type="checkbox" id="week06_task4" class="box"> [**Complete the Lecture Activity**](../activities) </input></label>
 
-<label><input type="checkbox" id="week05_task5" class="box"> [**Attend and Complete the lab**](./lab.md) </input></label>
+<label><input type="checkbox" id="week06_task5" class="box"> [**Attend and Complete the lab**](./lab.md) </input></label>
 
-<label><input type="checkbox" id="week05_task6" class="box"> [**Write Test 1 (60 mins)**](./test.md) </input></label>
+<label><input type="checkbox" id="week06_task6" class="box"> [**Write Bonus Test 2 (60 mins)**](./test.md) </input></label>
 
-<label><input type="checkbox" id="week05_task7" class="box"> [**Complete your Learning Log assignment**](./learninglog) </input></label>
+<label><input type="checkbox" id="week06_task7" class="box"> [**Complete your Learning Log assignment**](./learninglog) </input></label>

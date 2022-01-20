@@ -47,6 +47,16 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
+```{dropdown} 2.1 - How to use Processing
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+    :open:
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/5N31KNgOO0g" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
 ## Optional Videos
 
 ```{dropdown} 0.3 - What is programming?
