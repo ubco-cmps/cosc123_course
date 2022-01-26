@@ -4,12 +4,12 @@ title: Course Unsyllabus
 parts:
 - caption: About this course
   chapters:
-  - file: about/syllabus
-    title: Course Syllabus
   - file: about/course_schedule
     title: Course Schedule
   - url: https://ubc.ca1.qualtrics.com/jfe/form/SV_4UYDc6zEiwa2Jq6
-    title: Course Introduction
+    title: Course Introductions
+  - file: about/syllabus
+    title: Official Course Syllabus
 - caption: Getting Started
   chapters:
   - file: getting-started/tasks1
