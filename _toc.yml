@@ -84,24 +84,24 @@ parts:
     - file: class/week03/test
     - file: class/week03/learninglog
 
-  # - file: class/week04/week04_summary
-  #   title: Week 4 - Interactions
-  #   sections:
-  #   - file: class/week04/videos
-  #   - file: class/week04/lecture
-  #   - file: class/week04/activity/README
-  #     title: Activity 3
-  #     sections:
-  #       - file: class/week04/activity/Task1
-  #       - file: class/week04/activity/Task2
-  #       - file: class/week04/activity/Task3
-  #   - file: class/week04/lab/README
-  #     title: Lab 3
-  #     sections:
-  #       - file: class/week04/lab/Task1
-  #       - file: class/week04/lab/Task2
-  #   - file: class/week04/test
-  #   - file: class/week04/learninglog
+  - file: class/week04/week04_summary
+    title: Week 4 - Interactions
+    sections:
+    - file: class/week04/videos
+    - file: class/week04/lecture
+    # - file: class/week04/activity/README
+    #   title: Activity 3
+    #   sections:
+    #     - file: class/week04/activity/Task1
+    #     - file: class/week04/activity/Task2
+    #     - file: class/week04/activity/Task3
+    # - file: class/week04/lab/README
+    #   title: Lab 3
+    #   sections:
+    #     - file: class/week04/lab/Task1
+    #     - file: class/week04/lab/Task2
+    # - file: class/week04/test
+    # - file: class/week04/learninglog
 
   # - file: class/week05/week05_summary
   #   title: Week 5 - Variables
