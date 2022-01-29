@@ -7,6 +7,6 @@ They are here if you need an additional resource to reference.
 
 This week the readings are listed below:
 
-<label><input type="checkbox" id="week04_reading1" class="box"> **[Curves](https://processing.org/tutorials/curves/)** </input></label>
+<label><input type="checkbox" id="week05_reading1" class="box"> **[Curves](https://processing.org/tutorials/curves/)** </input></label>
 
-<label><input type="checkbox" id="week04_reading2" class="box"> **[Review: Interactivity](https://processing.org/tutorials/interactivity/)** </input></label>
+<label><input type="checkbox" id="week05_reading2" class="box"> **[Review: Interactivity](https://processing.org/tutorials/interactivity/)** </input></label>

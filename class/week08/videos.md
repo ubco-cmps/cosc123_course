@@ -8,19 +8,19 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```{admonition} Checklist of items
 :class: tip
 
-<input type="checkbox" id="week07_video1" class="box"><label>6.4 - </input></label>
+<input type="checkbox" id="week08_video1" class="box"><label>6.4 - </input></label>
 
-<input type="checkbox" id="week07_video2" class="box"><label>6.5 - </input></label>
+<input type="checkbox" id="week08_video2" class="box"><label>6.5 - </input></label>
 
-<input type="checkbox" id="week07_video3" class="box"><label>6.6 - </input></label>
+<input type="checkbox" id="week08_video3" class="box"><label>6.6 - </input></label>
 
-<input type="checkbox" id="week07_video1" class="box"><label>10.1 - </input></label>
+<input type="checkbox" id="week08_video1" class="box"><label>10.1 - </input></label>
 
-<input type="checkbox" id="week07_video2" class="box"><label>10.2 - </input></label>
+<input type="checkbox" id="week08_video2" class="box"><label>10.2 - </input></label>
 
-<input type="checkbox" id="week07_video3" class="box"><label>10.3 - </input></label>
+<input type="checkbox" id="week08_video3" class="box"><label>10.3 - </input></label>
 
-<input type="checkbox" id="week07_video4" class="box"><label>10.4 - </input></label>
+<input type="checkbox" id="week08_video4" class="box"><label>10.4 - </input></label>
 
 ```
 ````

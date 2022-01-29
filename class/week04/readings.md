@@ -7,4 +7,4 @@ They are here if you need an additional resource to reference.
 
 This week the readings are listed below:
 
-<label><input type="checkbox" id="week03_reading1" class="box"> **[Interactivity](https://processing.org/tutorials/interactivity/)** </input></label>
+<label><input type="checkbox" id="week04_reading1" class="box"> **[Interactivity](https://processing.org/tutorials/interactivity/)** </input></label>
