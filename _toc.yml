@@ -60,6 +60,7 @@ parts:
       sections:
         - file: class/week02/lab/Task1
         - file: class/week02/lab/Task2
+    - file: class/week02/readings
     - file: class/week02/test
     - file: class/week02/learninglog
 
@@ -81,6 +82,7 @@ parts:
       sections:
         - file: class/week03/lab/Task1
         - file: class/week03/lab/Task2
+    - file: class/week03/readings
     - file: class/week03/test
     - file: class/week03/learninglog
 
@@ -89,38 +91,47 @@ parts:
     sections:
     - file: class/week04/videos
     - file: class/week04/lecture
-    # - file: class/week04/activity/README
-    #   title: Activity 3
-    #   sections:
-    #     - file: class/week04/activity/Task1
-    #     - file: class/week04/activity/Task2
-    #     - file: class/week04/activity/Task3
-    # - file: class/week04/lab/README
-    #   title: Lab 3
-    #   sections:
-    #     - file: class/week04/lab/Task1
-    #     - file: class/week04/lab/Task2
-    # - file: class/week04/test
-    # - file: class/week04/learninglog
+    - file: class/week04/activity/README
+      title: Activity 4
+      sections:
+        - file: class/week04/activity/Task1
+        - file: class/week04/activity/Task2
+        - file: class/week04/activity/Task3
+    - file: class/week04/lab/README
+      title: Lab 4
+      sections:
+        - file: class/week04/lab/Task1
+        - file: class/week04/lab/Task2
+        - file: class/week04/lab/Task3
+      sections:
+        - file: class/week04/lab/Task1
+        - file: class/week04/lab/Task2
+    - file: class/week04/readings
+    - file: class/week04/test
+    - file: class/week04/learninglog
 
-  # - file: class/week05/week05_summary
-  #   title: Week 5 - Variables
-  #   sections:
-  #   - file: class/week05/videos
-  #   - file: class/week05/lecture
-  #   - file: class/week05/activity/README
-  #     title: Activity 5
-  #     sections:
-  #       - file: class/week05/activity/Task1
-  #       - file: class/week05/activity/Task2
-  #       - file: class/week05/activity/Task3
-  #   - file: class/week05/lab/README
-  #     title: Lab 5
-  #     sections:
-  #       - file: class/week05/lab/Task1
-  #       - file: class/week05/lab/Task2
-  #   - file: class/week05/test
-  #   - file: class/week05/learninglog
+  - file: class/week05/week05_summary
+    title: Week 5 - Variables
+    sections:
+    - file: class/week05/videos
+    - file: class/week05/lecture
+    - file: class/week05/activity/README
+      title: Activity 5
+      sections:
+        - file: class/week05/activity/Task1
+        - file: class/week05/activity/Task2
+        - file: class/week05/activity/Task3
+        - file: class/week05/activity/Task4
+        - file: class/week05/activity/Task5
+    - file: class/week05/lab/README
+      title: Lab 5
+      sections:
+        - file: class/week05/lab/Task1
+        - file: class/week05/lab/Task2
+        - file: class/week05/lab/Task3
+    - file: class/week05/readings
+    # - file: class/week05/test
+    - file: class/week05/learninglog
 
   # - file: class/week06/week06_summary
   #   title: Week 6 - Images
@@ -138,6 +149,7 @@ parts:
   #     sections:
   #       - file: class/week06/lab/Task1
   #       - file: class/week06/lab/Task2
+  #   - file: class/week06/readings
   #   - file: class/week06/test
   #   - file: class/week06/learninglog
 
@@ -157,6 +169,7 @@ parts:
   #     sections:
   #       - file: class/week08/lab/Task1
   #       - file: class/week08/lab/Task2
+  #   - file: class/week08/readings
   #   - file: class/week08/test
   #   - file: class/week08/learninglog
 
@@ -176,6 +189,7 @@ parts:
   #     sections:
   #       - file: class/week09/lab/Task1
   #       - file: class/week09/lab/Task2
+  #   - file: class/week09/readings
   #   - file: class/week09/test
   #   - file: class/week09/learninglog
 
@@ -197,6 +211,7 @@ parts:
 #       sections:
 #         - file: class/week10/lab/Task1
 #         - file: class/week10/lab/Task2
+#     - file: class/week10/readings
 #     - file: class/week10/test
 #     - file: class/week10/learninglog
 
@@ -216,6 +231,7 @@ parts:
 #       sections:
 #         - file: class/week11/lab/Task1
 #         - file: class/week11/lab/Task2
+#     - file: class/week11/readings
 #     - file: class/week11/test
 #     - file: class/week11/learninglog
 
@@ -235,6 +251,7 @@ parts:
 #       sections:
 #         - file: class/week13/lab/Task1
 #         - file: class/week13/lab/Task2
+#     - file: class/week13/readings
 #     - file: class/week13/test
 #     - file: class/week13/learninglog
 
