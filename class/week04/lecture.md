@@ -2,7 +2,7 @@
 
 ## Lecture Slides
 
-<iframe src="../../2022-02-01 - Lecture4.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../2022-02-01 - Week04.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
 These slides have been adapted for this course and are courtesy of [Dr. Abdallah Mohamed](https://people.ok.ubc.ca/abdalmoh/).
 
