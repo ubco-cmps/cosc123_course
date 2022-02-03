@@ -21,7 +21,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ## Required Videos
 
-```{dropdown} 4.1 - 
+```{dropdown} 4.1 - Variables
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
     :open:
@@ -31,7 +31,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
-```{dropdown} 4.2 -  
+```{dropdown} 4.2 - Incrementing a variable
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -40,7 +40,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
-```{dropdown} 4.3 - 
+```{dropdown} 4.3 - Using random()
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -49,7 +49,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
-```{dropdown} 4.4 - 
+```{dropdown} 4.4 - Using POINTLN()
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 

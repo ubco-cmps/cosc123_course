@@ -30,7 +30,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 ## Required Videos
 
-```{dropdown} 5.1 - 
+```{dropdown} 5.1 - Boolean Expressions
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
     :open:
@@ -40,7 +40,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
-```{dropdown} 5.2 -  
+```{dropdown} 5.2 - if/else if/else
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -49,7 +49,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
-```{dropdown} 5.3 - 
+```{dropdown} 5.3 - Logical Operators: AND, OR
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -58,7 +58,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
-```{dropdown} 5.4 - 
+```{dropdown} 5.4 - Boolean Variables
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -67,7 +67,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
-```{dropdown} 5.5 - 
+```{dropdown} 5.5 - Bouncing Ball
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -76,7 +76,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
-```{dropdown} 6.1 - 
+```{dropdown} 6.1 - While Loop
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -85,7 +85,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
-```{dropdown} 6.2 - 
+```{dropdown} 6.2 - Two loops/Grid exercise
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
@@ -94,7 +94,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 </div>
 ```
 
-```{dropdown} 6.3 - 
+```{dropdown} 6.3 - For Loops
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 

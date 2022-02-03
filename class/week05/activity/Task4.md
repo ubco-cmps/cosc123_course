@@ -5,7 +5,7 @@ Repeat the previous exercise after changing the frame rate to 60 while maintaini
 ## Specifications
 
 - Replace the variable seconds you used before with the second() function, i.e. 
-    *angle = (**second()** * (PI/30)) - (PI/2)*
+    *theta = (**second()** * (PI/30)) - (PI/2)*
 
 - This program should be almost identical to the previous version except for a few (probably 2) statements.
 

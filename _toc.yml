@@ -130,28 +130,28 @@ parts:
         - file: class/week05/lab/Task2
         - file: class/week05/lab/Task3
     - file: class/week05/readings
-    # - file: class/week05/test
+    - file: class/week05/test
     - file: class/week05/learninglog
 
-  # - file: class/week06/week06_summary
-  #   title: Week 6 - Images
-  #   sections:
-  #   - file: class/week06/videos
-  #   - file: class/week06/lecture
-  #   - file: class/week06/activity/README
-  #     title: Activity 3
-  #     sections:
-  #       - file: class/week06/activity/Task1
-  #       - file: class/week06/activity/Task2
-  #       - file: class/week06/activity/Task3
-  #   - file: class/week06/lab/README
-  #     title: Lab 6
-  #     sections:
-  #       - file: class/week06/lab/Task1
-  #       - file: class/week06/lab/Task2
-  #   - file: class/week06/readings
-  #   - file: class/week06/test
-  #   - file: class/week06/learninglog
+  - file: class/week06/week06_summary
+    title: Week 6 - Images
+    sections:
+    - file: class/week06/videos
+    - file: class/week06/lecture
+    - file: class/week06/activity/README
+      title: Activity 3
+      sections:
+        - file: class/week06/activity/Task1
+        - file: class/week06/activity/Task2
+        - file: class/week06/activity/Task3
+    - file: class/week06/lab/README
+      title: Lab 6
+      sections:
+        - file: class/week06/lab/Task1
+        - file: class/week06/lab/Task2
+    - file: class/week06/readings
+    - file: class/week06/test
+    - file: class/week06/learninglog
 
   # - file: class/week08/week08_summary
   #   title: Week 8 - Conditionals

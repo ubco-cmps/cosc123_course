@@ -6,9 +6,9 @@ This week will be your second test.
 
 Here is what it will cover:
 
-- Basics of Processing (little bit of Week 02)
-- Interactions (Week 03)
-- Variables (Week 04)
+- Basics of Processing
+- Interactions
+- Variables
 - You will be expected to create some sketches in PDE and submit code
 
 You will have approximately 60 minutes to do the Test.
