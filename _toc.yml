@@ -6,8 +6,8 @@ parts:
   chapters:
   - file: about/course_schedule
     title: Course Schedule
-  - url: https://ubc.ca1.qualtrics.com/jfe/form/SV_4UYDc6zEiwa2Jq6
-    title: Course Introductions
+  - url: https://edstem.org/us/join/YeFqS6
+    title: Ed Discussion
   - file: about/syllabus
     title: Official Course Syllabus
 - caption: Getting Started
