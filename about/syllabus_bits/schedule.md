@@ -16,7 +16,7 @@ The exact details are subject to change, so this is roughly the plan we will try
 | 11 | Mar 21 - 27    | Object Oriented Programming I <br />                                        | 11  | 11       | 11   | Test 4         | Conditionals, Loops, <br/>Functions (Weeks 8-10)                       |
 | 12 | Mar 28 - Apr 3 | Catch-up week (no new material)                                             | -   | -        | -    | (Bonus Test 4) |                                                                   |
 | 13 | Apr 4 - 10     | Object Oriented Programming II <br />                                       | 13  | 13       | 13   | Test 5         | Everything + Object Oriented <br/> Programming and Arrays (Weeks 11-14) |
-| 14 | Apr 11         | Arrays <br />                                                               | -   | -        | 14   | (Bonus Test 5) |                                                                   |
+| 14 | Apr 11         | Arrays <br />                                                               | -   | -        | -   | (Bonus Test 5) |                                                                   |
 
 ```{note}
 Note that the schedule is subject to change and adjustments depending on the needs of the class, and other pedagogical or logistical restrictions.
