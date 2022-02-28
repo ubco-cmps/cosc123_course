@@ -8,42 +8,51 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```{admonition} Checklist of items
 :class: tip
 
-<input type="checkbox" id="week09_video1" class="box"><label>8.1 - </input></label>
+<input type="checkbox" id="week10_video1" class="box"><label>10.1 - Introduction to functions and objects </input></label>
 
-<input type="checkbox" id="week09_video2" class="box"><label>8.2 - </input></label>
+<input type="checkbox" id="week10_video2" class="box"><label>10.2 - Functions basics </input></label>
 
-<input type="checkbox" id="week09_video3" class="box"><label>8.3 - </input></label>
+<input type="checkbox" id="week10_video3" class="box"><label>10.3 - Modularity with functions </input></label>
 
+<input type="checkbox" id="week10_video4" class="box"><label>10.4 - Reusability with functions </input></label>
 ```
 ````
 
 ## Required Videos
 
-```{dropdown} 8.1 - 
+```{dropdown} 10.1 - Introduction to functions and objects
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
-    :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/YcbcfkLzgvs" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/XCu7JSkgl04" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 8.2 -  
+```{dropdown} 10.2 - Functions basics
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/lmgcMPRa1qw" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/zBo2D3Myo6Q" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 8.3 - 
+```{dropdown} 10.3 - Modularity with functions
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/XwfOVFelLoo" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/j_XyeWg_3EE" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 10.4 - Reusability with functions
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/b9AYvekwKIg" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 

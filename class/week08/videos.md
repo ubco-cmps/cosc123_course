@@ -8,87 +8,64 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```{admonition} Checklist of items
 :class: tip
 
-<input type="checkbox" id="week08_video1" class="box"><label>6.4 - </input></label>
+<input type="checkbox" id="week08_video1" class="box"><label>8.1 - Boolean Expressions </input></label>
 
-<input type="checkbox" id="week08_video2" class="box"><label>6.5 - </input></label>
+<input type="checkbox" id="week08_video2" class="box"><label>8.2 - if/else if/else </input></label>
 
-<input type="checkbox" id="week08_video3" class="box"><label>6.6 - </input></label>
+<input type="checkbox" id="week08_video3" class="box"><label>8.3 - Logical Operators: AND, OR </input></label>
 
-<input type="checkbox" id="week08_video1" class="box"><label>10.1 - </input></label>
+<input type="checkbox" id="week08_video1" class="box"><label>8.4 - Boolean Variables </input></label>
 
-<input type="checkbox" id="week08_video2" class="box"><label>10.2 - </input></label>
-
-<input type="checkbox" id="week08_video3" class="box"><label>10.3 - </input></label>
-
-<input type="checkbox" id="week08_video4" class="box"><label>10.4 - </input></label>
+<input type="checkbox" id="week08_video2" class="box"><label>8.5 - Bouncing Ball </input></label>
 
 ```
 ````
 
 ## Required Videos
 
-```{dropdown} 6.4 - 
+```{dropdown} 8.1 - Boolean Expressions
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
     :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/pC7RUmHL2KY" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/wsI6N9hfW7E" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 6.5 -  
+```{dropdown} 8.2 - if/else if/else
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Z8s-7beNP1c" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/mVq7Ms01RjA" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 6.6 - 
+```{dropdown} 8.3 - Logical Operators: AND, OR
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/H7frvcAHXps" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/9857701OsDE" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 10.1 - 
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
-    :open:
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/-f0WEitGmiw" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-```
-
-```{dropdown} 10.2 -  
+```{dropdown} 8.4 - Boolean Variables
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/7BoJBYh16CQ" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/_NJqfZUQ3i4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 10.3 - 
+```{dropdown} 8.5 - Bouncing Ball
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/DPFJROWdkQ8" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-```
-
-```{dropdown} 10.4 - 
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/EmtU0eloTlE" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/YIKRXl3wH8Y" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
