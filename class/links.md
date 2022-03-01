@@ -25,7 +25,7 @@ Once the deadline and the grace period has passed, you will no longer be able to
 | [Activity 5](class/week05/activity)  |          | [Accept Activity](https://classroom.github.com/a/tgDWPekJ) |
 | [Activity 6](class/week06/activity)  |          | [Accept Activity](https://classroom.github.com/a/lzdLe1bG) |
 | No Activity                          | -        | -                   |
-| [Activity 8](class/week08/activity)  |          | [Accept Activity]() |
+| [Activity 8](class/week08/activity)  |          | [Accept Activity](https://classroom.github.com/a/Fhu8tazp) |
 | [Activity 9](class/week09/activity)  |          | [Accept Activity]() |
 | [Activity 10](class/week10/activity) |          | [Accept Activity]() |
 | [Activity 11](class/week11/activity) |          | [Accept Activity]() |
