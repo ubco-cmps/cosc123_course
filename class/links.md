@@ -26,11 +26,11 @@ Once the deadline and the grace period has passed, you will no longer be able to
 | [Activity 6](class/week06/activity)  |          | [Accept Activity](https://classroom.github.com/a/lzdLe1bG) |
 | No Activity                          | -        | -                   |
 | [Activity 8](class/week08/activity)  |          | [Accept Activity](https://classroom.github.com/a/Fhu8tazp) |
-| [Activity 9](class/week09/activity)  |          | [Accept Activity]() |
-| [Activity 10](class/week10/activity) |          | [Accept Activity]() |
-| [Activity 11](class/week11/activity) |          | [Accept Activity]() |
+| [Activity 9](class/week09/activity)  |          | [Accept Activity](https://classroom.github.com/a/ctSVqZjl) |
+| [Activity 10](class/week10/activity) |          | [Accept Activity](https://classroom.github.com/a/9qmO88_e) |
+| [Activity 11](class/week11/activity) |          | [Accept Activity](https://classroom.github.com/a/PZ80H3X8) |
 | No Activity                          | -        | -                   |
-| [Activity 13](class/week13/activity) |          | [Accept Activity]() |
+| [Activity 13](class/week13/activity) |          | [Accept Activity](https://classroom.github.com/a/V0-7mKOY) |
 
 ```{tip}
 Remember that once you've accepted the GitHub Classroom link, the link to your repository becomes fixed so you can submit it on Gradescope as many times as you like before the deadline. Each time you submit on Gradescope it will submit your **latest** commit. This is what we will mark, if you make changes to your repository after submitting it on Gradescope, we will not see it unless you re-submit on Gradescope.
