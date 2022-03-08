@@ -10,7 +10,19 @@ Here is what it will cover:
 
 You will have approximately 60 minutes to do the Test.
 
-++++ 
+```{figure} ../../images/test_rules.png
+---
+height: 500px
+name: test_rules
+---
+This image shows the rules of the tests in this course.
+```
+
+````{panels} 
+
+Test this week
+
+++++  
 
 ```{link-button} https://canvas.ubc.ca/courses/64279/quizzes
 :text: Bonus Test 3 will be available during the weekly Test window (Thursday 6PM - Saturday 6PM).
