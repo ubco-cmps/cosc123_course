@@ -5,6 +5,8 @@ You will have approximately 60 minutes to do the Test.
 
 Here are the test rules:
 
+## Test Rules
+
 ```{figure} ../../images/test_rules.png
 ---
 height: 1100px
