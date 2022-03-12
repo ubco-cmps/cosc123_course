@@ -10,13 +10,13 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 <input type="checkbox" id="week13_video1" class="box"><label>13.1 - What is an Array?</input></label>
 
-<input type="checkbox" id="week13_video2" class="box"><label>9.2 - Declare, initialize, and use an array</input></label>
+<input type="checkbox" id="week13_video2" class="box"><label>13.2 - Declare, initialize, and use an array</input></label>
 
-<input type="checkbox" id="week13_video3" class="box"><label>9.3 - Arrays of Objects</input></label>
+<input type="checkbox" id="week13_video3" class="box"><label>13.3 - Arrays of Objects</input></label>
 
-<input type="checkbox" id="week13_video4" class="box"><label>9.4 - Arrays and Loops</input></label>
+<input type="checkbox" id="week13_video4" class="box"><label>13.4 - Arrays and Loops</input></label>
 
-<input type="checkbox" id="week13_video5" class="box"><label>9.5 - Arrays of Flexible Size</input></label>
+<input type="checkbox" id="week13_video5" class="box"><label>13.5 - Arrays of Flexible Size</input></label>
 
 ```
 ````

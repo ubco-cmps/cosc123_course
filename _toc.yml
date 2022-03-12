@@ -193,81 +193,67 @@ parts:
     - file: class/week09/test
     - file: class/week09/learninglog
 
-# - caption: Part 3 - Object Oriented Programming
-#   chapters:
-#   - file: class/week10/week10_summary
-#     title: Week 10 - Functions
-#     sections:
-#     - file: class/week10/videos
-#     - file: class/week10/lecture
-#     - file: class/week10/activity/README
-#       title: Activity 10
-#       sections:
-#         - file: class/week10/activity/Task1
-#         - file: class/week10/activity/Task2
-#         - file: class/week10/activity/Task3
-#     - file: class/week10/lab/README
-#       title: Lab 10
-#       sections:
-#         - file: class/week10/lab/Task1
-#         - file: class/week10/lab/Task2
-#     - file: class/week10/readings
-#     - file: class/week10/test
-#     - file: class/week10/learninglog
+- caption: Part 3 - Object Oriented Programming
+  chapters:
+  - file: class/week10/week10_summary
+    title: Week 10 - Functions
+    sections:
+    - file: class/week10/videos
+    - file: class/week10/lecture
+    - file: class/week10/activity/README
+      title: Activity 10
+      sections:
+        - file: class/week10/activity/Task1
+        - file: class/week10/activity/Task2
+        - file: class/week10/activity/Task3
+    - file: class/week10/lab/README
+      title: Lab 10
+      sections:
+        - file: class/week10/lab/Task1
+        - file: class/week10/lab/Task2
+    - file: class/week10/readings
+    - file: class/week10/test
+    - file: class/week10/learninglog
 
-#   - file: class/week11/week11_summary
-#     title: Week 11 - Object Oriented Programming I
-#     sections:
-#     - file: class/week11/videos
-#     - file: class/week11/lecture
-#     - file: class/week11/activity/README
-#       title: Activity 11
-#       sections:
-#         - file: class/week11/activity/Task1
-#         - file: class/week11/activity/Task2
-#         - file: class/week11/activity/Task3
-#     - file: class/week11/lab/README
-#       title: Lab 11
-#       sections:
-#         - file: class/week11/lab/Task1
-#         - file: class/week11/lab/Task2
-#     - file: class/week11/readings
-#     - file: class/week11/test
-#     - file: class/week11/learninglog
+  - file: class/week11/week11_summary
+    title: Week 11 - Object Oriented Programming
+    sections:
+    - file: class/week11/videos
+    - file: class/week11/lecture
+    - file: class/week11/activity/README
+      title: Activity 11
+      sections:
+        - file: class/week11/activity/Task1
+        - file: class/week11/activity/Task2
+        - file: class/week11/activity/Task3
+    - file: class/week11/lab/README
+      title: Lab 11
+      sections:
+        - file: class/week11/lab/Task1
+        - file: class/week11/lab/Task2
+    - file: class/week11/readings
+    - file: class/week11/test
+    - file: class/week11/learninglog
 
-#   - file: class/week13/week13_summary
-#     title: Week 13 - Object Oriented Programming II
-#     sections:
-#     - file: class/week13/videos
-#     - file: class/week13/lecture
-#     - file: class/week13/activity/README
-#       title: Activity 13
-#       sections:
-#         - file: class/week13/activity/Task1
-#         - file: class/week13/activity/Task2
-#         - file: class/week13/activity/Task3
-#     - file: class/week13/lab/README
-#       title: Lab 11
-#       sections:
-#         - file: class/week13/lab/Task1
-#         - file: class/week13/lab/Task2
-#     - file: class/week13/readings
-#     - file: class/week13/test
-#     - file: class/week13/learninglog
-
-#   - file: class/week14/week14_summary
-#     title: Week 14 - Arrays
-#     sections:
-#     - file: class/week14/videos
-#     - file: class/week14/lecture
-#     - file: class/week14/activity/README
-#       title: Activity 14
-#       sections:
-#         - file: class/week14/activity/Task1
-#         - file: class/week14/activity/Task2
-#         - file: class/week14/activity/Task3
-#     - file: class/week14/test
-#     - file: class/week14/learninglog
+  - file: class/week13/week13_summary
+    title: Week 13 - Arrays
+    sections:
+    - file: class/week13/videos
+    - file: class/week13/lecture
+    - file: class/week13/activity/README
+      title: Activity 13
+      sections:
+        - file: class/week13/activity/Task1
+        - file: class/week13/activity/Task2
+        - file: class/week13/activity/Task3
+    - file: class/week13/lab/README
+      title: Lab 11
+      sections:
+        - file: class/week13/lab/Task1
+        - file: class/week13/lab/Task2
+    - file: class/week13/readings
+    - file: class/week13/test
+    - file: class/week13/learninglog
 
 - caption: GitHub Classroom Links
   chapters:
