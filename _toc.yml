@@ -184,6 +184,8 @@ parts:
         - file: class/week09/activity/Task1
         - file: class/week09/activity/Task2
         - file: class/week09/activity/Task3
+        - file: class/week09/activity/Task4
+        - file: class/week09/activity/Task5
     - file: class/week09/lab/README
       title: Lab9
       sections:
@@ -206,11 +208,11 @@ parts:
         - file: class/week10/activity/Task1
         - file: class/week10/activity/Task2
         - file: class/week10/activity/Task3
+        - file: class/week10/activity/Task4
     - file: class/week10/lab/README
       title: Lab 10
       sections:
         - file: class/week10/lab/Task1
-        - file: class/week10/lab/Task2
     - file: class/week10/readings
     - file: class/week10/test
     - file: class/week10/learninglog
@@ -225,12 +227,10 @@ parts:
       sections:
         - file: class/week11/activity/Task1
         - file: class/week11/activity/Task2
-        - file: class/week11/activity/Task3
     - file: class/week11/lab/README
       title: Lab 11
       sections:
         - file: class/week11/lab/Task1
-        - file: class/week11/lab/Task2
     - file: class/week11/readings
     - file: class/week11/test
     - file: class/week11/learninglog
@@ -245,12 +245,10 @@ parts:
       sections:
         - file: class/week13/activity/Task1
         - file: class/week13/activity/Task2
-        - file: class/week13/activity/Task3
     - file: class/week13/lab/README
       title: Lab 11
       sections:
         - file: class/week13/lab/Task1
-        - file: class/week13/lab/Task2
     - file: class/week13/readings
     - file: class/week13/test
     - file: class/week13/learninglog
