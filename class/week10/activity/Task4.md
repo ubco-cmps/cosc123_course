@@ -1,6 +1,6 @@
 # Task 4 - Be Creative...
 
-* Expand the code from Task 1 to include any one of the following items:
+* Expand the code from the Space Inavders game (Week 10 slides 45-49) to include any one of the following items:
   - Improve game items (spaceships and bullet)
       - e.g. replace with images, use better vector designs (e.g. enemy should be more than just a moving dull circle), etc.
   - Change the code so that the enemy follows one of three predefined paths every time it enters the window from the top. The chosen path should be selected randomly.
