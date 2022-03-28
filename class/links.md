@@ -46,22 +46,21 @@ Once you click the link, a repository will automatically be created for you with
 You can then work on the lab, make commits, and push them to GitHub as often as you please. 
 Once the deadline and the grace period has passed, you will no longer be able to push any changes.
 
-| Lab                     | Due Date | Link to Accept |
-|-------------------------|----------|----------------|
+| Lab                     | Due Date | Link to Accept                                        |
+|-------------------------|----------|-------------------------------------------------------|
 | [Lab 1](week01/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/dUtXCqtm) |
 | [Lab 2](week02/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/y8ByfEbn) |
 | [Lab 3](week03/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/LFYduWab) |
 | [Lab 4](week04/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/ogg7PYDU) |
 | [Lab 5](week05/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/vTCn19X1) |
 | [Lab 6](week06/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/Dv14Fkfp) |
-| Lab 7                   | -        | -              |
+| Lab 7                   | -        | -                                                     |
 | [Lab 8](week08/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/Y0RVLrj3) |
 | [Lab 9](week09/lab.md)  |          | [Accept Lab](https://classroom.github.com/a/lbaXcH0u) |
 | [Lab 10](week10/lab.md) |          | [Accept Lab](https://classroom.github.com/a/1S6IPKcp) |
 | [Lab 11](week11/lab.md) |          | [Accept Lab](https://classroom.github.com/a/Rd0bUR5_) |
-| No Lab                  | -        | -              |
-| No Lab                  | -        | -              |
-
+| No Lab                  | -        | -                                                     |
+| [Lab 13](week13/lab.md) | -        | [Accept Lab](https://classroom.github.com/a/k82XOmiQ) |
 
 ```{tip}
 Remember that once you've accepted the GitHub Classroom link, the link to your repository becomes fixed so you can submit it on Gradescope as many times as you like before the deadline. Each time you submit on Gradescope it will submit your **latest** commit. This is what we will mark, if you make changes to your repository after submitting it on Gradescope, we will not see it unless you re-submit on Gradescope.
