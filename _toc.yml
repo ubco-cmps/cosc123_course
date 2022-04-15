@@ -2,6 +2,12 @@ format: jb-book
 root: about/unsyllabus
 title: Course Unsyllabus
 parts:
+
+- caption: Final Exam Details
+  chapters:
+  - file: class/final
+    title: Final Exam Details
+    
 - caption: About this course
   chapters:
   - file: about/course_schedule
@@ -24,7 +30,6 @@ parts:
     - file: class/setup/macOS
     - file: class/setup/windows
     - file: class/setup/ubuntu
-
 
 - caption: Part 1 - New Beginnings
   chapters:
