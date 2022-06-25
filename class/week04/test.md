@@ -1,6 +1,6 @@
 # Bonus Test 1
 
-````{panels}
+````{grid}
 
 This week will be your first bonus test.
 It will cover the same content as Test 1, and we will take the better score of the Test/Bonus Test pair.
@@ -33,7 +33,7 @@ Posting the question text and asking someone to solve it for you IS CHEATING
 - Do NOT share test questions with anyone until the Test window is complete - that IS CHEATING.
 - Overall, do not stress! You will be fine :-)
 
-````{panels} 
+````{grid} 
 
 Test this week
 

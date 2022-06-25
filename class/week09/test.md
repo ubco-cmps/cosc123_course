@@ -15,7 +15,7 @@ name: test_rules
 This image shows the rules of the tests in this course.
 ```
 
-````{panels} 
+````{grid} 
 
 Test this week
 

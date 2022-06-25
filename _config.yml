@@ -48,6 +48,7 @@ sphinx:
     - html_image
     - linkify
     - substitution
+    - sd
     myst_substitutions:
       INSTRUCTOR: "Dr. Firas Moosvi (he/his/him)"
       PRONOUNCE: "[Fur-az Moose-vee](https://namedrop.io/firasmoosvi)"

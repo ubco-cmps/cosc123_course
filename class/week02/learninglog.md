@@ -1,6 +1,6 @@
 # Learning Logs
 
-````{panels}
+````{grid}
 
 This week's learning log assignment will be posted on Gradescope at the end of the week:
 ++++ 

@@ -1,6 +1,6 @@
 # Test 0
 
-````{panels}
+````{grid}
 
 This week is your first test - it is NOT for marks, but is not optional.
 It will cover the course policies and will be timed to give you practice on how the testing system works.
@@ -24,7 +24,7 @@ Posting the question text and asking someone to solve it for you IS CHEATING
 - Do NOT share test questions with anyone until the Test window is complete - that IS CHEATING.
 - Overall, do not stress! You will be fine :-)
 
-````{panels} 
+````{grid} 
 
 Test this week
 

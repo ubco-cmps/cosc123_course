@@ -1,6 +1,6 @@
 # Test
 
-````{panels}
+````{grid}
 
 This week is a Bonus Test, and it will mostly be on the contents of Chapter 10 and 11.
 
@@ -22,7 +22,7 @@ Posting the question text and asking someone to solve it for you IS CHEATING
 - Do NOT share test questions with anyone until the Test window is complete - that IS CHEATING.
 - Overall, do not stress! You will be fine :-)
 
-````{panels} 
+````{grid} 
 
 Test this week
 
