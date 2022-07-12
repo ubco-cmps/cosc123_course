@@ -1,6 +1,6 @@
 # Bonus Test 1
 
-````{grid}
+````{card}
 
 This week will be your first bonus test.
 It will cover the same content as Test 1, and we will take the better score of the Test/Bonus Test pair.
@@ -33,15 +33,13 @@ Posting the question text and asking someone to solve it for you IS CHEATING
 - Do NOT share test questions with anyone until the Test window is complete - that IS CHEATING.
 - Overall, do not stress! You will be fine :-)
 
-````{grid} 
+````{card} 
 
 Test this week
 
-++++  
+  
 
-```{link-button} https://ca.prairielearn.com/pl/course_instance/2367/
-:text: Test1 will be available during the weekly Test window (Thursday 6PM - Saturday 6PM).
-:type: url
-:classes: btn-outline-success btn-block stretched-link text-dark
+```{button-link} https://ca.prairielearn.com/pl/course_instance/2367/
+Test1 will be available during the weekly Test window (Thursday 6PM - Saturday 6PM).
 ```
 ````

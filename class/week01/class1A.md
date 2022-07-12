@@ -15,8 +15,8 @@ Live demo...
 ## Example of assigned videos (starting next week)
 
 ```{dropdown} 1. Introductions to the world of Processing!
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     :open:
 
 <div class="container youtube">

@@ -27,15 +27,13 @@ Posting the question text and asking someone to solve it for you IS CHEATING
 - Do NOT share test questions with anyone until the Test window is complete - that IS CHEATING.
 - Overall, do not stress! You will be fine :-)
 
-````{grid} 
+````{card} 
 
 Test this week
 
-++++  
+  
 
-```{link-button} https://canvas.ubc.ca/courses/64279/quizzes
-:text: Test 5 will be available during the weekly Test window (Thursday 6PM - Saturday 6PM) and Bonus Test 5 will available immediately after this window.
-:type: url
-:classes: btn-outline-success btn-block stretched-link text-dark
+```{button-link} https://canvas.ubc.ca/courses/64279/quizzes
+Test 5 will be available during the weekly Test window (Thursday 6PM - Saturday 6PM) and Bonus Test 5 will available immediately after this window.
 ```
 ````

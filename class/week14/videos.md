@@ -20,9 +20,7 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 <input type="checkbox" id="week14_video6" class="box"><label>14.6 - Loadstring()</input></label>
 
-<input type="checkbox" id="week14_video6" class="box"><label>14.7 - Word counting</input></label>
-
-```
+<input type="checkbox" id="week14_video6" class="box"><label>14.7 - Word counting</input></label>```
 ````
 
 ## Required Videos
@@ -34,8 +32,8 @@ There are no required videos this week!
 These are some extra fun videos to challenge yourselves in Processing.
 
 ```{dropdown} 14.1 - Capture and Live Video
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     :open:
 
 <div class="container youtube">
@@ -44,8 +42,8 @@ These are some extra fun videos to challenge yourselves in Processing.
 ```
 
 ```{dropdown} 14.2 - Using the movie object for displaying recorded videos
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/nJWV7X7df9w" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -53,8 +51,8 @@ These are some extra fun videos to challenge yourselves in Processing.
 ```
 
 ```{dropdown} 14.3 - Slit-scan video
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/WCJM9WIoudI" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -62,8 +60,8 @@ These are some extra fun videos to challenge yourselves in Processing.
 ```
 
 ```{dropdown} 14.4 - Strings and Drawing Text
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
     :open:
 
 <div class="container youtube">
@@ -72,8 +70,8 @@ These are some extra fun videos to challenge yourselves in Processing.
 ```
 
 ```{dropdown} 14.5 - Strings: Split and Join
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/PjxbuSnj8Pk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -81,8 +79,8 @@ These are some extra fun videos to challenge yourselves in Processing.
 ```
 
 ```{dropdown} 14.6 - Loadstring()
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/TaPVzWBWqd4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -90,8 +88,8 @@ These are some extra fun videos to challenge yourselves in Processing.
 ```
 
 ```{dropdown} 14.7 - Word counting
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/JRlqDsuK3Is" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

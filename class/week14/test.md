@@ -1,6 +1,6 @@
 # Test
 
-````{grid}
+````{card}
 
 This week is a Bonus Test, and it will mostly be on the contents of Chapter 10 and 11.
 
@@ -22,15 +22,13 @@ Posting the question text and asking someone to solve it for you IS CHEATING
 - Do NOT share test questions with anyone until the Test window is complete - that IS CHEATING.
 - Overall, do not stress! You will be fine :-)
 
-````{grid} 
+````{card} 
 
 Test this week
 
-++++  
+  
 
-```{link-button} https://canvas.ubc.ca
-:text: Canvas
-:type: url
-:classes: btn-outline-success btn-block stretched-link text-dark
+```{button-link} https://canvas.ubc.ca
+Canvas
 ```
 ````
