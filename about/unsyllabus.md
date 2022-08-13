@@ -4,12 +4,6 @@
 
 # Unsyllabus
 
-## Important Details
-
-```{include} unsyllabus_bits/important_details.md
-```
-
-<!-- 
 ```{figure} ../images/construction.jpeg
 ---
 width: 750px
@@ -17,7 +11,12 @@ name: Under Construction.
 ---
 This course website is currently under construction. It will continue to be updated and will be released closer to the course start date. [Photo by Mabel Amber from Pexels](https://www.pexels.com/photo/traffic-red-blue-sign-117602/). 
 ```
--->
+
+<!-- 
+## Important Details
+
+```{include} unsyllabus_bits/important_details.md
+```
 
 ## Contact Us
 
@@ -34,12 +33,10 @@ This course website is currently under construction. It will continue to be upda
 ```{include} syllabus_bits/passing_requirement.md
 ```
 
-<!-- 
 ## Learning Outcomes
 
 ```{include} syllabus_bits/course_LOs.md
 ```
--->
 
 ## Schedule
 
@@ -61,12 +58,11 @@ This course website is currently under construction. It will continue to be upda
 ```{include} unsyllabus_bits/changes.md
 ```
 
-<!--
+
 ## How do I do well in this course?
 
-```{include} unsyllabus_bits/doing_well_physics.md
+```{include} unsyllabus_bits/doing_well_cosc.md
 ```
--->
 
 ## Course Tools
 
@@ -103,3 +99,5 @@ This course website is currently under construction. It will continue to be upda
 ```{bibliography}
 :style: unsrt
 ```
+-->
+

@@ -2,6 +2,10 @@
 Course Schedule
 =======================
 
+Schedule is coming soon.
+
+<!-- 
+
 ```{include} syllabus_bits/schedule.md
 ```
 
@@ -16,7 +20,7 @@ Labs start in the first week, on January 10th!
 Note: Until at least February 7th, all labs will be offered online via Zoom. Attendance in the lab sessions is **not** required, but you cannot pass the course without completing the labs. You are welcome to attend any of the labs sessions in the course (i.e. not just the ones you are registered in), as many times as you like to get extra help.
 ```
 
-<!-- 
+
 | Wk | Date   | Topic                                                      | Activity | Lab    | Logs  | Test / Bonus Test        |
 |----|--------|------------------------------------------------------------|----------|--------|-------|--------------------------|
 | ``  | Jan 11 | About this course, and Processing                          | --       | --     | --    | --                       |
