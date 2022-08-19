@@ -1,7 +1,7 @@
 var script = document.createElement("script");
 script.defer = true;
 script.src = "https://plausible.io/js/script.js";
-script.dataset.domain = "firas.moosvi.com/courses/cosc123";
+script.dataset.domain = "cosc123";
 
 // optional if using proxy
 // script.dataset.api = 'https://yourproxy.com/api/event';
