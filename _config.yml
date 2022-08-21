@@ -19,7 +19,6 @@ html:
   use_edit_page_button: true
   navbar_number_sections : false
   baseurl : "https://firas.moosvi.com/courses/2021_WT2//cosc123"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
-  google_analytics_id: UA-168693744-4 # add your Google Analytics Tracking Code
   comments:
     hypothesis: false
     utterances:
