@@ -148,6 +148,36 @@ Unfortunately I do not have an answer for you yet - I understand this is probabl
 I will let you know as soon as we can once we have official word on the process for this.
 ```
 
+```{dropdown} What are the computer requirements for this course? 
+    :class-container: sd-shadow-lg
+    :color: primary
+ 
+Before enrolling in this course, ensure that your laptop meets the minimum requirements:
+
+- runs one of the following operating systems: 
+    - Macs: 
+        - Latest: macOS 12.5
+        - Recommended: macOS 10.14.6 or higher
+        - Required: macOS 10.11 (El Capitan)
+    - Windows: 
+        - Latest: Windows 11
+        - Recommended: Windows 10 (64-bit) or higher
+        - Required: Windows 7 or higher
+    - Ubuntu: 
+        - Latest: Ubuntu 21.10
+        - Recommended: Ubuntu 20.04 or higher
+        - Required: version 18.04
+- can connect to networks via a wireless connection
+- has at least 25 GB disk space available
+- has at least 4 GB of RAM
+- uses English as the default language (if you want TAs or the instructor to help you)
+- student user has full administrative access to the computer
+
+**We will do our best to help you if your laptop does not meet the minimum requirements, but there are no guarantees we will be able to get things to work so be warned.**
+
+If this is going to be a problem, please contact me through a private message on {{ FORUM_LINK }} and we can work out an accommodation.
+```
+
 ```{dropdown} Do I need to buy anything for this course?
     :class-container: sd-shadow-lg
     :color: primary

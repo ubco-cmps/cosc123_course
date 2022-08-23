@@ -12,7 +12,7 @@ Before starting, ensure that your laptop meets the minimum requirements:
 
 - runs one of the following operating systems: 
     - Macs: 
-        - Latest: macOS 12.1
+        - Latest: macOS 12.5
         - Recommended: macOS 10.14.6 or higher
         - Required: macOS 10.11 (El Capitan)
     - Windows: 
