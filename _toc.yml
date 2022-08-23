@@ -1,13 +1,12 @@
 format: jb-book
-root: about/unsyllabus
-title: Course Unsyllabus
+root: about/pre_term
 
 parts:
-
 - caption: About this course
   chapters:
-  - file: about/course_schedule
-    title: Course Schedule
+  - file: about/unsyllabus
+  # - file: about/course_schedule
+  #   title: Course Schedule
 #   - url: https://edstem.org/us/join/YeFqS6
 #     title: Ed Discussion
 #   - file: about/syllabus
