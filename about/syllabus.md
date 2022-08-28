@@ -2,6 +2,10 @@
 
 ![](../images/UBCO_CMPS_header.jpg)
 
+You can [download the official Course Syllabus here]().
+For more details about the reason we have a Syllabus and an [Unsyllabus](unsyllabus), you can [read the explanation here](syllabus-vs-unsyllabus).
+
+<!-- 
 **Department of Computer Science, Mathematics, Physics, and Statistics**
 
 # Course Syllabus (Official)
@@ -42,7 +46,6 @@ For information on how to contact your course instructor, including office hours
 
 You will find all the important term dates in the [UBCO Academic Calendar](http://www.calendar.ubc.ca/okanagan/index.cfm?go=deadlines).
 
-<!-- 
 ## Under Construction
 
 ```{figure} ../images/construction.jpeg
@@ -52,9 +55,7 @@ name: Under Construction.
 ---
 This course website is currently under construction. It will continue to be updated and will be released closer to the course start date. [Photo by Mabel Amber from Pexels](https://www.pexels.com/photo/traffic-red-blue-sign-117602/). 
 ```
--->
 
-<!-- 
 ## Learning Outcomes
 
 The Learning Outcomes for this course are: 
@@ -63,7 +64,6 @@ The Learning Outcomes for this course are:
 ```
 
 More details about the course can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
--->
 
 ## Teaching Team
 
@@ -102,3 +102,6 @@ The tentative course schedule, subject to change, can be found on the {{ '[cours
 
 ```{include} syllabus_bits/policies.md
 ```
+
+-->
+
