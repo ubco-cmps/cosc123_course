@@ -144,13 +144,12 @@ Even in those cases, unless they tell you otherwise and insist, it's usually wis
 ```
 ````
 
-```{dropdown} What if I cannot be in Kelowna by the start of the term?
+```{dropdown} What can I do if my study-permit is delayed and I can't be in Kelowna for the majority of the term?
     :class-container: sd-shadow-lg
     :color: primary
-    :name: missing-class-start
+    :name: missing-term
 
-Unfortunately I do not have an answer for you yet - I understand this is probably a really stressful experience and it's definitely not your fault but we're working on it.
-I will let you know as soon as we can once we have official word on the process for this.
+You can find more advice about some next steps you can take [on this page that's managed by UBC](https://you.ubc.ca/applying-ubc/blog/after-youve-been-admitted/what-to-do-if-your-study-permit-hasnt-arrived-yet/).
 ```
 
 ```{dropdown} What are the computer requirements for this course? 
