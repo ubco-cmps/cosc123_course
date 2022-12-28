@@ -26,6 +26,10 @@ parts:
 #     - file: class/setup/windows
 #     - file: class/setup/ubuntu
 #
+# - caption: Tools
+#   chapters:
+#   - file: tools/ed_discussion/ed_discussion
+#
 # - caption: Part 1 - New Beginnings
 #   chapters:
 #   - file: class/week01/week01_summary
