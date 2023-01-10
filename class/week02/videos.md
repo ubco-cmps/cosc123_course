@@ -105,8 +105,9 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ## Optional Videos
 
 ```{dropdown} 1.9: Resolving Merge Conflicts
-    :container: + shadow
-    :title: bg-success text-white font-weight-bold
+    :class-container: sd-shadow-lg
+    :color: primary
+    :open:
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/JtIX3HJKwfo" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

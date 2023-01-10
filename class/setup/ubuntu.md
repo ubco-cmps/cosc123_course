@@ -170,7 +170,7 @@ This is a bit tricky, so please make sure you follow these directions carefully.
 - Click Developer Settings
 - Click "Personal access tokens", set the appropriate permissions at the "repo" level (see gif below):
 
-<img src="images/github_PAT.gif">
+<img src="images/GitHubcreatePAT.gif">
 
 - Set the Expiration to "No Expiration"
 - Click "Generate new token"

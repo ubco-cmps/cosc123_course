@@ -18,7 +18,7 @@ html:
   use_issues_button: true
   use_edit_page_button: true
   navbar_number_sections : false
-  baseurl : "https://firas.moosvi.com/courses/2021_WT2//cosc123"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl : "https://firas.moosvi.com/courses/cosc123/2022_WT2/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   comments:
     hypothesis: false
     utterances:
@@ -32,7 +32,7 @@ html:
 repository: 
   url          : https://github.com/ubco-cmps/cosc123_course
   path_to_book : ""
-  branch       : master
+  branch       : main
 
 sphinx:
   config:
@@ -58,22 +58,22 @@ sphinx:
       TITLE: "Computer Creativity"
       PREREQS: One of COSC 111, COSC 122.
       COREQS: N/A
-      TERM: "2021 Winter Term 2"
-      ROOM: "Lectures Online via Zoom"
-      MEETING_TIMES: "Tuesday, Thursday from 11:00 AM - 12:30 PM"
+      TERM: "2022 Winter Term 2"
+      ROOM: "COM201"
+      MEETING_TIMES: "Wednesday, Friday from 15:30 AM - 17:00 PM"
       GRACE_PERIOD: "48 hour"
-      W_DATE_1: "11:59 PDT on January 21, 2022"
-      W_DATE_2: "11:59 PDT on March 18, 2022"
-      W_DATE_3: "March 18, 2022"
-      EXAM_PERIOD: "Thursday April 14th - Friday, April 29"
-      CANVAS_ID: "86697"
+      W_DATE_1: "11:59 PDT on January 23, 2023"
+      W_DATE_2: "11:59 PDT on March 24, 2023"
+      W_DATE_3: "March 24, 2023"
+      EXAM_PERIOD: "Monday, April 17 - Friday, April 28"
+      CANVAS_ID: "107665"
       CANVAS_LINK: "https://canvas.ubc.ca/courses/CANVAS_ID" # {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID)) }}
       ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
       ANNOUNCEMENTS_LINK: "[Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
-      COURSE_LINK: "https://firas.moosvi.com/courses/2021_WT2/cosc123"
+      COURSE_LINK: "https://firas.moosvi.com/courses/cosc123/2022_WT2/"
       FORUM_LINK: "[Ed Discussion (sign up using your cwl@student.ubc.ca email here)](https://edstem.org/us/join/aEkgvZ)"
       ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_0p6lP4TtNpJn410)"
-      FORMAT: "Lectures will be online in this course all semester. Labs will be online until at least January 24th, 2022. Final Exam details TBD."
+      FORMAT: "Lectures and Labs will all be running in-person in this course."
       ASSOCIATE_HEAD: "Yves Lucet [yves.lucet@ubc.ca](mailto:yves.lucet@ubc.ca)"
       ANON_FEEDBACK: "[feedback form](https://ubc.ca1.qualtrics.com/jfe/form/SV_0824TfIWX0twm5o?course=cosc123&term=2022_WT1)"
       TEXTBOOK: "We will not be needing a textbook for this course as you will be provided all the notes you need via the course website."

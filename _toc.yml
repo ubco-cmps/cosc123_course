@@ -5,26 +5,26 @@ parts:
 - caption: About this course
   chapters:
   - file: about/unsyllabus
-  # - file: about/course_schedule
-  #   title: Course Schedule
-#   - url: https://edstem.org/us/join/YeFqS6
-#     title: Ed Discussion
-#   - file: about/syllabus
-#     title: Official Course Syllabus
-# - caption: Getting Started
-#   chapters:
-#   - file: getting-started/tasks1
-#     title: Before the Term starts
-#   - file: getting-started/tasks2
-#     title: In the first week
-#   - file: getting-started/tasks3
-#     title: At the end of the first week
-#   - file: class/setup/stack
-#     title: Setup Your Machine
-#     sections:
-#     - file: class/setup/macOS
-#     - file: class/setup/windows
-#     - file: class/setup/ubuntu
+  - file: about/course_schedule
+    title: Course Schedule
+  - url: https://edstem.org/us/join/YeFqS6
+    title: Ed Discussion
+  - file: about/syllabus
+    title: Official Course Syllabus
+- caption: Getting Started
+  chapters:
+  - file: getting-started/tasks1
+    title: Before the Term starts
+  - file: getting-started/tasks2
+    title: In the first week
+  - file: getting-started/tasks3
+    title: At the end of the first week
+  - file: class/setup/stack
+    title: Setup Your Machine
+    sections:
+    - file: class/setup/macOS
+    - file: class/setup/windows
+    - file: class/setup/ubuntu
 #
 # - caption: Tools
 #   chapters:
