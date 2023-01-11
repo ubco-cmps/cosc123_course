@@ -25,17 +25,17 @@ parts:
     - file: class/setup/macOS
     - file: class/setup/windows
     - file: class/setup/ubuntu
-#
-# - caption: Tools
-#   chapters:
-#   - file: tools/ed_discussion/ed_discussion
-#
-# - caption: Part 1 - New Beginnings
-#   chapters:
-#   - file: class/week01/week01_summary
-#     title: Week 1 - Getting Started
-#     sections:
-#     - file: class/week01/class1A
+
+- caption: Tools
+  chapters:
+  - file: tools/ed_discussion/ed_discussion
+
+- caption: Part 1 - New Beginnings
+  chapters:
+  - file: class/week01/week01_summary
+    title: Week 1 - Getting Started
+    sections:
+    - file: class/week01/class1A
 #     - file: class/week01/class1B
 #     - file: class/week01/activity01/README
 #       title: Activity 1

@@ -4,13 +4,17 @@
 
 Hello, my name is Firas Moosvi and I am your instructor for COSC 123!
 
-## Navigating the course website
+Here are the slides for today's class:
 
-Live demo...
+<iframe src="../../2023-01-11 - Week01A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
-## Tour of the Course Syllabus
+## Getting everyone on Ed Discussion
 
-Live demo...
+If you haven't signed on yet, you can [provide an email address to be invited here](https://ubc.ca1.qualtrics.com/jfe/form/SV_bjBcTik01NqJ9A2?course=cosc123&term=2022_WT2)
+
+## CommonMark Tutorial
+
+We'll be doing this [CommonMark Tutorial](https://commonmark.org/help/tutorial/) during class today.
 
 ## Example of assigned videos (starting next week)
 
@@ -25,17 +29,3 @@ Live demo...
 
 Credit: [Dr. Daniel Shiffman](https://shiffman.net), an Associate Arts Professor at the Interactive Telecommunications Program at NYU’s Tisch School of the Arts.
 ```
-
-## Getting everyone on Ed Discussion
-
-If you haven't signed on yet, you can [provide an alternate email address here](https://ubc.ca1.qualtrics.com/jfe/form/SV_4UYDc6zEiwa2Jq6)
-
-Live demo
-
-## Navigating GitHub
-
-Live demo
-
-## Introduction to Markdown Syntax
-
-See the [markdown guide here](https://www.markdownguide.org/cheat-sheet/).
