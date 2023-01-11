@@ -33,7 +33,7 @@ Here are some [key features](https://twitter.com/siwelwerd/status/14729404739249
 ````{attention}
 For **only the Labs**, {numref}`specifications_rubric` shows a handy guide to help you understand this grading system: 
 
-```{figure} ../images/specifications_rubric.pdf
+```{figure} ../images/specifications_rubricv2.pdf
 ---
 height: 400px
 name: specifications_rubric
