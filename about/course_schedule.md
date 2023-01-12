@@ -2,10 +2,6 @@
 Course Schedule
 =======================
 
-Schedule is coming soon.
-
-<!-- 
-
 ```{include} syllabus_bits/schedule.md
 ```
 
@@ -13,8 +9,10 @@ This is the tentative plan for {{ COURSE_CODE }} this term.
 Things may change depending on many factors so this is subject to change.
 
 ```{note}
-Labs start in the first week, on January 10th!
+Labs start in the second week, on January 10th!
 ```
+
+<!--
 
 ```{attention}
 Note: Until at least February 7th, all labs will be offered online via Zoom. Attendance in the lab sessions is **not** required, but you cannot pass the course without completing the labs. You are welcome to attend any of the labs sessions in the course (i.e. not just the ones you are registered in), as many times as you like to get extra help.
