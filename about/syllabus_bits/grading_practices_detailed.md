@@ -3,9 +3,8 @@ The grading scheme for this course is:
 | Item             | Weight          | Due date(s)                  |
 |------------------|-----------------|------------------------------|
 | Learning Logs    | 10% (10 x 1%)   | Saturdays at 6 PM            |
-| Class Activities | 15% (10 x 1.5%) | Thursdays at 6 PM            |
-| Labs             | 30% (10 x 3%)   | Fridays at 6 PM              |
-| Tests            | 25% (5 x 5%)    | Thursday 6 PM - Saturday 6PM |
+| Labs             | 50% (10 x 5%)   | TBD                          |
+| Tests            | 20% (5 x 4%)    | Wednesdays during class      |
 | Final Exam (TBD) | 20%             | TBD                          |
 
 There will be 5 tests in this course in an (approximately) bi-weekly schedule.
@@ -33,7 +32,7 @@ Here are some [key features](https://twitter.com/siwelwerd/status/14729404739249
 ````{attention}
 For **only the Labs**, {numref}`specifications_rubric` shows a handy guide to help you understand this grading system: 
 
-```{figure} ../images/specifications_rubricv2.pdf
+```{figure} ../images/specifications_rubricv2.png
 ---
 height: 400px
 name: specifications_rubric
