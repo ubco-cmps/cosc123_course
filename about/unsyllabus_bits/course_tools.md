@@ -32,6 +32,7 @@ New tools may be added to the course as the need arises, and I will update this 
 Even though the tools above are required for this course, if you have a moral or legal objection to my use of these tools, please do reach out to me and we can likely find an acceptable accommodation.
 ```
 
+<!-- 
 ### Link your Canvas account to Gradescope
 
 You should then be guided through a series of steps to create an account, set a password, and link it to our course. 
@@ -40,6 +41,8 @@ On the left sidebar in Canvas, click on Gradescope.
 <img src="../images/GradescopeAccount.gif" width = 100%>
 
 This is **very** important for you to do as it'll be our primary mechanism for delivering you feedback in this course.
+ -->
+
 
 ### Sign up for a (free) Ed Discussion account [Required]
 
