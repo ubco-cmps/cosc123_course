@@ -4,7 +4,6 @@ root: about/unsyllabus
 parts:
 - caption: About this course
   chapters:
-  - file: about/unsyllabus
   - file: about/course_schedule
     title: Course Schedule
   - url: https://edstem.org/us/join/aEkgvZ
@@ -269,6 +268,7 @@ parts:
   chapters:
   - file: about/feedback
     title: Anonymous Feedback Form
+
 #
 # - caption: Final Exam Details
 #   chapters:

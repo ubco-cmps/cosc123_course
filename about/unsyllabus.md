@@ -37,7 +37,7 @@ This course website is currently under construction. It will continue to be upda
 (syllabus-vs-unsyllabus)=
 ## Syllabus vs. Unsyllabus
 
-```{include} syllabus_bits/why_syllabus_unsyllabus.md
+```{include} unsyllabus_bits/why_syllabus_unsyllabus.md
 ```
 
 (evaluation)=
