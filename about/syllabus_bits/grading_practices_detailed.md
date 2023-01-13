@@ -3,7 +3,7 @@ The grading scheme for this course is:
 | Item             | Weight          | Due date(s)                  |
 |------------------|-----------------|------------------------------|
 | Learning Logs    | 10% (10 x 1%)   | Saturdays at 6 PM            |
-| Labs             | 50% (10 x 5%)   | TBD                          |
+| Labs             | 50% (10 x 5%)   | Wednesdays at 6 PM           |
 | Tests            | 20% (5 x 4%)    | Wednesdays during class      |
 | Final Exam (TBD) | 20%             | TBD                          |
 
