@@ -1,5 +1,5 @@
 format: jb-book
-root: getting-started/pre_term
+root: about/unsyllabus
 
 parts:
 - caption: About this course
@@ -7,7 +7,7 @@ parts:
   - file: about/unsyllabus
   - file: about/course_schedule
     title: Course Schedule
-  - url: https://edstem.org/us/join/YeFqS6
+  - url: https://edstem.org/us/join/aEkgvZ
     title: Ed Discussion
   - file: about/syllabus
     title: Official Course Syllabus
@@ -36,17 +36,21 @@ parts:
     title: Week 1 - Getting Started
     sections:
     - file: class/week01/class1A
-#     - file: class/week01/class1B
-#     - file: class/week01/activity01/README
-#       title: Activity 1
-#       sections:
-#         - file: class/week01/activity01/Task1
-#     - file: class/week01/lab/README
-#       title: Lab 1
-#       sections:
-#         - file: class/week01/lab/Task1
-#         - file: class/week01/lab/Task2
-#     - file: class/week01/learninglog
+    - file: class/week01/class1B
+    - file: class/week01/lab/README
+      title: Lab and Activity 1
+      sections:
+        - file: class/week01/lab/activity/Task1
+          title: Activity Task 1
+        - file: class/week01/lab/activity/Task2
+          title: Activity Task 2
+        - file: class/week01/lab/lab/Task1
+          title: Lab Task 1
+        - file: class/week01/lab/lab/Task2
+          title: Lab Task 2
+        - file: class/week01/lab/lab/Task3
+          title: Lab Task 3
+    - file: class/week01/learninglog
 
 #   - file: class/week02/week02_summary
 #     title: Week 2 - Command line and Git
@@ -257,14 +261,14 @@ parts:
 #     - file: class/week13/test
 #     - file: class/week13/learninglog
 
-# - caption: GitHub Classroom Links
-#   chapters:
-#   - file: class/links
-#     title: Lab and Activity Links
-# - caption: Course Feedback
-#   chapters:
-#   - file: about/feedback
-#     title: Anonymous Feedback Form
+- caption: GitHub Classroom Links
+  chapters:
+  - file: class/links
+    title: Lab and Activity Links
+- caption: Course Feedback
+  chapters:
+  - file: about/feedback
+    title: Anonymous Feedback Form
 #
 # - caption: Final Exam Details
 #   chapters:
