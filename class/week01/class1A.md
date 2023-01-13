@@ -6,7 +6,7 @@ Hello, my name is Firas Moosvi and I am your instructor for COSC 123!
 
 Here are the slides for today's class:
 
-<iframe src="../../2023-01-11 - Week01A.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../2023-01-11 - Week01AB.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
 ## Getting everyone on Ed Discussion
 
