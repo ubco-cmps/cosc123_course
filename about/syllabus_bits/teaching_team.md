@@ -1,8 +1,9 @@
-| Team Member                  | Pronounce as    | Contact                      | Student Hour |
-|------------------------------|-----------------|------------------------------|--------------|
-| {{ INSTRUCTOR }}; Instructor | {{ PRONOUNCE }} | Contact via {{ FORUM_LINK }} | TBD          |
-|                              |                 | Contact via {{ FORUM_LINK }} | TBD          |
-|                              |                 | Contact via {{ FORUM_LINK }} | TBD          |
-|                              |                 | Contact via {{ FORUM_LINK }} | TBD          |
-|                              |                 | Contact via {{ FORUM_LINK }} | TBD          |
-|                              |                 | Contact via {{ FORUM_LINK }} | TBD          |
+| Team Member                  | Pronounce as    | Contact                      | Student Hour                                                                                                                                            |
+|------------------------------|-----------------|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| {{ INSTRUCTOR }}; Instructor | {{ PRONOUNCE }} | Contact via {{ FORUM_LINK }} | Fridays 1 PM - 2 PM [via Zoom](https://ubc.zoom.us/j/67640303816?pwd=anVOVTJSSnA3T2hCK09idDF5Z0tEQT09) and Mondays from 11 AM - 12 PM in EME 0050       |
+| Carlos                       |                 | Contact via {{ FORUM_LINK }} | [Drop-in during a scheduled lab](https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=123&campuscd=UBCO&dept=COSC&pname=subjarea) |
+| Henry                        |                 | Contact via {{ FORUM_LINK }} | [Drop-in during a scheduled lab](https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=123&campuscd=UBCO&dept=COSC&pname=subjarea) |
+| Aidan                        |                 | Contact via {{ FORUM_LINK }} | [Drop-in during a scheduled lab](https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=123&campuscd=UBCO&dept=COSC&pname=subjarea) |
+| Quinn                        |                 | Contact via {{ FORUM_LINK }} | [Drop-in during a scheduled lab](https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=123&campuscd=UBCO&dept=COSC&pname=subjarea) |
+| Nelusha                      |                 | Contact via {{ FORUM_LINK }} | [Drop-in during a scheduled lab](https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=123&campuscd=UBCO&dept=COSC&pname=subjarea) |
+| Jason                        |                 | Contact via {{ FORUM_LINK }} | N/A                                                                                                                                                     |
