@@ -14,7 +14,7 @@ Once you finish the task, check off the box so you can keep track of your progre
 
 <label><input type="checkbox" id="week02_task2" class="box"> [**Attend Classes**](class2A.ipynb) </input></label>
 
-<label><input type="checkbox" id="week02_task3" class="box"> [**Complete the Lecture Activity**](activity/README.md) </input></label>
+<label><input type="checkbox" id="week02_task3" class="box"> **Complete the Lecture Activities** </input></label>
 
 <label><input type="checkbox" id="week02_task4" class="box"> [**Attend and Complete the lab**](lab/README.md) </input></label>
 

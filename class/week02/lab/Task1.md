@@ -23,7 +23,7 @@ You may need the following commands:
 - [`mkdir`](https://man7.org/linux/man-pages/man1/mkdir.1.html): make directory (note the `-p` option)
 - [`ls`](https://man7.org/linux/man-pages/man1/ls.1.html): list directory contents
 - [`touch`](https://man7.org/linux/man-pages/man1/touch.1.html): create an empty file with a specific name
-- `code`/`pico`/`nano`/`vim`: edit the file in a text editor
+- `code`: edit the file in Visual Studio Code
 
 ## 1.2 - Add, commit, and push your changes to GitHub
 

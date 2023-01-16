@@ -51,26 +51,20 @@ parts:
           title: Lab Task 3
     - file: class/week01/learninglog
 
-#   - file: class/week02/week02_summary
-#     title: Week 2 - Command line and Git
-#     sections:
-#     - file: class/week02/videos
-#     - file: class/week02/class2A
-#     - file: class/week02/class2B/class2B
-#     - file: class/week02/activity/README
-#       title: Activity 2
-#       sections:
-#         - file: class/week02/activity/Task1
-#         - file: class/week02/activity/Task2
-#     - file: class/week02/lab/README
-#       title: Lab 2
-#       sections:
-#         - file: class/week02/lab/Task1
-#         - file: class/week02/lab/Task2
-#     - file: class/week02/readings
-#     - file: class/week02/test
-#     - file: class/week02/learninglog
-
+  - file: class/week02/week02_summary
+    title: Week 2 - Git and Processing
+    sections:
+    - file: class/week02/videos
+    # - file: class/week02/class2A
+    # - file: class/week02/class2B/class2B
+    - file: class/week02/readings
+    - file: class/week02/test
+    - file: class/week02/learninglog
+    - file: class/week02/lab/README
+      title: Lab 2
+      sections:
+        - file: class/week02/lab/Task1
+        - file: class/week02/lab/Task2
 # - caption: Part 2 - Processing
 #   chapters:
 #   - file: class/week03/week03_summary
