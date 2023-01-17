@@ -15,7 +15,7 @@ Once the lab is ready, the link wil become active, and you will be able to accep
 | Lab                     | Due Date                            | Link to Accept                                        |
 |-------------------------|-------------------------------------|-------------------------------------------------------|
 | [Lab 1](week01/lab.md)  | Wednesday January 18, 2023 at 18:00 | [Accept Lab](https://classroom.github.com/a/khHjuWzl) |
-| [Lab 2](week02/lab.md)  | Wednesday at 18:00                  | Accept Lab[](https://classroom.github.com/a/rK6ZngiD) |
+| [Lab 2](week02/lab.md)  | Wednesday January 25, 2023 at 18:00 | [Accept Lab](https://classroom.github.com/a/rK6ZngiD) |
 | [Lab 3](week03/lab.md)  | Wednesday at 18:00                  | Accept Lab[](https://classroom.github.com/a/OnTswVbE) |
 | [Lab 4](week04/lab.md)  | Wednesday at 18:00                  | Accept Lab[](https://classroom.github.com/a/wPhh9HUJ) |
 | [Lab 5](week05/lab.md)  | Wednesday at 18:00                  | Accept Lab[](https://classroom.github.com/a/qx7YHIz-) |

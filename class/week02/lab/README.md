@@ -1,7 +1,9 @@
-# COSC 123 Lab 2
+# Lab 2
 
-This lab has has two tasks.
-The first task is to reproduce a directory structure with Terminal commands, and the second task is to play a game that will teach you more about the Terminal.
+Activities are usually done during Lectures, and labs are usually done during scheduled lab sessions.
+Both are submitted together, once a week.
+Activity 1 this week has just one task, to accept the lab, clone it to your computer, and answer a few questions.
+Lab 2 has three tasks: the first task is [installing the tech stack](https://firas.moosvi.com/courses/cosc123/2022_WT2/class/setup/stack.html), and the second and third tasks involve practicing Markdown syntax.
 
 ## Submission Instructions
 
@@ -15,7 +17,7 @@ Those same instructions are summarized here in text:
 
 1. You will be enrolled in the PrairieLearn course and you'll be able to see all your active assignments if you click "Assessments" on the top bar.
 
-1. Click on the Lab you'd like to submit, select the "Submit this lab" question, enter the URL to your GitHub repo in the box - your URL should look something like: `https://github.com/ubco-W2022T2-cosc123/lab01-demofiras`.
+1. Click on the Lab you'd like to submit, select the "Submit this lab" question, enter the URL to your GitHub repo in the box - your URL should look something like: `https://github.com/ubco-W2022T2-data301/lab01-demofiras`.
 
 1. Answer any other questions there are about the assignment (if applicable).
 
