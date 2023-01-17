@@ -67,6 +67,8 @@ parts:
           title: Activity Task 1
         - file: class/week02/lab/activity/Task2
           title: Activity Task 2
+        - file: class/week02/lab/activity/Task3
+          title: Activity Task 3
         - file: class/week02/lab/lab/Task1
           title: Lab Task 1
         - file: class/week02/lab/lab/Task2
