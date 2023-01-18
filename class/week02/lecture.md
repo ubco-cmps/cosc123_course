@@ -1,4 +1,4 @@
-# Week 2 Class
+# Week 2 Classes
 
 ## Wednesday's Class
 

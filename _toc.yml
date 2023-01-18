@@ -58,6 +58,7 @@ parts:
     # - file: class/week02/class2A
     # - file: class/week02/class2B/class2B
     - file: class/week02/readings
+    - file: class/week02/lecture
     - file: class/week02/test
     - file: class/week02/learninglog
     - file: class/week02/lab/README
