@@ -121,10 +121,9 @@ To install an extension, you simply search for it in the search bar, click the e
 There are extensions available to make almost any workflow or task you are interested in more efficient!
 To do this, search for and install the following extensions:
 
-- Java Extension Pack (0.12.1) by Microsoft
-- Processing Language (1.4.5) by Tobiah Zarlez
-- markdownlint (markdown linting and style checking extension)
-- (Optional) Bracket Pair Colorizer 2 (add colour to help distinguish your brackets: (), [], {})
+- Extension Pack for Java (0.25.7) by Microsoft
+- Processing Language (1.4.6) by Avin Zarlez
+- markdownlint (v0.49.0) by David Anson
 
 ## GitHub.com
 
