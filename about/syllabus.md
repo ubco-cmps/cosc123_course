@@ -2,7 +2,9 @@
 
 ![](../images/UBCO_CMPS_header.jpg)
 
-You can [download the official Course Syllabus here]().
+The official course syllabus will be available shortly.
+
+<!-- You can [download the official Course Syllabus here](). -->
 For more details about the reason we have a Syllabus and an [Unsyllabus](unsyllabus), you can [read the explanation here](syllabus-vs-unsyllabus).
 
 <!-- 
