@@ -62,7 +62,7 @@ parts:
     - file: class/week02/test
     - file: class/week02/learninglog
     - file: class/week02/lab/README
-      title: Lab and Activity 1
+      title: Lab and Activity 2
       sections:
         - file: class/week02/lab/activity/Task1
           title: Activity Task 1
@@ -76,27 +76,28 @@ parts:
           title: Lab Task 2
         - file: class/week02/lab/lab/Task3
           title: Lab Task 3
-# - caption: Part 2 - Processing
-#   chapters:
-#   - file: class/week03/week03_summary
-#     title: Week 3 - Drawing with PDE
-#     sections:
-#     - file: class/week03/videos
-#     - file: class/week03/lecture
-#     - file: class/week03/activity/README
-#       title: Activity 3
-#       sections:
-#         - file: class/week03/activity/Task1
-#         - file: class/week03/activity/Task2
-#         - file: class/week03/activity/Task3
-#     - file: class/week03/lab/README
-#       title: Lab 3
-#       sections:
-#         - file: class/week03/lab/Task1
-#         - file: class/week03/lab/Task2
-#     - file: class/week03/readings
-#     - file: class/week03/test
-#     - file: class/week03/learninglog
+- caption: Part 2 - Processing
+  chapters:
+  - file: class/week03/week03_summary
+    title: Week 3 - Drawing with PDE
+    sections:
+    - file: class/week03/videos
+    - file: class/week03/lecture
+    - file: class/week03/lab/README
+      title: Lab and Activity 3
+      sections:
+        - file: class/week03/lab/activity/task1/Task1
+          title: Activity Task 1
+        - file: class/week03/lab/activity/task2/Task2
+          title: Activity Task 2
+        - file: class/week03/lab/activity/task3/Task3
+          title: Activity Task 3
+        - file: class/week03/lab/activity/task4/Task4
+          title: Activity Task 4
+        - file: class/week03/lab/lab/task1/Task1
+          title: Lab Task 1
+        - file: class/week03/lab/lab/task2/Task2
+          title: Lab Task 2
 
 #   - file: class/week04/week04_summary
 #     title: Week 4 - Interactions

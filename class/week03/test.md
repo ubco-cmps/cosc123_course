@@ -38,6 +38,5 @@ Test this week
   
 
 ```{button-link} https://ca.prairielearn.com/pl/course_instance/2367/
-Test1 will be available during the weekly Test window (Thursday 6PM - Saturday 6PM).
 ```
 ````
