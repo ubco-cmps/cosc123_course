@@ -18,7 +18,7 @@ I suggest you read the instructions on this page carefully, as I don't want you 
 
 The usual "Test" rules apply to the final exam also:
 
-- You must complete the test BY YOURSELF (no friends, no tutors, no classmates, no humans - cats and dogs in the room are fine).
+- You must complete the test BY YOURSELF (no friends, no tutors, no classmates, no humans).
 - Any form of communication with other humans, terrestrial or extraterrestrial is not allowed (Discord, Slack, WhatsApp, Terminal, Signal, iMessage, SMS, MMS, etc...)
 - The test is open-book, open-notes, open-web, open-IDE (include PDE) EXCEPT websites that help you cheat such as Chegg, Course Hero, Slader and other similar websites that have tutors answering questions you upload (Stack Overflow is permissible).
 - Copying the question text and googling IS CHEATING
