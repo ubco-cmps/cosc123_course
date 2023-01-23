@@ -83,6 +83,7 @@ parts:
     sections:
     - file: class/week03/videos
     - file: class/week03/lecture
+    - file: class/week03/test
     - file: class/week03/lab/README
       title: Lab and Activity 3
       sections:
