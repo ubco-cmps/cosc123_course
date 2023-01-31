@@ -10,9 +10,14 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 <input type="checkbox" id="week03_video1" class="box"><label>0.2 - How and why should you learn Programming?</input></label>
 
-<input type="checkbox" id="week03_video4" class="box"><label>0.6 - Overview of Processing Topics </input></label>
+<input type="checkbox" id="week03_video2" class="box"><label>0.6 - Overview of Processing Topics </input></label>
 
-<input type="checkbox" id="week03_video5" class="box"><label>1.1 - Drawing with Pixels</input></label>```
+<input type="checkbox" id="week03_video3" class="box"><label>1.1 - Drawing with Pixels</input></label>
+
+<input type="checkbox" id="week03_video4" class="box"><label>2.1 - How to use Processing</input></label>
+
+<input type="checkbox" id="week04_video5" class="box"><label>2.2 - RGB Color</input></label>
+
 ````
 
 ## Required Videos
@@ -52,6 +57,15 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 
 <div class="container youtube">
 <iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/5N31KNgOO0g" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 2.2 -  RGB Color
+    :class-container: sd-shadow-lg
+    :color: primary
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/n2oHuKG_BQc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
