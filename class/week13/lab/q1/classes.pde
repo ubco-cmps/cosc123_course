@@ -1,1 +1,1 @@
-//REQ: create a Button class here with the specs mentioned in the assignment document.
+//REQ: create a Hero class with the specs mentioned in the assignment document.

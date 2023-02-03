@@ -1,26 +1,21 @@
-# Task 1: Hero Class
+# Task 1: Scene Switching
 
-In this question, you will create a class named `Hero` for your custom character (the one that we created in the beginning of this semester). Here are the specs for the class:
+In class, we created a simple multi-scene animation where the user can go from one scene to the other by pressing certain keys on the keyboard. In this assignment, you will repeat this exercise again but with the following differences:
 
-- **Attributes**: `x`, `y`, `scale`, `speedX`, `speedY`, `torsoColor`, and `beltColor`.
-- **Constructors**:
-    - zero-argument constructor that sets attributes as: `x=width/2`, `y=height/2`, `scale=1`, `speedX=1`, `speedY=0`, `torsoColor=color(19,0,205)`, and `beltColor=color(0,255,255)` (your colors can be different of course).
-    - 3-argument constructor to set `x`, `y` and `scale` to given values. Other attributes should use the same values used in the zero argument constructor. Use this header: ```Hero(float x1, float y1, float scale1)```
-    - 7-arg constructor to set all attributes to given values. Use this header: ```Hero(float x1, float y1, float scale1, float sx, float sy, color torsoClr, color beltClr)```
-- **Functions**:
-    - `move()` to move the character and _wrap_ it around the screen when going outside sketch boundaries (e.g. when it passes the right edge, it should reappear at the left edge).
-    - `display()` to draw the character as per the design that you made before.
+- Switching scenes is done by clicking a button on the sketch in each scene. That is, clicking the PLAY button on the home screen takes you to the second scene, and clicking the HOME button in the second scene takes you back to the home screen (see the figure below). Hint: we have seen how to do this in the “Conditionals” lecture.
 
-![](images/Q1_Hero.png)
+- The second scene (on the right figure below) should include any other complex animation you've done in the past, for example the spider web from Lab 9, or the super shape. It can also include any other complex animation if you wish (make sure it works, and you clearly indicate in the comments which animation you used).
 
+<img src="images/img1.png" width="650px">
 
 ## Specifications
 
 - We are expecting you to commit your work often (try to aim for a minimum of 3-5 commits per lab) with useful commit messages marking your progress.
-- Completing Hero class header and attributes.
-- Using three constructors.
-- Completing move function (with wrapping).
-- Completing display function.
+- Choosing to draw either the first or the second scene in the draw() method.
+- Completing the home screen (on the left above).
+- Completing the second scene (on the right above).
+- Handling mouse clicks on the PLAY and HOME buttons.
+- **Optional** Add one more scene and two buttons per scene that allow switching from one scene to any of the other two; e.g. for scene1 on the right in the above figure, you should one extra button that takes you to a third scene.
 
 ## Embed an animated gif of your drawing
  

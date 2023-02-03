@@ -1,13 +1,8 @@
-# Lecture 10 Activity
+# Lab 13
 
-In this lecture activity, you will be practising with functions!
+In this lab, you will be practising Object Oriented Programing (OOP).
 
 - Details of [Task1.md](Task1.md).
-- Details of [Task2.md](Task2.md).
-- Details of [Task3.md](Task3.md).
-- Details of [Task4.md](Task4.md).
-
-For each task, **embed a screenshot (or animation where appropriate) of your drawing** in the Task that is generated after you run your code.
 
 ## General Submission Instructions
 

@@ -1,19 +1,26 @@
-int scn = 0;     //this variable is used to track which scene is currently active
+// Don't change the code below.
+// The code below will not work until you create Hero class in the 'classes' tab.
 
-//REQ: create two Button objects here: 
-//  b0: the PLAY button in scene0. 
-//  b1: the HOME button in scene1.
-//  Use these values for your buttons:
-//      b0: x = 70,  y = 460, width = 100, height = 40, fill color = greenish, caption = "HOME"
-//      b1: x = 250, y = 300, width = 100, height = 40, fill color = light purple, caption = "PLAY"
-
-void setup(){
-  size(500,500);
-  colorMode(HSB);
+Hero h1, h2, h3;
+void setup() {
+  size(350, 200);
+  //initialize her character
+  h1 = new Hero(170, 100, 0.5); //x,y,scale
+  h1.speedX=0.5;
+  h2 = new Hero();  //use default values 
+  h3 = new Hero(270, 120, 1.5, 1.5, 0, color(255, 168, 211), color(209, 11, 86));
 }
-void draw(){
-  switch(scn){
-    case 0: scene0(); break;  //home screen (default)
-    case 1: scene1(); break;  //animation from Assignment A6-Q1
-  }
+void draw() { 
+  //instead of background(0), we use this tansparent rectangle to give the illusion of a trail for the objects!
+  rectMode(CORNER); 
+  fill(0, 30); 
+  rect(0, 0, width, height); 
+  
+  //move and display hero characters
+  h1.move();     
+  h2.move();    
+  h3.move();
+  h1.display();    
+  h2.display();    
+  h3.display();
 }

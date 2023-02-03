@@ -1,6 +1,6 @@
-# Lab 11
+# Lab 10
 
-In this lab, you will be practising Object Oriented Programing (OOP).
+In this lab, you will be practising with functions and multi-scene animation.
 
 - Details of [Task1.md](Task1.md).
 

@@ -5,4 +5,5 @@ Any major changes to the syllabus (this page) will be documented here, as well a
 
 | Change Date    | Summary                               | Rationale                                                                                                                                                       |
 |----------------|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| March 11, 2022 | Adjusted Content for Weeks 12, 13, 14 | April 10th is the last day of classes and since that's a Monday and our classes are usually on Thursday, that means our class will be in Week 13 of the course. |
+| Feb 2, 2023 | Adjusted Schedule for Weeks 6-11 | I've decided to restructure the Arrays and Object Oriented Programming discussion and split it over longer weeks, and shrink the discussion on Variables. Also changed Test times from 60 mins to 50 mins. |
+

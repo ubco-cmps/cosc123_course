@@ -1,19 +1,19 @@
-# Task 2 - Update your game
+# Task 2 - Draw Your Character with Functions
 
-1. Start with your game from Lecture Activity 10
+For this task you should reuse your code from previous lecture activities. Remember, you can copy a file using the Terminal:
 
-2. Copy the code to Lecture Activity 11 (cp)
+```
+cp path\to\file1.pde path\to\copiedfile1.pde
+```
 
-3. If you haven’t already, organize your code so it uses tabs
+Update your code so that the character is drawn in a function. The parameters should be the position, the scale, and the body and belt colors. Use this function to draw 2 or 3 of your character. 
 
-4. Use object-oriented programming to create two classes:
-  - Ground Enemies (or Goombas from the original Mario)
-  - Flying Enemies (or Paratroopa from the original Mario)
+Use this header: *drawSuperhero(int x,int y, float scale, color c1, color c2);*
 
-5. Add 3 ground enemies and 5 flying enemies; they should all have different names, and be of different colours; flying enemies should be restricted to the air, and ground enemies cannot fly.
+*Hint:* whenever you transform the coordinates inside a function, it is better to restore the original coordinates before leaving the function. HOW can you do this?
 
-6. Remember that the original names and images are probably copyrighted, so you will have to find your own!
+Add a screenshot of your code and solution below this line:
 
-## Embed an animated gif of your drawing
+## Embed a screenshot of your drawing
 
-Embed the animated gif you created here using markdown syntax:
+Embed the screenshot of your drawing (not the code) here using markdown syntax:

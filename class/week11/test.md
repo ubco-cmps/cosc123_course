@@ -1,11 +1,6 @@
 # Test
 
-This week is Test 4, and it will mostly be on the contents of Weeks 8-10, or Methods and Object Oriented Programming.
-
-Here is what it will cover:
-
-- Methods
-- Object Oriented Programming
+This week is Bonus Test 3, and it will mostly be on the contents of Weeks 5-8, or Variables, Images, and Conditionals.
 
 You will have approximately 60 minutes to do the Test.
 
@@ -37,6 +32,6 @@ Test this week
   
 
 ```{button-link} https://canvas.ubc.ca/courses/64279/quizzes
-Test 4 will be available during the weekly Test window (Thursday 6PM - Saturday 6PM).
+Bonus Test 3 will be available during the weekly Test window (Thursday 6PM - Saturday 6PM).
 ```
 ````

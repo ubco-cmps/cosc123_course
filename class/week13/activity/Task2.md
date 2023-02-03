@@ -1,25 +1,18 @@
-# Task 2 - Bouncing Happy Face(s)
+# Task 2 - Update your game
 
-- Create three bouncing happy-faces with different positions, size and speed, and then move, bounce, and display them in the draw() function. 
-- Notice how easy it is to create many objects now of the same class and use them in your program.
-```
-HappyFace f1, f2, f3;
+1. Start with your game from Lecture Activity 10
 
-void setup(){
-  size(200,200);
-  f1 = new HappyFace(...);
-  //do the same for f2,f3
-}
+2. Copy the code to Lecture Activity 11 (cp)
 
-void draw(){
-  background(0);
-  f1.move;  f1.bounce(); f1.display();
-  //do the same for f2,f3
-}
+3. If you haven’t already, organize your code so it uses tabs
 
-class HappyFace{...}
-```
-<img src="images/img4.png" width="250px">
+4. Use object-oriented programming to create two classes:
+  - Ground Enemies (or Goombas from the original Mario)
+  - Flying Enemies (or Paratroopa from the original Mario)
+
+5. Add 3 ground enemies and 5 flying enemies; they should all have different names, and be of different colours; flying enemies should be restricted to the air, and ground enemies cannot fly.
+
+6. Remember that the original names and images are probably copyrighted, so you will have to find your own!
 
 ## Embed an animated gif of your drawing
 

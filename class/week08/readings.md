@@ -7,7 +7,7 @@ They are here if you need an additional resource to reference.
 
 This week the readings are listed below:
 
-<label><input type="checkbox" id="week08_reading1" class="box"> **[Images and Pixels](https://processing.org/tutorials/pixels/)** </input></label> 
+
 
 <!-- This week the readings are listed below:
 

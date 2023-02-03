@@ -1,8 +1,11 @@
-# Lab 10
+# Lecture 13 Activity
 
-In this lab, you will be practising with functions and multi-scene animation.
+In this lecture activity, you will be continuing to practise with object oriented programming (OOP)!
 
 - Details of [Task1.md](Task1.md).
+- Details of [Task2.md](Task2.md).
+
+For each task, **embed a screenshot (or animation where appropriate) of your drawing** in the Task that is generated after you run your code.
 
 ## General Submission Instructions
 

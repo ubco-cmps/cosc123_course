@@ -1,4 +1,4 @@
-# Lab 13
+# Lab 11
 
 In this lab, you will be practising Object Oriented Programing (OOP).
 

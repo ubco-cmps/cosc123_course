@@ -1,9 +1,11 @@
-# Lecture 11 Activity
+# Lecture 10 Activity
 
-In this lecture activity, you will be practising with object oriented programming (OOP)!
+In this lecture activity, you will be practising with functions!
 
 - Details of [Task1.md](Task1.md).
 - Details of [Task2.md](Task2.md).
+- Details of [Task3.md](Task3.md).
+- Details of [Task4.md](Task4.md).
 
 For each task, **embed a screenshot (or animation where appropriate) of your drawing** in the Task that is generated after you run your code.
 

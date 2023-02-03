@@ -8,62 +8,74 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```{admonition} Checklist of items
 :class: tip
 
-<input type="checkbox" id="week08_video1" class="box"><label>8.1 - Boolean Expressions </input></label>
+<input type="checkbox" id="week08_video1" class="box"><label>8.1 - While Loop </input></label>
 
-<input type="checkbox" id="week08_video2" class="box"><label>8.2 - if/else if/else </input></label>
+<input type="checkbox" id="week08_video2" class="box"><label>8.2 - Two loops/Grid exercise </input></label>
 
-<input type="checkbox" id="week08_video3" class="box"><label>8.3 - Logical Operators: AND, OR </input></label>
+<input type="checkbox" id="week08_video3" class="box"><label>8.3 - For Loops </input></label>
 
-<input type="checkbox" id="week08_video1" class="box"><label>8.4 - Boolean Variables </input></label>
+<input type="checkbox" id="week08_video4" class="box"><label>8.4 - Variable Scope </input></label>
 
-<input type="checkbox" id="week08_video2" class="box"><label>8.5 - Bouncing Ball </input></label>```
+<input type="checkbox" id="week08_video5" class="box"><label>8.5 - Loop vs. Draw </input></label>
+
+<input type="checkbox" id="week08_video6" class="box"><label>8.6 - Nested Loops </input></label>
+```
 ````
 
 ## Required Videos
 
-```{dropdown} 8.1 - Boolean Expressions
+```{dropdown} 8.1 - While Loop
+    :class-container: sd-shadow-lg
+    :color: primary
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/RtAPBvz6k0Y" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 8.2 - Two loops/Grid exercise
+    :class-container: sd-shadow-lg
+    :color: primary
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/esKLU3dJo70" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 8.3 - For Loops
+    :class-container: sd-shadow-lg
+    :color: primary
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/h4ApLHe8tbk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 8.4 - Variable Scope
     :class-container: sd-shadow-lg
     :color: primary
     :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/wsI6N9hfW7E" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/pC7RUmHL2KY" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 8.2 - if/else if/else
+```{dropdown} 8.5 -  Loop vs. Draw
     :class-container: sd-shadow-lg
     :color: primary
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/mVq7Ms01RjA" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/Z8s-7beNP1c" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 8.3 - Logical Operators: AND, OR
+```{dropdown} 8.6 - Nested Loops
     :class-container: sd-shadow-lg
     :color: primary
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/9857701OsDE" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-```
-
-```{dropdown} 8.4 - Boolean Variables
-    :class-container: sd-shadow-lg
-    :color: primary
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/_NJqfZUQ3i4" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-```
-
-```{dropdown} 8.5 - Bouncing Ball
-    :class-container: sd-shadow-lg
-    :color: primary
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/YIKRXl3wH8Y" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/H7frvcAHXps" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 

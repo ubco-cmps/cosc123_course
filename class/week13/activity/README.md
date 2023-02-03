@@ -1,6 +1,6 @@
-# Lecture 13 Activity
+# Lecture 11 Activity
 
-In this lecture activity, you will be continuing to practise with object oriented programming (OOP)!
+In this lecture activity, you will be practising with object oriented programming (OOP)!
 
 - Details of [Task1.md](Task1.md).
 - Details of [Task2.md](Task2.md).
