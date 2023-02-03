@@ -200,7 +200,7 @@ parts:
 - caption: Part 3 - Object Oriented Programming
   chapters:
   - file: class/week10/week10_summary
-    title: Week 11 - Functions
+    title: Week 11 - Object Oriented Programming
     sections:
     - file: class/week11/videos
     - file: class/week11/readings
@@ -209,7 +209,7 @@ parts:
 #     - file: class/week11/learninglog
 
   - file: class/week11/week11_summary
-    title: Week 12 - Object Oriented Programming
+    title: Week 12 - Arrays I
     sections:
     - file: class/week12/videos
     - file: class/week12/readings
@@ -218,7 +218,7 @@ parts:
 #     - file: class/week12/learninglog
 
   - file: class/week13/week13_summary
-    title: Week 13 - Arrays I 
+    title: Week 13 - Arrays II 
     sections:
     - file: class/week13/videos
     - file: class/week13/readings
@@ -226,14 +226,14 @@ parts:
 #     - file: class/week13/test
 #     - file: class/week13/learninglog
 
-  - file: class/week14/week14_summary
-    title: Week 14 - Arrays II
-    sections:
-    - file: class/week14/videos
-    - file: class/week14/readings
-#     - file: class/week14/lecture
-#     - file: class/week14/test
-#     - file: class/week14/learninglog
+  # - file: class/week14/week14_summary
+  #   title: Week 14 - Extra stuff
+  #   sections:
+  #   - file: class/week14/videos
+  #   - file: class/week14/readings
+  #   - file: class/week14/lecture
+  #   - file: class/week14/test
+  #   - file: class/week14/learninglog
 
 - caption: GitHub Classroom Links
   chapters:
