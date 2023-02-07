@@ -12,6 +12,7 @@ Here is what it will cover:
 - Markdown syntax
 
 You will have approximately 50 minutes to do the Test.
+````
 
 ## Test Rules
 
@@ -33,6 +34,7 @@ Read them carefully! By clicking START you are agreeing to these conditions:
 - You will not be able to ask us questions during the quiz - do your best with your best interpretation.
 - Do NOT share test questions with anyone until the Test window is complete - that IS CHEATING.
 - Overall, do not stress! You will be fine :-)
+````
 
 ````{card} 
 

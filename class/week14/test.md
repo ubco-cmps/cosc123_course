@@ -33,10 +33,6 @@ Read them carefully! By clicking START you are agreeing to these conditions:
 ````{card} 
 
 Test this week
-
-  
-
-```{button-link} https://canvas.ubc.ca/courses/64279/quizzes
-Test 5 will be available during the weekly Test window (Thursday 6PM - Saturday 6PM) and Bonus Test 5 will available immediately after this window.
+```{button-link} https://ca.prairielearn.com/pl/course_instance/2367/
 ```
 ````

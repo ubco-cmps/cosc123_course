@@ -1,4 +1,4 @@
-# Test 02
+# Test 2
 
 ````{card}
 
@@ -12,6 +12,7 @@ Here is what it will cover:
 - You will be expected to create some simple sketches in PDE and submit code
 
 You will have approximately 50 minutes to do the Test.
+````
 
 ## Test Rules
 
