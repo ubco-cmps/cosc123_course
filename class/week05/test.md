@@ -9,9 +9,9 @@ Here is what it will cover:
 - Basics of Processing
 - Interactions
 - Variables
-- You will be expected to create some sketches in PDE and submit code
+- You will be expected to create some simple sketches in PDE and submit code
 
-You will have approximately 60 minutes to do the Test.
+You will have approximately 50 minutes to do the Test.
 
 ## Test Rules
 
@@ -19,7 +19,7 @@ Read them carefully! By clicking START you are agreeing to these conditions:
 
 - You **MUST** be physically present in class to write the Test, unless you make alternative arrangements with me at least 24 hours before on Ed Discussion.
 - Sharing the Test password with others is not permitted.
-- You will have 60 minutes to complete the test (unless you have an accommodation from the DRC).
+- You will have 50 minutes to complete the test (unless you have an accommodation from the DRC).
 - You must complete the test BY YOURSELF (no friends, no tutors, no classmates, no humans).
 - For coding questions, please type your code directly in the editor that is provided to you (do not upload your file or screenshots).
 - Any form of communication with other humans, terrestrial or extraterrestrial is not allowed (Discord, Slack, WhatsApp, Terminal, Signal, iMessage, SMS, MMS, etc...)
@@ -37,10 +37,6 @@ Read them carefully! By clicking START you are agreeing to these conditions:
 ````{card} 
 
 Test this week
-
-  
-
 ```{button-link} https://ca.prairielearn.com/pl/course_instance/2367/
-Test2 will be available during the weekly Test window (Thursday 6PM - Saturday 6PM).
 ```
 ````

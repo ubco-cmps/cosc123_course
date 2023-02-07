@@ -5,5 +5,5 @@ Any major changes to the syllabus (this page) will be documented here, as well a
 
 | Change Date    | Summary                               | Rationale                                                                                                                                                       |
 |----------------|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Feb 2, 2023 | Adjusted Schedule for Weeks 6-11 | I've decided to restructure the Arrays and Object Oriented Programming discussion and split it over longer weeks, and shrink the discussion on Variables. Also changed Test times from 60 mins to 50 mins. |
+| Feb 2, 2023 | Adjusted Schedule for Weeks 6-11 | I've decided to restructure the Arrays and Object Oriented Programming discussion and split it over longer weeks, and shrink the discussion on Variables. Also changed Test times from 50 mins to 50 mins. |
 

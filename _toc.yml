@@ -144,9 +144,8 @@ parts:
 #         - file: class/week05/lab/Task1
 #         - file: class/week05/lab/Task2
 #         - file: class/week05/lab/Task3
-#     - file: class/week05/readings
-#     - file: class/week05/test
-#     - file: class/week05/learninglog
+    - file: class/week05/test
+    - file: class/week05/learninglog
 
   - file: class/week06/week06_summary
     title: Week 6 - Conditionals
