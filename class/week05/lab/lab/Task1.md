@@ -2,9 +2,9 @@
 
 Create a program that animates the creation of shapes similar to the ones below:
 
-![](images/Q1_Ex1.gif)
-![](images/Q1_Ex2.gif)
-![](images/Q1_Ex3.gif)
+![](../../images/Q1_Ex1.gif)
+![](../../images/Q1_Ex2.gif)
+![](../../images/Q1_Ex3.gif)
 
 Use the [starter code](./q1/q1.pde) and then complete the missing code in order to create the above animations.
 The basic idea is as follows (see the diagrams below):
@@ -14,7 +14,7 @@ The basic idea is as follows (see the diagrams below):
 - Use circle equations: x = r cos(theta) and y = r sin(theta) to determine the position of the points
 - Animate the angle theta for the two points at different speeds. 
 
-<img src="images/img2.png" width="1000px">
+<img src="../images/img2.png" width="1000px">
 
 ## Specifications
 
@@ -26,4 +26,4 @@ The basic idea is as follows (see the diagrams below):
 
 ## Embed an animated gif of your drawing
 
-Embed the animated gif you created here using markdown syntax:
+Embed the animated gif you created here using markdown syntax: `![alt text of image](relative path to image)`

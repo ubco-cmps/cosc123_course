@@ -107,6 +107,7 @@ parts:
     - file: class/week04/lecture
     - file: class/week04/test
     - file: class/week04/learninglog
+    - file: class/week04/lab/README
       title: Lab and Activity 4
       sections:
         - file: class/week04/lab/activity/task1/Task1
@@ -129,21 +130,24 @@ parts:
     sections:
     - file: class/week05/videos
     - file: class/week05/readings
-#     - file: class/week05/lecture
-#     - file: class/week05/activity/README
-#       title: Activity 5
-#       sections:
-#         - file: class/week05/activity/Task1
-#         - file: class/week05/activity/Task2
-#         - file: class/week05/activity/Task3
-#         - file: class/week05/activity/Task4
-#         - file: class/week05/activity/Task5
-#     - file: class/week05/lab/README
-#       title: Lab 5
-#       sections:
-#         - file: class/week05/lab/Task1
-#         - file: class/week05/lab/Task2
-#         - file: class/week05/lab/Task3
+    - file: class/week05/lecture
+    - file: class/week05/lab/README
+      title: Lab and Activity 4
+      sections:
+        - file: class/week05/lab/activity/task1/Task1
+          title: Activity Task 1
+        - file: class/week05/lab/activity/task2/Task2
+          title: Activity Task 2
+        - file: class/week05/lab/activity/task3/Task3
+          title: Activity Task 3
+        - file: class/week05/lab/lab/task1/Task1
+          title: Lab Task 1
+        - file: class/week05/lab/lab/Task1
+          title: Lab Task 1
+        - file: class/week05/lab/lab/Task2
+          title: Lab Task 2
+        - file: class/week05/lab/lab/Task3
+          title: Lab Task 3
     - file: class/week05/test
     - file: class/week05/learninglog
 

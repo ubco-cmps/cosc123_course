@@ -2,9 +2,10 @@
 
 Write code that results in this animation
 
-![](https://people.ok.ubc.ca/abdalmoh/teaching/123/Labs/A3/Animation/Q3.gif)
+![](../../images/Q3.gif)
 
-*Follow these steps*
+*Follow these steps:*
+
 - Create a still design first. Note that you will need to transform the coordinates to properly produce the required design.
 - Identify the attributes that need to be animated. In this example, you will need to animate (1) the coordinates scale and angle, and (2) the transparency of all items.
 - Create a variable for each attribute you want to animate. In this example, you will have exactly three variables for scale, angle, and transparency.
@@ -20,4 +21,4 @@ Write code that results in this animation
 
 ## Embed an animated gif of your drawing
 
-Embed the animated gif you created here using markdown syntax:
+Embed the animated gif you created here using markdown syntax: `![alt text of image](relative path to image)`
