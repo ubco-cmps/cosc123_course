@@ -2,6 +2,12 @@
 
 Make your character fly from the bottom right corner of the screen to the top left corner as the animation advances. At the same time, make the limbs shake to give the illusion of fast flying.
 
+Hint: You will need to use the `random()` function to add the "jiggle"!
+
+Here's how it should look like:
+
+![](../images/super.gif)
+
 ## Specifications
 
 - use two variables x,y to control the location of the character. Decrement both every frame.
