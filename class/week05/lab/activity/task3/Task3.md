@@ -10,7 +10,7 @@ Steps:
  * Write the missing code as per the instructions in starter code.
  * The output should be similar to: 
  
- <img src="images/img3.png" width="250px">
+ <img src="../images/img3.png" width="250px">
 
 ## Embed a screenshot of your drawing
 

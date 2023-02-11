@@ -6,7 +6,7 @@ A) Animate the transparency of your image so that it appears as if it is fading 
 
 B) Animate the coordinates’ scale and rotation so that the image appears as if it is moving away (inwards) while rotating. 
 
-<img src="images/img2.png" width="500px">
+<img src="../images/img2.png" width="500px">
 
 ## Embed an animated gif of your drawing
 

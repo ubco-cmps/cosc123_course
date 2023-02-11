@@ -11,7 +11,7 @@ Do the following:
   * Set image opacity to 100%.
   * Draw the image again at the center but at 50% of its original size. 
 
-<img src="images/img1.png" width="250px">
+<img src="../images/img1.png" width="250px">
 
 ## Embed a screenshot of your drawing
 
