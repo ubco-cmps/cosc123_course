@@ -2,7 +2,7 @@
 
 Write code that results in this animation
 
-![](../../images/Q3.gif)
+![](../images/Q3.gif)
 
 *Follow these steps:*
 

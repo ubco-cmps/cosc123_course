@@ -2,9 +2,9 @@
 
 Create a program that animates the creation of shapes similar to the ones below:
 
-![](../../images/Q1_Ex1.gif)
-![](../../images/Q1_Ex2.gif)
-![](../../images/Q1_Ex3.gif)
+![](../images/Q1_Ex1.gif)
+![](../images/Q1_Ex2.gif)
+![](../images/Q1_Ex3.gif)
 
 Use the [starter code](./q1/q1.pde) and then complete the missing code in order to create the above animations.
 The basic idea is as follows (see the diagrams below):
