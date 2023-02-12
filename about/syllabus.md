@@ -2,9 +2,9 @@
 
 ![](../images/UBCO_CMPS_header.jpg)
 
-The official course syllabus will be available shortly.
+<!-- The official course syllabus will be available shortly. -->
 
-<!-- You can [download the official Course Syllabus here](). -->
+You can [download the official Course Syllabus here](https://github.com/ubco-cmps/cosc123_course/raw/main/files/cosc123_official_syllabus_2022WT2.pdf).
 For more details about the reason we have a Syllabus and an [Unsyllabus](unsyllabus), you can [read the explanation here](syllabus-vs-unsyllabus).
 
 <!-- 
