@@ -1,15 +1,18 @@
-# Test
+# Bonus Test 2
 
-This week will be your second test.
+````{card}
+
+This week will be your second bonus test.
 
 Here is what it will cover:
 
-- Basics of Processing (little bit of Week 02)
-- Interactions (Week 03)
-- Variables (Week 04)
-- You will be expected to create some sketches in PDE and submit code
+- Basics of Processing
+- Interactions
+- Variables
+- You will be expected to create some simple sketches in PDE and submit code
 
 You will have approximately 50 minutes to do the Test.
+````
 
 ## Test Rules
 
