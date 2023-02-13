@@ -19,7 +19,7 @@ Once the lab is ready, the link wil become active, and you will be able to accep
 | [Lab 3](week03/lab/README.md)  | Wednesday February 1, 2023 18:00    | [Accept Lab](https://classroom.github.com/a/OnTswVbE) |
 | [Lab 4](week04/lab/README.md)  | Wednesday February 8, 2023 at 18:00 | [Accept Lab](https://classroom.github.com/a/wPhh9HUJ) |
 | [Lab 5](week05/lab/README.md)  | Wednesday February 15, 2023 at 18:00| [Accept Lab](https://classroom.github.com/a/qx7YHIz-) |
-| [Lab 6](week06/lab/README.md)  | Wednesday at 18:00                  | Accept Lab[](https://classroom.github.com/a/yKRJl5gn) |
+| [Lab 6](week06/lab/README.md)  | Wednesday February 22, 2023 at 18:00| [Accept Lab](https://classroom.github.com/a/yKRJl5gn) |
 | [Lab 7](week08/lab/README.md)  | Wednesday at 18:00                  | Accept Lab[](https://classroom.github.com/a/g4W74Dab) |
 | [Lab 8](week09/lab/README.md)  | Wednesday at 18:00                  | Accept Lab[](https://classroom.github.com/a/x4t84mM5) |
 | [Lab 9](week10/lab/README.md)  | Wednesday at 18:00                  | Accept Lab[](https://classroom.github.com/a/SLZe1It0) |

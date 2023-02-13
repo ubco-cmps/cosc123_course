@@ -25,6 +25,6 @@ Note: the “Platformer Pack Medieval” has a sample image with good ideas for 
 - A player character that moves horizontally with the mouse.
 - A background image (not a plain text)
 
-## Embed a screenshot of your drawing
+## Embed an animated gif of your drawing
 
-Embed the screenshot of your drawing (not the code) here using markdown syntax:
+Embed the animated gif you created here using markdown syntax: `![alt text of image](relative path to image)`
