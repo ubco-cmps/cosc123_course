@@ -2,6 +2,8 @@
 
 ![](../images/UBCO_CMPS_header.jpg)
 
+# Course Syllabus (Official)
+
 <!-- The official course syllabus will be available shortly. -->
 
 You can [download the official Course Syllabus here](https://github.com/ubco-cmps/cosc123_course/raw/main/files/cosc123_official_syllabus_2022WT2.pdf).
