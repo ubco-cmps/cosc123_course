@@ -169,7 +169,6 @@ parts:
           title: Activity Task 4
         - file: class/week06/lab/lab/task1/Task1
           title: Lab Task 1
-        - file: class/week06/lab/lab/Task1
     - file: class/week06/test
     - file: class/week06/learninglog
 

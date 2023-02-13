@@ -1,15 +1,15 @@
-# Task 4 - The *constrain()* function
+# Task 3 - The *map()* function
 
-In this task you will work with the `constrain()` function.
+Using the map() function, draw a circle that follows the mouse cursor "to some extent"
+
+<img src="../images/Variables_map.gif" width="300px">
+
 
 ## Specifications
 
-- Repeat Task 3 but with the ball exactly following the mouse cursor as long as the mouse is within the dotted box (below).
-- The ball cannot follow the mouse outside the box.
-  * To do this, replace the map() function with a constrain() function.
-  * (you do not need to draw the dotted box)
-  
-<img src="../images/img1.png" width="250px">
+- To do this, you need to map:
+  * mouseX to from range (0 to window width) to range (25% to 75% of the width), and
+  * mouseY from range (0 to window height) to the range (25% to 75% of the height).
 
 ## Embed an animated gif of your drawing
  
