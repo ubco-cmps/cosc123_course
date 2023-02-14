@@ -156,6 +156,7 @@ parts:
     sections:
     - file: class/week06/videos
     - file: class/week06/readings
+    - file: class/week06/lecture
     - file: class/week06/lab/README
       title: Lab and Activity 6
       sections:
