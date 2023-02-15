@@ -29,6 +29,11 @@ parts:
   chapters:
   - file: tools/ed_discussion/ed_discussion
 
+- caption: Mid-course Feedback
+  chapters:
+  - url: https://ubc.ca1.qualtrics.com/jfe/form/SV_0JOiLtNFDtX4cEC
+    title: Mid-course feedback
+
 - caption: Part 1 - New Beginnings
   chapters:
   - file: class/week01/week01_summary
@@ -166,7 +171,7 @@ parts:
           title: Activity Task 2
         - file: class/week06/lab/activity/task3/Task3
           title: Activity Task 3
-        - file: class/week06/lab/activity/task3/Task4
+        - file: class/week06/lab/activity/task4/Task4
           title: Activity Task 4
         - file: class/week06/lab/lab/task1/Task1
           title: Lab Task 1
