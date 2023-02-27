@@ -1,6 +1,6 @@
 # Test
 
-This week is Test 3, and it will mostly be on the contents of Weeks 5-8, or Variables, Images, and Conditionals.
+This week is Bonus Test 3, and it will mostly be on the contents of Weeks 5-8, or Variables, Images, and Conditionals.
 You will have approximately 50 minutes to do the Test.
 
 Here are the test rules:

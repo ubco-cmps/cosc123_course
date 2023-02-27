@@ -184,19 +184,21 @@ parts:
     - file: class/week08/videos
     - file: class/week08/readings
 #     - file: class/week08/lecture
-#     - file: class/week08/activity/README
-#       title: Activity 3
-#       sections:
-#         - file: class/week08/activity/Task1
-#         - file: class/week08/activity/Task2
-#         - file: class/week08/activity/Task3
-#     - file: class/week08/lab/README
-#       title: Lab 8
-#       sections:
-#         - file: class/week08/lab/Task1
-#         - file: class/week08/lab/Task2
-#     - file: class/week08/test
-#     - file: class/week08/learninglog
+    - file: class/week08/lab/README
+      title: Lab and Activity 7
+      sections:
+        - file: class/week08/lab/activity/task1/Task1
+          title: Activity Task 1
+        - file: class/week08/lab/activity/task2/Task2
+          title: Activity Task 2
+        - file: class/week08/lab/activity/task3/Task3
+          title: Activity Task 3
+        - file: class/week08/lab/lab/task1/Task1
+          title: Lab Task 1
+        - file: class/week08/lab/lab/task2/Task2
+          title: Lab Task 2
+    - file: class/week08/test
+    - file: class/week08/learninglog
 
   - file: class/week09/week09_summary
     title: Week 9 - Functions
@@ -204,8 +206,27 @@ parts:
     - file: class/week09/videos
     - file: class/week09/readings
 #     - file: class/week09/lecture
-#     - file: class/week09/test
-#     - file: class/week09/learninglog
+    - file: class/week09/lab/README
+      title: Lab and Activity 7
+      sections:
+        - file: class/week09/lab/activity/task1/Task1
+          title: Activity Task 1
+        - file: class/week09/lab/activity/task2/Task2
+          title: Activity Task 2
+        - file: class/week09/lab/activity/task3/Task3
+          title: Activity Task 3
+        - file: class/week09/lab/activity/task4/Task4
+          title: Activity Task 4
+        - file: class/week09/lab/lab/task1/Task1
+          title: Lab Task 1
+        - file: class/week09/lab/lab/task2/Task2
+          title: Lab Task 2
+        - file: class/week09/lab/lab/task3/Task3
+          title: Lab Task 3
+        - file: class/week09/lab/lab/task3/Task4
+          title: Lab Task 4
+    - file: class/week09/test
+    - file: class/week09/learninglog
 
 - caption: Part 3 - Object Oriented Programming
   chapters:
