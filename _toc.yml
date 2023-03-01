@@ -25,14 +25,19 @@ parts:
     - file: class/setup/windows
     - file: class/setup/ubuntu
 
+- caption: GitHub Classroom Links
+  chapters:
+  - file: class/links
+    title: Lab and Activity Links
+
 - caption: Tools
   chapters:
   - file: tools/ed_discussion/ed_discussion
 
-- caption: Mid-course Feedback
-  chapters:
-  - url: https://ubc.ca1.qualtrics.com/jfe/form/SV_0JOiLtNFDtX4cEC
-    title: Mid-course feedback
+# - caption: Mid-course Feedback
+#   chapters:
+#   - url: https://ubc.ca1.qualtrics.com/jfe/form/SV_0JOiLtNFDtX4cEC
+#     title: Mid-course feedback
 
 - caption: Part 1 - New Beginnings
   chapters:
@@ -266,10 +271,6 @@ parts:
   #   - file: class/week14/test
   #   - file: class/week14/learninglog
 
-- caption: GitHub Classroom Links
-  chapters:
-  - file: class/links
-    title: Lab and Activity Links
 - caption: Course Feedback
   chapters:
   - file: about/feedback
