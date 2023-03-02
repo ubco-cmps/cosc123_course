@@ -30,13 +30,13 @@ Labs will start in the second week of the course!
 
 | Test/Bonus Test | Date                   | Time          | Duration   |
 |-----------------|------------------------|---------------|------------|
-| Test 1          | Wednesday Jan 25, 2023 | 15:30 - 16:30 | 50 minutes |
+| Test 1          | Wednesday Jan 25, 2023 | 15:35 - 16:25 | 50 minutes |
 | Bonus Test 1    | Self-Scheduled         | -             | 50 minutes |
-| Test 2          | Wednesday Feb 8, 2023  | 15:30 - 16:30 | 50 minutes |
+| Test 2          | Wednesday Feb 8, 2023  | 15:35 - 16:25 | 50 minutes |
 | Bonus Test 2    | Self-Scheduled         | -             | 50 minutes |
-| Test 3          | Wednesday Mar 1, 2023  | 15:30 - 16:30 | 50 minutes |
+| Test 3          | Wednesday Mar 1, 2023  | 15:35 - 16:25 | 50 minutes |
 | Bonus Test 3    | Self-Scheduled         | -             | 50 minutes |
-| Test 4          | Wednesday Mar 22, 2023 | 15:30 - 16:30 | 50 minutes |
+| Test 4          | Wednesday Mar 22, 2023 | 15:35 - 16:25 | 50 minutes |
 | Bonus Test 4    | Self-Scheduled         | -             | 50 minutes |
-| Test 5          | Wednesday Apr 5, 2023  | 15:30 - 16:30 | 50 minutes |
+| Test 5          | Wednesday Apr 5, 2023  | 15:35 - 16:25 | 50 minutes |
 | Bonus Test 5    | Self-Scheduled         | -             | 50 minutes |
