@@ -210,7 +210,7 @@ parts:
     sections:
     - file: class/week09/videos
     - file: class/week09/readings
-#     - file: class/week09/lecture
+    - file: class/week09/lecture
     - file: class/week09/lab/README
       title: Lab and Activity 7
       sections:
