@@ -1,11 +1,13 @@
 # Test
 
-This week is Test 4, and it will mostly be on the contents of Weeks 8-10, or Methods and Object Oriented Programming.
+This week is Test 5, and it will mostly be on the contents of Weeks 9-12.
 
 Here is what it will cover:
 
-- Methods
+- Methods and functions
 - Object Oriented Programming
+- Constructors
+- Classes
 
 You will have approximately 50 minutes to do the Test.
 

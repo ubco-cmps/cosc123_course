@@ -16,8 +16,8 @@ Once you finish the task, check off the box so you can keep track of your progre
 
 <label><input type="checkbox" id="week06_task3" class="box"> [**Attend the Lecture**](./lecture.ipynb) </input></label>
 
-<label><input type="checkbox" id="week06_task5" class="box"> [**Attend and Complete the lab**](./lab.md) </input></label>
+<label><input type="checkbox" id="week06_task5" class="box"> [**Attend and Complete the lab**](./lab/README.md) </input></label>
 
 <label><input type="checkbox" id="week06_task6" class="box"> [**Write Bonus Test 2 (50 mins)**](./test.md) </input></label>
 
-<label><input type="checkbox" id="week06_task7" class="box"> [**Complete your Learning Log assignment**](./learninglog) </input></label>
+<label><input type="checkbox" id="week06_task7" class="box"> [**Complete your Learning Log assignment**](./learninglog.md) </input></label>

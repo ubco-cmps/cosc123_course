@@ -212,7 +212,7 @@ parts:
     - file: class/week09/readings
     - file: class/week09/lecture
     - file: class/week09/lab/README
-      title: Lab and Activity 7
+      title: Lab and Activity 8
       sections:
         - file: class/week09/lab/activity/task1/Task1
           title: Activity Task 1
@@ -235,23 +235,23 @@ parts:
 
 - caption: Part 3 - Object Oriented Programming
   chapters:
-  - file: class/week10/week10_summary
+  - file: class/week11/week11_summary
     title: Week 11 - Object Oriented Programming
     sections:
     - file: class/week11/videos
     - file: class/week11/readings
-#     - file: class/week11/lecture
-#     - file: class/week11/test
-#     - file: class/week11/learninglog
+    - file: class/week11/lecture
+    - file: class/week11/test
+    - file: class/week11/learninglog
 
-  - file: class/week11/week11_summary
+  - file: class/week12/week12_summary
     title: Week 12 - Arrays I
     sections:
     - file: class/week12/videos
     - file: class/week12/readings
-#     - file: class/week12/lecture
-#     - file: class/week12/test
-#     - file: class/week12/learninglog
+    - file: class/week12/lecture
+    - file: class/week12/test
+    - file: class/week12/learninglog
 
   - file: class/week13/week13_summary
     title: Week 13 - Arrays II 
