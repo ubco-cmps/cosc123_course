@@ -241,6 +241,15 @@ parts:
     - file: class/week11/videos
     - file: class/week11/readings
     - file: class/week11/lecture
+    - file: class/week11/lab/README
+      title: Lab and Activity 9
+      sections:
+        - file: class/week11/lab/activity/task1/Task1
+          title: Activity Task 1
+        - file: class/week11/lab/activity/task2/Task2
+          title: Activity Task 2
+        - file: class/week11/lab/lab/task1/Task1
+          title: Lab Task 1
     - file: class/week11/test
     - file: class/week11/learninglog
 
@@ -250,6 +259,15 @@ parts:
     - file: class/week12/videos
     - file: class/week12/readings
     - file: class/week12/lecture
+    - file: class/week12/lab/README
+      title: Lab and Activity 10
+      sections:
+        - file: class/week12/lab/activity/task1/Task1
+          title: Activity Task 1
+        - file: class/week12/lab/activity/task2/Task2
+          title: Activity Task 2
+        - file: class/week12/lab/lab/task1/Task1
+          title: Lab Task 1
     - file: class/week12/test
     - file: class/week12/learninglog
 
@@ -258,9 +276,18 @@ parts:
     sections:
     - file: class/week13/videos
     - file: class/week13/readings
-#     - file: class/week13/lecture
-#     - file: class/week13/test
-#     - file: class/week13/learninglog
+    - file: class/week13/lecture
+    - file: class/week13/lab/README
+      title: Lab and Activity 11
+      sections:
+        - file: class/week13/lab/activity/README
+          title: Activity Task 1
+        - file: class/week13/lab/lab/task1/Task1
+          title: Lab Task 1
+        - file: class/week13/lab/lab/task2/Task2
+          title: Lab Task 2
+    - file: class/week13/test
+    - file: class/week13/learninglog
 
   # - file: class/week14/week14_summary
   #   title: Week 14 - Extra stuff
