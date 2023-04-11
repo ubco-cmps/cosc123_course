@@ -228,7 +228,7 @@ parts:
           title: Lab Task 2
         - file: class/week09/lab/lab/task3/Task3
           title: Lab Task 3
-        - file: class/week09/lab/lab/task3/Task4
+        - file: class/week09/lab/lab/task4/Task4
           title: Lab Task 4
     - file: class/week09/test
     - file: class/week09/learninglog
