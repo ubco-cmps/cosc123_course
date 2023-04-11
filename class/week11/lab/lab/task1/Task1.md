@@ -6,7 +6,7 @@ In class, we created a simple multi-scene animation where the user can go from o
 
 - The second scene (on the right figure below) should include any other complex animation you've done in the past, for example the spider web from Lab 9, or the super shape. It can also include any other complex animation if you wish (make sure it works, and you clearly indicate in the comments which animation you used).
 
-<img src="images/img1.png" width="650px">
+<img src="../images/img1.png" width="650px">
 
 ## Specifications
 
