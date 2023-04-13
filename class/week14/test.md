@@ -1,11 +1,13 @@
 # Test
 
-This week is Test 5 AND Bonus Test 5, and it will mostly be on the contents of Weeks 11-12, or Object Oriented Programming and Arrays.
+This week is Bonus Test 5, and it will mostly be on the contents of Weeks 9-12.
 
 Here is what it will cover:
 
+- Methods and functions
 - Object Oriented Programming
-- Arrays
+- Constructors
+- Classes
 
 You will have approximately 50 minutes to do the Test.
 

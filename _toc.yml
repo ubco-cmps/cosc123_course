@@ -289,14 +289,14 @@ parts:
     - file: class/week13/test
     - file: class/week13/learninglog
 
-  # - file: class/week14/week14_summary
-  #   title: Week 14 - Extra stuff
-  #   sections:
-  #   - file: class/week14/videos
-  #   - file: class/week14/readings
-  #   - file: class/week14/lecture
-  #   - file: class/week14/test
-  #   - file: class/week14/learninglog
+  - file: class/week14/week14_summary
+    title: Week 14 - Final Exam Review
+    sections:
+    # - file: class/week14/videos
+    # - file: class/week14/readings
+    - file: class/week14/lecture
+    - file: class/week14/test
+    - file: class/week14/learninglog
 
 - caption: Course Feedback
   chapters:
