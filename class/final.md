@@ -4,13 +4,11 @@ I suggest you read the instructions on this page carefully, as I don't want you 
 
 ## Logistics
 
-- The final exam will be conducted in 3 parts; you can do them in any order you like:
-    - Part 1 (10 marks) will be multiple choice questions on PrairieLearn.
-    - Part 2 (70 marks) will require you to clone a GitHub repo locally, and complete some coding tasks.
-    - Part 3 (20 marks) will be some reflection questions that you will be given in advance.
-- The final exam will be scheduled exam during the official scheduled time
-- The final exam will have a time limit of 2 hours and 30 minutes, you will be given 5 additional minutes after the exam to upload your GitHub repo on GitHub.
-- Before the final exam starts, you will be expected to join our Zoom session **AND STAY IN THE ZOOM SESSION FOR THE DURATION OF YOUR EXAM** ; after I do the introduction, you will be randomly split off into breakout rooms, where you will have an invigilator.
+- The final exam will be conducted in two parts; you can do them in any order you like:
+    - Part 1 (15 marks) will be multiple choice questions on PrairieLearn, these will be sim
+    - Part 2 (65 marks) will require you to clone a GitHub repo locally, and complete some coding tasks.
+- The final exam will be scheduled exam during the official scheduled time.
+- The final exam will have a time limit of 2 hours and 30 minutes.
 - The final exam will have the same rules as the Tests (without the test window), see below.
 - You do not need to have your cameras or microphones turned on during the invigilation session.
 
@@ -18,17 +16,24 @@ I suggest you read the instructions on this page carefully, as I don't want you 
 
 The usual "Test" rules apply to the final exam also:
 
+Read them carefully! By clicking START you are agreeing to these conditions:
+
+- You **MUST** be physically present in class to write the Test, unless you make alternative arrangements with me at least 24 hours before on Ed Discussion.
+- Sharing the Test password with others is not permitted.
+- You will have 50 minutes to complete the test (unless you have an accommodation from the DRC).
 - You must complete the test BY YOURSELF (no friends, no tutors, no classmates, no humans).
+- For coding questions, please type your code directly in the editor that is provided to you (do not upload your file or screenshots).
 - Any form of communication with other humans, terrestrial or extraterrestrial is not allowed (Discord, Slack, WhatsApp, Terminal, Signal, iMessage, SMS, MMS, etc...)
 - The test is open-book, open-notes, open-web, open-IDE (include PDE) EXCEPT websites that help you cheat such as Chegg, Course Hero, Slader and other similar websites that have tutors answering questions you upload (Stack Overflow is permissible).
-- Copying the question text and googling IS CHEATING
-- Posting the question text and asking someone to solve it for you IS CHEATING
+- The use of artificial intelligence (AI) assistance for any assessed portions of this course is not permitted.
+- Copying the question text and googling IS CHEATING.
+- Posting the question text and asking someone (including ChatGPT or other AI tools) to solve it for you IS CHEATING.
 - Using google to search for concepts is NOT cheating.
 - If you come across the same or similar question on google, resist the temptation to keep reading, and close your browser tab.
-- Generally, we will not be able to answer questions during the Final Exam (though you are welcome to ask if you suspect a typo or a problem) - do your best with your best interpretation.
-- Do NOT share Exam questions with anyone - that IS CHEATING.
+- Do not be anxious about the test! If you don’t do well - review the material and try again next week - we will take the better of the two marks!
+- You will not be able to ask us questions during the quiz - do your best with your best interpretation.
+- Do NOT share test questions with anyone until the Test window is complete - that IS CHEATING.
 - Overall, do not stress! You will be fine :-)
-
 ## Academic Integrity
 
 You will be expected to uphold the highest standard of academic integrity during your final exam for COSC 123, and all other courses as well.
